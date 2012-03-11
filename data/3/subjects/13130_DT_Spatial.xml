@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:gml="http://www.opengis.net/gml" xmlns:dc="http://purl.org/dc/elements/1.1/" UUID="13130_DT_Spatial" ownedBy="3">
+  <arch:name>
+    <arch:string>DT 0876-3</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Animal Bone</oc:name>
+    <oc:iconURI>http://www.opencontext.org/database/ui_images/med_oc_icons/animal_bone_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>15_DT_Var</arch:variableID>
+          <arch:valueID>14073alpha_DT_Val</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/15_14073alpha_DT2_VarVal">15_14073alpha_DT2_VarVal</oc:propid>
+          <oc:var_label type="alphanumeric">Bone Part</oc:var_label>
+          <oc:show_val>spine</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links/>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+        <oc:name>Turkey</oc:name>
+        <oc:id>1_Global_Spatial</oc:id>
+        <oc:level>5</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/1_DT_Spatial">
+        <oc:name>Domuztepe</oc:name>
+        <oc:id>1_DT_Spatial</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/570_DT_Spatial">
+        <oc:name>III</oc:name>
+        <oc:id>570_DT_Spatial</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Operation</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/594_DT_Spatial">
+        <oc:name>Lot 1023</oc:name>
+        <oc:id>594_DT_Spatial</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Lot</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/7972_DT_Spatial">
+        <oc:name>DT 0876</oc:name>
+        <oc:id>7972_DT_Spatial</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Domuztepe Excavations: DT 0876-3 (Animal Bone)</dc:title>
+    <dc:date>2006-03-01</dc:date>
+    <dc:coverage>Near East</dc:coverage>
+    <dc:creator>Stuart Campbell</dc:creator>
+    <dc:creator>Elizabeth Carter</dc:creator>
+    <dc:format>Text/HTML</dc:format>
+    <dc:format>.jpg</dc:format>
+    <dc:format>.gif</dc:format>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:rights>Creative Commons Attribution NonCommercial 2.5</dc:rights>
+    <dc:subject>Archaeology</dc:subject>
+    <dc:subject>Halaf</dc:subject>
+    <dc:subject>Neolithic</dc:subject>
+    <dc:subject>Near East</dc:subject>
+    <dc:subject>Excavations</dc:subject>
+    <dc:subject>Domuztepe</dc:subject>
+    <dc:subject>7th millennium</dc:subject>
+    <dc:subject>Village</dc:subject>
+    <dc:identifier>http://opencontext.org/subjects/13130_DT_Spatial</dc:identifier>
+    <oc:project_name>Domuztepe Excavations</oc:project_name>
+    <oc:primary_xsl>default/default_spatial.xsl</oc:primary_xsl>
+    <oc:pub_date>2006-03-01T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Domuztepe%20Excavations%3A%20DT%200876-3%20%28Animal%20Bone%29&amp;rft.date=2006-03-01&amp;rft.creator=Stuart%20Campbell&amp;rft.creator=Elizabeth%20Carter&amp;rft.subject=Archaeology&amp;rft.subject=Halaf&amp;rft.subject=Neolithic&amp;rft.subject=Near%20East&amp;rft.subject=Excavations&amp;rft.subject=Domuztepe&amp;rft.subject=7th%20millennium&amp;rft.subject=Village&amp;rft.format=Text%2FHTML&amp;rft.format=.jpg&amp;rft.format=.gif&amp;rft.coverage=Near%20East&amp;rft.language=eng&amp;rft.publisher=&amp;rft.source=Open%20Context&amp;rft.rights=Creative%20Commons%20Attribution%20NonCommercial%202.5&amp;rft_id=http%3A%2F%2Fwww.opencontext.org%2Fsubjects%2F13130_DT_Spatial</oc:coins>
+    <oc:no_props>Additional information from the Domuztepe project is forthcoming. </oc:no_props>
+    <oc:copyright_lic>
+      <oc:lic_name>Creative Commons Attribution-Noncommercial</oc:lic_name>
+      <oc:lic_vers>2.5</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by-nc/2.5/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by-nc/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+    <oc:geo_reference>
+      <oc:geo_lat>37.33</oc:geo_lat>
+      <oc:geo_long>37.044</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/1_DT_Spatial">
+        <oc:source_name>Domuztepe</oc:source_name>
+        <oc:source_id>1_DT_Spatial</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2008-10-31T21:54:47Z</oc:last_updated>
+    <oc:item_views>
+      <oc:count>10</oc:count>
+      <oc:view_time>August 1, 2008, 1:10PM</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(6,500 BCE - 5,500 BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-6500</oc:time_start>
+          <oc:time_finish>-5500</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/1_DT_Spatial">
+            <oc:source_name>Domuztepe</oc:source_name>
+            <oc:source_id>1_DT_Spatial</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2008-08-11T21:45:49Z</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

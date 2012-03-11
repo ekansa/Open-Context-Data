@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:gml="http://www.opengis.net/gml" xmlns:dc="http://purl.org/dc/elements/1.1/" UUID="21834_DT_Spatial" ownedBy="3">
+  <arch:name>
+    <arch:string>2687.flta</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Human Bone</oc:name>
+    <oc:iconURI>http://www.opencontext.org/database/ui_images/med_oc_icons/human_bones_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_38_dbf6aa5d8</oc:source>
+        <oc:name>Primary Human Bone Description</oc:name>
+        <oc:type>Primary</oc:type>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>7_DT_Var</arch:variableID>
+          <arch:valueID>4845C506-4284-4CCD-2DDC-FAA11BD97615</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/9C292B30-49B5-4EE2-6313-69266DAB9BC9">9C292B30-49B5-4EE2-6313-69266DAB9BC9</oc:propid>
+          <oc:var_label type="nominal">Phase</oc:var_label>
+          <oc:show_val>5A</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B1BB9E0B-B9B8-46B9-63F6-7E851D4F6E75</arch:variableID>
+          <arch:valueID>10797alpha_DT_Val</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/22480E21-AEF4-44BE-2587-6687CB4032D4">22480E21-AEF4-44BE-2587-6687CB4032D4</oc:propid>
+          <oc:var_label type="nominal">Side</oc:var_label>
+          <oc:show_val>left</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>35_DT_Var</arch:variableID>
+          <arch:valueID>7816DE0F-8EA7-428A-6159-B7789383D26D</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/B8DD084A-6438-4107-C9EB-E41C15902CD4">B8DD084A-6438-4107-C9EB-E41C15902CD4</oc:propid>
+          <oc:var_label type="nominal">Sex</oc:var_label>
+          <oc:show_val>sex could not be determined</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>143_DT_Var</arch:variableID>
+          <arch:valueID>02B7A8B2-7386-461A-E6A8-D0A578C48CAE</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/D197A559-A45C-4FC0-95A7-4F222C9E9F9D">D197A559-A45C-4FC0-95A7-4F222C9E9F9D</oc:propid>
+          <oc:var_label type="nominal">Peeling</oc:var_label>
+          <oc:show_val>absent</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>2765A43A-17E0-4549-32A2-F3EA65F6E58D</arch:variableID>
+          <arch:decimal>1999</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/F91FF6C6-0794-4A48-E341-83EB0A6B685C">F91FF6C6-0794-4A48-E341-83EB0A6B685C</oc:propid>
+          <oc:var_label type="decimal">Recovery Year</oc:var_label>
+          <oc:show_val>1999</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D5AA953F-E337-4EEB-CF1E-C71AB1396A48</arch:variableID>
+          <arch:valueID>F748B4DD-0D72-4397-B4DB-894FD3508BF5</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/C706206E-5616-4F0F-8B11-23C00E711665">C706206E-5616-4F0F-8B11-23C00E711665</oc:propid>
+          <oc:var_label type="nominal">Context</oc:var_label>
+          <oc:show_val>Death Pit</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>65D3313F-2178-4671-225E-B47F2A8E0467</arch:variableID>
+          <arch:valueID>A2AE3C54-6719-4BFF-F220-E437829F125F</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/E8ADADB3-F1CD-4143-C2CC-76555D98E6D4">E8ADADB3-F1CD-4143-C2CC-76555D98E6D4</oc:propid>
+          <oc:var_label type="nominal">Body Section 1</oc:var_label>
+          <oc:show_val>limb</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>AB447A87-F712-49D6-30B7-C8EF0DE5D6B4</arch:variableID>
+          <arch:valueID>590B0C5B-A2B6-45BD-C6DE-986987E89FA4</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/FD4C983C-8176-469C-C27D-1A405D260BF1">FD4C983C-8176-469C-C27D-1A405D260BF1</oc:propid>
+          <oc:var_label type="nominal">Body Section 2</oc:var_label>
+          <oc:show_val>hindlimb</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>28F7C0DD-4060-404F-FD49-3D86F633393A</arch:variableID>
+          <arch:valueID>105_DT_Value</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/41CE7717-C942-4FFF-56D3-337AE1575659">41CE7717-C942-4FFF-56D3-337AE1575659</oc:propid>
+          <oc:var_label type="nominal">Skeletal Element</oc:var_label>
+          <oc:show_val>fibula</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>846830BD-49A6-4E03-6AD6-CF8C1D8B28AB</arch:variableID>
+          <arch:valueID>2CCA2021-0CD7-43E5-C212-220538D1ABF0</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/810E5B3F-D01E-461D-78B0-93D5422E40C2">810E5B3F-D01E-461D-78B0-93D5422E40C2</oc:propid>
+          <oc:var_label type="nominal">Age Category</oc:var_label>
+          <oc:show_val>adolescent or adult of indeterminate age</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B54D8898-26B3-4C9C-8D4C-8937896CA943</arch:variableID>
+          <arch:integer href="http://www.freebase.com/view/en/counting_measure" name="counting measure" abrv="count">1</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/FCA3CAD3-DB84-4B2A-DA7D-3F659A11DE41">FCA3CAD3-DB84-4B2A-DA7D-3F659A11DE41</oc:propid>
+          <oc:var_label type="integer">NISP</oc:var_label>
+          <oc:show_val>1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8482FDEB-3803-4DF9-DBBF-F898D345BF26</arch:variableID>
+          <arch:valueID>CC67C39A-1371-4020-11F5-5C40F24381D9</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/85A9C100-70BC-4C1C-913B-7DD3FF476115">85A9C100-70BC-4C1C-913B-7DD3FF476115</oc:propid>
+          <oc:var_label type="nominal">Element Size</oc:var_label>
+          <oc:show_val>less than 25% of a complete element present</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>83831E95-10A1-491E-5A11-82E853B2F09C</arch:variableID>
+          <arch:valueID>02B7A8B2-7386-461A-E6A8-D0A578C48CAE</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/491CAE5C-6F13-4623-7CF6-52350C374C4E">491CAE5C-6F13-4623-7CF6-52350C374C4E</oc:propid>
+          <oc:var_label type="nominal">Rep. Proximal Epiphysis (Long Bones)</oc:var_label>
+          <oc:show_val>absent</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>83136F20-2B72-4D36-3979-A82518CFF8C5</arch:variableID>
+          <arch:valueID>2CE9B584-F6C0-4B89-135C-7C450F8C6DFC</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/7653CC6F-A2EF-4092-3D8A-763FBEC4BB48">7653CC6F-A2EF-4092-3D8A-763FBEC4BB48</oc:propid>
+          <oc:var_label type="nominal">Rep. Proximal Metaphysis (Long Bones)</oc:var_label>
+          <oc:show_val>present</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8B6DCFA1-80B6-46F2-72F9-E9FD455805B0</arch:variableID>
+          <arch:valueID>2CE9B584-F6C0-4B89-135C-7C450F8C6DFC</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/AEDA4634-CAB6-4584-6EEB-10983F333DC9">AEDA4634-CAB6-4584-6EEB-10983F333DC9</oc:propid>
+          <oc:var_label type="nominal">Rep. Shaft (Long Bones)</oc:var_label>
+          <oc:show_val>present</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>1853D01E-DD3C-4B8C-F5CA-DAEBF478822D</arch:variableID>
+          <arch:valueID>02B7A8B2-7386-461A-E6A8-D0A578C48CAE</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/0DBCDC26-B8EC-4C5E-E8D6-1F4E12AC2453">0DBCDC26-B8EC-4C5E-E8D6-1F4E12AC2453</oc:propid>
+          <oc:var_label type="nominal">Rep. Distal Metaphysis (Long Bones)</oc:var_label>
+          <oc:show_val>absent</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>01AB18C4-E086-4E13-7498-3749B25914D8</arch:variableID>
+          <arch:valueID>02B7A8B2-7386-461A-E6A8-D0A578C48CAE</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/7C35D9F7-B435-42AC-48C7-870DB9236041">7C35D9F7-B435-42AC-48C7-870DB9236041</oc:propid>
+          <oc:var_label type="nominal">Rep. Distal Epiphysis (Long Bones)</oc:var_label>
+          <oc:show_val>absent</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C12C9AC0-9B42-44C0-5136-366945656CF0</arch:variableID>
+          <arch:valueID>D18408C1-EF31-44E5-E953-6494EB84AF49</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/EA30F0DE-20EF-40EF-A9DB-F4CD235AC1EF">EA30F0DE-20EF-40EF-A9DB-F4CD235AC1EF</oc:propid>
+          <oc:var_label type="nominal">Shaft Circumference (Long Bones)</oc:var_label>
+          <oc:show_val>complete</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>1A7B3341-1A98-44BA-E558-51DA63BC03CF</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">77</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/4E702399-8A96-4EFA-F109-671D2E84CC05">4E702399-8A96-4EFA-F109-671D2E84CC05</oc:propid>
+          <oc:var_label type="decimal">Specimen Length (Long Bones) (mm)</oc:var_label>
+          <oc:show_val>77</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7829D77B-1597-4B12-2379-67105B03FA2C</arch:variableID>
+          <arch:valueID>E2D0B510-5628-44EB-F006-CC7BA595ACDC</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/B9BC01FA-E2F8-45B9-1638-83D3C3EFB58F">B9BC01FA-E2F8-45B9-1638-83D3C3EFB58F</oc:propid>
+          <oc:var_label type="alphanumeric">#ancient,  #modern Fracture Edges (Long Bones) </oc:var_label>
+          <oc:show_val>2 ,  2</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>64A04567-6E47-4132-BA50-DD5277340CC7</arch:variableID>
+          <arch:valueID>5A634701-213C-470B-5A15-95072D47DC78</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/62AA800C-7E42-419C-4626-127C81BD49C7">62AA800C-7E42-419C-4626-127C81BD49C7</oc:propid>
+          <oc:var_label type="nominal">Surface Exposure/ Readability</oc:var_label>
+          <oc:show_val>50-75%</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>82F44AB2-7565-49B7-E15D-D7F699EABD79</arch:variableID>
+          <arch:valueID>1B774915-324E-4AFD-EEDB-5040622D8FFE</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/FA0118EA-5F0C-47FC-2DE7-77F4A3F24EE1">FA0118EA-5F0C-47FC-2DE7-77F4A3F24EE1</oc:propid>
+          <oc:var_label type="nominal">Matrix Adhesion</oc:var_label>
+          <oc:show_val>generalized (over entire surface)</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>AC9C2D22-B7C1-4D13-63B6-D9D4C340EC72</arch:variableID>
+          <arch:valueID>444660C7-479D-4214-4D02-0AA81B8AAF40</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/04CA33C6-4E70-4E8B-B2FF-3E7A62908F0A">04CA33C6-4E70-4E8B-B2FF-3E7A62908F0A</oc:propid>
+          <oc:var_label type="nominal">Surface Degradation Stage</oc:var_label>
+          <oc:show_val>No evidence of bone surface degradation due to weathering or thermal exposure</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>EEC89C8D-42BE-4E6F-66D9-B5457DFCC769</arch:variableID>
+          <arch:valueID>9709BB4D-4B20-4225-CFC0-1575CA9E4E0F</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/1819ED05-1852-4A26-2088-D707013FF882">1819ED05-1852-4A26-2088-D707013FF882</oc:propid>
+          <oc:var_label type="nominal"> Surface Degradation Type</oc:var_label>
+          <oc:show_val>Absent</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>194B40F6-17B0-4185-F113-F55E773093EE</arch:variableID>
+          <arch:valueID>3070F877-EFDF-44CD-F019-9E60921A2DCB</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/E079264E-EDC1-4C86-1838-CEE20AEC9B53">E079264E-EDC1-4C86-1838-CEE20AEC9B53</oc:propid>
+          <oc:var_label type="nominal">Surface Degradation Extent</oc:var_label>
+          <oc:show_val>not available/not applicable</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>86ABB478-B1F6-408F-8C98-4AD8D48F5AA1</arch:variableID>
+          <arch:valueID>3070F877-EFDF-44CD-F019-9E60921A2DCB</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/5E4C8586-1492-4F15-DDA0-2EF2B0391F3A">5E4C8586-1492-4F15-DDA0-2EF2B0391F3A</oc:propid>
+          <oc:var_label type="nominal">Degredation Association W/ Thermal Exposure</oc:var_label>
+          <oc:show_val>not available/not applicable</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B9162257-715C-4CF2-3E26-2C14E2869C2A</arch:variableID>
+          <arch:valueID>3070F877-EFDF-44CD-F019-9E60921A2DCB</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/5935521D-0FC1-4E54-58E0-18EA399B42F9">5935521D-0FC1-4E54-58E0-18EA399B42F9</oc:propid>
+          <oc:var_label type="nominal">Epiphysis Corttical Color</oc:var_label>
+          <oc:show_val>not available/not applicable</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>CEE633D5-B452-41DE-E73D-72DBD6FCEDFC</arch:variableID>
+          <arch:valueID>3070F877-EFDF-44CD-F019-9E60921A2DCB</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/879E0E7F-5679-4311-5C93-26988DE8EA92">879E0E7F-5679-4311-5C93-26988DE8EA92</oc:propid>
+          <oc:var_label type="nominal">Epiphysis Cancellous Color</oc:var_label>
+          <oc:show_val>not available/not applicable</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>483CC1C4-D9AD-4D11-7747-2A3E950B9535</arch:variableID>
+          <arch:valueID>88A8FA20-17EE-4B65-C80D-58FFBF9B9069</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/21E5C042-C5B6-47DD-F182-9C45CBFB734B">21E5C042-C5B6-47DD-F182-9C45CBFB734B</oc:propid>
+          <oc:var_label type="nominal">Metaphysis Cortical Color</oc:var_label>
+          <oc:show_val>Mottled medium red brown;  Localized</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>312B2001-C032-4FB2-7D34-95A6ABEDCC9C</arch:variableID>
+          <arch:valueID>3070F877-EFDF-44CD-F019-9E60921A2DCB</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/9E412892-4EF6-4AD5-DB33-2977BBE945DD">9E412892-4EF6-4AD5-DB33-2977BBE945DD</oc:propid>
+          <oc:var_label type="nominal">Metaphysis Fracture Edge Color</oc:var_label>
+          <oc:show_val>not available/not applicable</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7B435350-7292-4479-17C1-FEF457474BE6</arch:variableID>
+          <arch:valueID>3070F877-EFDF-44CD-F019-9E60921A2DCB</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/0D0988EB-57D6-4DDD-C6D9-EAA41132C381">0D0988EB-57D6-4DDD-C6D9-EAA41132C381</oc:propid>
+          <oc:var_label type="nominal">Metaphysis Medullary Color</oc:var_label>
+          <oc:show_val>not available/not applicable</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>2016EC28-E52D-4B43-F4EA-AA0B838134A7</arch:variableID>
+          <arch:valueID>4DF82302-22D1-46C2-77DE-7EDCB13EDD81</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/5F82CC4D-68D4-4AA1-CCC3-2413134DC8B5">5F82CC4D-68D4-4AA1-CCC3-2413134DC8B5</oc:propid>
+          <oc:var_label type="nominal">Shaft Cortical Color</oc:var_label>
+          <oc:show_val>Light red brown;  Localized</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>1EE4E56D-1071-4901-1427-D70735A8564A</arch:variableID>
+          <arch:valueID>1CA3641E-C5F2-4A72-4FA2-B5370C1437FE</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/C1A09479-E898-4857-6B7C-73DD21DB2F61">C1A09479-E898-4857-6B7C-73DD21DB2F61</oc:propid>
+          <oc:var_label type="nominal">Shaft Fracture Edge Color</oc:var_label>
+          <oc:show_val>could not be determined</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>59458385-56AC-4C09-7BB1-87053723C649</arch:variableID>
+          <arch:valueID>1CA3641E-C5F2-4A72-4FA2-B5370C1437FE</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/29C62490-A84A-4668-9C93-AB192D8234A7">29C62490-A84A-4668-9C93-AB192D8234A7</oc:propid>
+          <oc:var_label type="nominal">Shaft Medullary Color</oc:var_label>
+          <oc:show_val>could not be determined</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>2460D1E6-D91E-4449-2084-7B4963FD23CC</arch:variableID>
+          <arch:valueID>02B7A8B2-7386-461A-E6A8-D0A578C48CAE</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/05C4AE66-D9EB-451E-0C48-E16D43F432A8">05C4AE66-D9EB-451E-0C48-E16D43F432A8</oc:propid>
+          <oc:var_label type="nominal">End Polish</oc:var_label>
+          <oc:show_val>absent</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>FA2475FB-5C2B-4598-76DE-56098A5F066D</arch:variableID>
+          <arch:valueID>02B7A8B2-7386-461A-E6A8-D0A578C48CAE</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/8130F138-FA0E-4C81-18E5-65E8C09423D0">8130F138-FA0E-4C81-18E5-65E8C09423D0</oc:propid>
+          <oc:var_label type="nominal"> Non End Polish</oc:var_label>
+          <oc:show_val>absent</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>413802AA-68DC-4F35-C6B5-9188A0C25F08</arch:variableID>
+          <arch:valueID>02B7A8B2-7386-461A-E6A8-D0A578C48CAE</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/8140B9BE-2BDA-4D48-B029-046B3BA98CFA">8140B9BE-2BDA-4D48-B029-046B3BA98CFA</oc:propid>
+          <oc:var_label type="nominal">Tooth Mark Type: Location</oc:var_label>
+          <oc:show_val>absent</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="resource" info="Standard">D5C21D60-F93A-448B-E29E-07C2D6F68922</arch:docID>
+        <arch:docID type="person" info="Principle Author / Analyst">642_DT_Person</arch:docID>
+        <oc:media_links>
+          <oc:link href="http://opencontext.org/media/D5C21D60-F93A-448B-E29E-07C2D6F68922">
+            <oc:name>Human Bone Death Pit Coding Methods</oc:name>
+            <oc:id>D5C21D60-F93A-448B-E29E-07C2D6F68922</oc:id>
+            <oc:relation>Standard</oc:relation>
+            <oc:type>acrobat pdf</oc:type>
+            <oc:path/>
+            <oc:filename/>
+            <oc:thumbnailURI>http://www.opencontext.org/database/ui_images/oc_icons/sm_document_icon.jpg</oc:thumbnailURI>
+          </oc:link>
+        </oc:media_links>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/642_DT_Person" cite="contributor">
+            <oc:name>Suellen Gauld</oc:name>
+            <oc:id>642_DT_Person</oc:id>
+            <oc:relation>Principle Author / Analyst</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string>Human bone specimen have identifiers of a sequence of 2-3 numbers separated by periods (Lot #.Specimen #.Further identifier. Note 1: specimen numbers starting with -0- are lab generated numbers for specimens collected in large bone bags; the number of additional specimen identifiers is related to number of specimens in recovery bags </arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+    <arch:observation obsNumber="2">
+      <oc:obs_metadata>
+        <oc:source>z_38_b2808e058</oc:source>
+        <oc:name>Damage/Modification</oc:name>
+        <oc:type>Primary</oc:type>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>38_DT_Var</arch:variableID>
+          <arch:valueID>3070F877-EFDF-44CD-F019-9E60921A2DCB</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/A8D6AEEB-C0E6-4AA7-AA79-2472B5E92BFE">A8D6AEEB-C0E6-4AA7-AA79-2472B5E92BFE</oc:propid>
+          <oc:var_label type="nominal">Cutmark Location</oc:var_label>
+          <oc:show_val>not available/not applicable</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>2DCE847F-3E40-47AA-AF76-1D9D249C55D6</arch:variableID>
+          <arch:integer>0</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/7A6B593F-1C3C-4860-13F5-18F24C3E7865">7A6B593F-1C3C-4860-13F5-18F24C3E7865</oc:propid>
+          <oc:var_label type="integer">Cutmark #</oc:var_label>
+          <oc:show_val>0</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>CD1E11E4-D2A5-4E04-DD83-E7659BE79BC7</arch:variableID>
+          <arch:valueID>02B7A8B2-7386-461A-E6A8-D0A578C48CAE</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/D3F43B23-BAAB-429F-3B7A-9906582DB795">D3F43B23-BAAB-429F-3B7A-9906582DB795</oc:propid>
+          <oc:var_label type="nominal">Cutmark Type</oc:var_label>
+          <oc:show_val>absent</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Principle Author / Analyst">642_DT_Person</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/642_DT_Person" cite="contributor">
+            <oc:name>Suellen Gauld</oc:name>
+            <oc:id>642_DT_Person</oc:id>
+            <oc:relation>Principle Author / Analyst</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+    </arch:observation>
+    <arch:observation obsNumber="100">
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>125_DT_Var</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/counting_measure" name="counting measure" abrv="count">1</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/125_1_DT2_VarVal">125_1_DT2_VarVal</oc:propid>
+          <oc:var_label type="decimal">NISP (human)</oc:var_label>
+          <oc:show_val>1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>11_DT_Var</arch:variableID>
+          <arch:valueID>70_DT_Value</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/11_70_DT_VarVal">11_70_DT_VarVal</oc:propid>
+          <oc:var_label type="nominal">Taxon</oc:var_label>
+          <oc:show_val>Homo sapiens</oc:show_val>
+        <oc:linkedData><oc:relationLink localType="variable" localID="11_DT_Var" href="http://purl.org/NET/biol/ns#term_hasTaxonomy"><oc:vocabulary href="http://purl.org/NET/biol/ns#">Biological Taxonomy Vocabulary</oc:vocabulary><oc:label>Has Biological Taxonomy</oc:label><oc:targetLink localType="property" localID="11_70_DT_VarVal" localURI="http://opencontext.org/properties/11_70_DT_VarVal" href="http://eol.org/pages/327955"><oc:vocabulary href="http://eol.org/">Encyclopedia of Life</oc:vocabulary><oc:label>Homo sapiens Linnaeus, 1758</oc:label></oc:targetLink></oc:relationLink></oc:linkedData></arch:property>
+        <arch:property>
+          <arch:variableID>132_DT_Var</arch:variableID>
+          <arch:valueID/>
+          <oc:propid href="http://opencontext.org/properties/132_507_DT_VarVal">132_507_DT_VarVal</oc:propid>
+          <oc:var_label type="ordinal">Shaft circumference</oc:var_label>
+          <oc:show_val/>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>116_DT_Var</arch:variableID>
+          <arch:valueID>105_DT_Value</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/116_105_DT_VarVal">116_105_DT_VarVal</oc:propid>
+          <oc:var_label type="nominal">Element 1 (human)</oc:var_label>
+          <oc:show_val>fibula</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>133_DT_Var</arch:variableID>
+          <arch:valueID/>
+          <oc:propid href="http://opencontext.org/properties/133_505_DT_VarVal">133_505_DT_VarVal</oc:propid>
+          <oc:var_label type="ordinal">Fragment Size</oc:var_label>
+          <oc:show_val/>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>120_DT_Var</arch:variableID>
+          <arch:valueID>428_DT_Value</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/120_428_DT_VarVal">120_428_DT_VarVal</oc:propid>
+          <oc:var_label type="nominal">Sex (human)</oc:var_label>
+          <oc:show_val>NA</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>114_DT_Var</arch:variableID>
+          <arch:valueID>21087alpha_DT_Val</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/114_21087alpha_DT2_VarVal">114_21087alpha_DT2_VarVal</oc:propid>
+          <oc:var_label type="alphanumeric">Human Bone ID</oc:var_label>
+          <oc:show_val>2687/flta</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>134_DT_Var</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">77</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/134_77_DT2_VarVal">134_77_DT2_VarVal</oc:propid>
+          <oc:var_label type="decimal">Fragment Length (mm)</oc:var_label>
+          <oc:show_val>77</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>122_DT_Var</arch:variableID>
+          <arch:valueID>428_DT_Value</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/122_428_DT_VarVal">122_428_DT_VarVal</oc:propid>
+          <oc:var_label type="nominal">Age Category (human)</oc:var_label>
+          <oc:show_val>NA</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>131_DT_Var</arch:variableID>
+          <arch:valueID/>
+          <oc:propid href="http://opencontext.org/properties/131_208_DT_VarVal">131_208_DT_VarVal</oc:propid>
+          <oc:var_label type="nominal">Element Portion</oc:var_label>
+          <oc:show_val/>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>115_DT_Var</arch:variableID>
+          <arch:valueID>AC9725D5-E2E3-427B-80D6-D27D556A60A9</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/115_528_DT_VarVal">115_528_DT_VarVal</oc:propid>
+          <oc:var_label type="nominal">Side (human)</oc:var_label>
+          <oc:show_val>r</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Observer">642_DT_Person</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/642_DT_Person" cite="contributor">
+            <oc:name>Suellen Gauld</oc:name>
+            <oc:id>642_DT_Person</oc:id>
+            <oc:relation>Observer</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+        <oc:name>Turkey</oc:name>
+        <oc:id>1_Global_Spatial</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/1_DT_Spatial">
+        <oc:name>Domuztepe</oc:name>
+        <oc:id>1_DT_Spatial</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/127_DT_Spatial">
+        <oc:name>I</oc:name>
+        <oc:id>127_DT_Spatial</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Operation</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/1360_DT_Spatial">
+        <oc:name>Lot 2687</oc:name>
+        <oc:id>1360_DT_Spatial</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Lot</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Domuztepe Excavations: 2687.flta ()</dc:title>
+    <dc:date>2010-07-31</dc:date>
+    <dc:coverage>Near East</dc:coverage>
+    <dc:creator>Stuart Campbell</dc:creator>
+    <dc:creator>Elizabeth Carter</dc:creator>
+    <dc:date>2006-03-01</dc:date>
+    <dc:format>Text/HTML</dc:format>
+    <dc:format>.jpg</dc:format>
+    <dc:format>.gif</dc:format>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:rights>Creative Commons Attribution NonCommercial 2.5</dc:rights>
+    <dc:subject>Neolithic</dc:subject>
+    <dc:subject>Near East</dc:subject>
+    <dc:subject>Halaf</dc:subject>
+    <dc:subject>Excavations</dc:subject>
+    <dc:subject>Domuztepe</dc:subject>
+    <dc:subject>Archaeology</dc:subject>
+    <dc:subject>7th millennium</dc:subject>
+    <dc:subject>Village</dc:subject>
+    <dc:title>Domuztepe Excavations: (Overview)</dc:title>
+    <dc:contributor>Suellen Gauld</dc:contributor>
+    <dc:identifier>http://opencontext.org/subjects/21834_DT_Spatial</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/3">Domuztepe Excavations</oc:project_name>
+    <oc:primary_xsl>default/</oc:primary_xsl>
+    <oc:sourceID>public site</oc:sourceID>
+    <oc:pub_date>2010-07-31T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Domuztepe%20Excavations%3A%202687.flta%20%28%29&amp;rft.date=2010-07-31&amp;rft.contributor=Suellen%20Gauld&amp;rft_id=http%3A%2F%2Fopencontext.org%2Fsubjects%2F21834_DT_Spatial</oc:coins>
+    <oc:no_props>No properties</oc:no_props>
+    <oc:copyright_lic>
+      <oc:lic_name>Creative Commons Attribution</oc:lic_name>
+      <oc:lic_vers>3.0</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+    <oc:geo_reference>
+      <oc:geo_lat>37.33</oc:geo_lat>
+      <oc:geo_long>37.044</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/1_DT_Spatial">
+        <oc:source_name>Domuztepe</oc:source_name>
+        <oc:source_id>1_DT_Spatial</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2010-07-31T22:19:36Z</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2010/07/31 22:19:35</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(6,500 BCE - 5,500 BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-6500</oc:time_start>
+          <oc:time_finish>-5500</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/1_DT_Spatial">
+            <oc:source_name>Domuztepe</oc:source_name>
+            <oc:source_id>1_DT_Spatial</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2008-08-11T21:45:26Z</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

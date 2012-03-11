@@ -1,0 +1,806 @@
+<?xml version="1.0"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:gml="http://www.opengis.net/gml" xmlns:dc="http://purl.org/dc/elements/1.1/" UUID="C660801C-A1FF-466D-392B-C7A2FA58A012" ownedBy="3FAAA477-5572-4B05-8DC1-CA264FE1FC10">
+  <arch:name>
+    <arch:string>Unit 4</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Context</oc:name>
+    <oc:iconURI>http://www.opencontext.org/database/ui_images/med_oc_icons/building_space_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <arch:links>
+        <arch:docID type="person" info="Curator ">D2F0FA7B-895E-4444-2FC2-B63E85D36538</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/D2F0FA7B-895E-4444-2FC2-B63E85D36538" cite="false">
+            <oc:name>Kelly Higelmire</oc:name>
+            <oc:id>D2F0FA7B-895E-4444-2FC2-B63E85D36538</oc:id>
+            <oc:relation>Curator </oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string>Context identifier and field recovery method (i.e. surface collection, Feature, Unit)</arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/4_global_USA">
+        <oc:name>United States</oc:name>
+        <oc:id>4_global_USA</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/8_global_Cal">
+        <oc:name>California</oc:name>
+        <oc:id>8_global_Cal</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/D16E4F19-6C6D-44DC-10CA-8AB36E674ABA">
+        <oc:name>SDI-15037</oc:name>
+        <oc:id>D16E4F19-6C6D-44DC-10CA-8AB36E674ABA</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/3238D502-663E-4843-82C9-0ED92C867492">
+        <oc:name>SDAC 52</oc:name>
+        <oc:id>3238D502-663E-4843-82C9-0ED92C867492</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Reference Collection</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/collection_trays_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/380CFFF6-F21D-4AE5-1D5A-13C67C5D9BB7">
+        <oc:name>CAT # 565.1</oc:name>
+        <oc:id>380CFFF6-F21D-4AE5-1D5A-13C67C5D9BB7</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D7656BB2-E0C8-4ABB-1CF0-B9466338ABDC">
+        <oc:name>CAT # 565.2</oc:name>
+        <oc:id>D7656BB2-E0C8-4ABB-1CF0-B9466338ABDC</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C757D0BC-B904-4FCA-01DC-977190875323">
+        <oc:name>CAT # 565.3</oc:name>
+        <oc:id>C757D0BC-B904-4FCA-01DC-977190875323</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/829D4330-EDEC-4104-9E41-EDEB691F1136">
+        <oc:name>CAT # 565.4</oc:name>
+        <oc:id>829D4330-EDEC-4104-9E41-EDEB691F1136</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2B5528B7-418C-4C3A-F682-B40C0F9BF877">
+        <oc:name>CAT # 565.5</oc:name>
+        <oc:id>2B5528B7-418C-4C3A-F682-B40C0F9BF877</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/8E03AE00-00F8-4BF9-4C95-078172EF011A">
+        <oc:name>CAT # 565.6</oc:name>
+        <oc:id>8E03AE00-00F8-4BF9-4C95-078172EF011A</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/967D275B-82B8-4BD0-3B14-0EA7BC231A58">
+        <oc:name>CAT # 566.1</oc:name>
+        <oc:id>967D275B-82B8-4BD0-3B14-0EA7BC231A58</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/29B0E78B-2C16-4BD1-DB6F-971388126A37">
+        <oc:name>CAT # 566.2</oc:name>
+        <oc:id>29B0E78B-2C16-4BD1-DB6F-971388126A37</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/97EF7A51-6E2C-4337-F039-1BC4CC877ACD">
+        <oc:name>CAT # 566.3</oc:name>
+        <oc:id>97EF7A51-6E2C-4337-F039-1BC4CC877ACD</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/AFB4DE5B-AA42-4EBF-F52E-FD7D27B394AB">
+        <oc:name>CAT # 566.4</oc:name>
+        <oc:id>AFB4DE5B-AA42-4EBF-F52E-FD7D27B394AB</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A61CE504-ABFE-40F6-4149-3200A8AA9813">
+        <oc:name>CAT # 566.5</oc:name>
+        <oc:id>A61CE504-ABFE-40F6-4149-3200A8AA9813</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5CB673A8-9A28-493D-6A98-3956D837ECE7">
+        <oc:name>CAT # 566.6</oc:name>
+        <oc:id>5CB673A8-9A28-493D-6A98-3956D837ECE7</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4150FB56-3694-47D3-521F-4FBD0F98D6F8">
+        <oc:name>CAT # 568</oc:name>
+        <oc:id>4150FB56-3694-47D3-521F-4FBD0F98D6F8</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/71BAB8D9-3117-43BC-E28D-9982E515D9D9">
+        <oc:name>CAT # 569.1</oc:name>
+        <oc:id>71BAB8D9-3117-43BC-E28D-9982E515D9D9</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/50127FB3-5130-4C1C-34E3-ED38E5A52A75">
+        <oc:name>CAT # 569.2</oc:name>
+        <oc:id>50127FB3-5130-4C1C-34E3-ED38E5A52A75</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E05FFB9C-C6E2-46A6-ECBE-FB83FECDC87B">
+        <oc:name>CAT # 570.1</oc:name>
+        <oc:id>E05FFB9C-C6E2-46A6-ECBE-FB83FECDC87B</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/DC906044-29D3-4C29-DE40-253575AD6BCF">
+        <oc:name>CAT # 570.2</oc:name>
+        <oc:id>DC906044-29D3-4C29-DE40-253575AD6BCF</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6246676F-C0F5-4F4E-CC2E-978A5653399A">
+        <oc:name>CAT # 570.3</oc:name>
+        <oc:id>6246676F-C0F5-4F4E-CC2E-978A5653399A</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/50FB27C3-62D4-40C1-1338-DCBF59587D9F">
+        <oc:name>CAT # 570.4</oc:name>
+        <oc:id>50FB27C3-62D4-40C1-1338-DCBF59587D9F</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/CCD574D0-A187-465F-D17B-B722CECB292B">
+        <oc:name>CAT # 570.5</oc:name>
+        <oc:id>CCD574D0-A187-465F-D17B-B722CECB292B</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B5D40AC2-0C36-431D-A12B-24F013F23815">
+        <oc:name>CAT # 570.6</oc:name>
+        <oc:id>B5D40AC2-0C36-431D-A12B-24F013F23815</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6B87F0FE-6F10-4D1F-2F66-31E8FDA9DA6A">
+        <oc:name>CAT # 571.1</oc:name>
+        <oc:id>6B87F0FE-6F10-4D1F-2F66-31E8FDA9DA6A</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/CC2AD77D-EFCE-4150-10DC-D1AE9C0FC858">
+        <oc:name>CAT # 571.2</oc:name>
+        <oc:id>CC2AD77D-EFCE-4150-10DC-D1AE9C0FC858</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/53979CC3-BA33-44E4-607C-859406A60B3F">
+        <oc:name>CAT # 571.3</oc:name>
+        <oc:id>53979CC3-BA33-44E4-607C-859406A60B3F</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/89D7C060-BF9B-4B73-811C-B784B410E77A">
+        <oc:name>CAT # 571.4</oc:name>
+        <oc:id>89D7C060-BF9B-4B73-811C-B784B410E77A</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/8DB301D9-0B21-47DB-2000-351DAC45A6A4">
+        <oc:name>CAT # 572</oc:name>
+        <oc:id>8DB301D9-0B21-47DB-2000-351DAC45A6A4</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F30E31FD-A2AD-40A6-CE6F-E3EF586827C9">
+        <oc:name>CAT # 573.1</oc:name>
+        <oc:id>F30E31FD-A2AD-40A6-CE6F-E3EF586827C9</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/82D90FBF-FA9D-4034-7546-B71FD8134462">
+        <oc:name>CAT # 573.2</oc:name>
+        <oc:id>82D90FBF-FA9D-4034-7546-B71FD8134462</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/50585C90-1D13-413F-F154-A861F38515EF">
+        <oc:name>CAT # 573.3</oc:name>
+        <oc:id>50585C90-1D13-413F-F154-A861F38515EF</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B796698E-0E88-4127-D95D-4F64D8D4E821">
+        <oc:name>CAT # 574</oc:name>
+        <oc:id>B796698E-0E88-4127-D95D-4F64D8D4E821</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E616E659-0F6F-4B69-9195-1DC3835CA2D8">
+        <oc:name>CAT # 575</oc:name>
+        <oc:id>E616E659-0F6F-4B69-9195-1DC3835CA2D8</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D230C75D-D3ED-42E9-2CA5-7C599ACE7DC5">
+        <oc:name>CAT # 576</oc:name>
+        <oc:id>D230C75D-D3ED-42E9-2CA5-7C599ACE7DC5</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/EA107AE1-463C-41A7-7F56-09AE497DAB1A">
+        <oc:name>CAT # 578</oc:name>
+        <oc:id>EA107AE1-463C-41A7-7F56-09AE497DAB1A</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F62B366D-321B-498D-57BB-E49FD8EB9192">
+        <oc:name>CAT # 579</oc:name>
+        <oc:id>F62B366D-321B-498D-57BB-E49FD8EB9192</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3C32BA3D-96A4-42CB-57E2-1214E3EC7C99">
+        <oc:name>CAT # 580</oc:name>
+        <oc:id>3C32BA3D-96A4-42CB-57E2-1214E3EC7C99</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/FDC08E9C-5DF5-465D-A80B-6DEFB89A5CA6">
+        <oc:name>CAT # 582.1</oc:name>
+        <oc:id>FDC08E9C-5DF5-465D-A80B-6DEFB89A5CA6</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/84A9CE2E-3F52-4CAC-F174-36BD440A372C">
+        <oc:name>CAT # 582.2</oc:name>
+        <oc:id>84A9CE2E-3F52-4CAC-F174-36BD440A372C</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/741AFBB6-726D-4F02-BA7F-8E8E0A33B7AD">
+        <oc:name>CAT # 582.3</oc:name>
+        <oc:id>741AFBB6-726D-4F02-BA7F-8E8E0A33B7AD</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/485F045B-B934-4946-F35D-C7E9FA3120AE">
+        <oc:name>CAT # 582.4</oc:name>
+        <oc:id>485F045B-B934-4946-F35D-C7E9FA3120AE</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/DE0B71BC-BB28-402C-B668-03801609A054">
+        <oc:name>CAT # 582.5</oc:name>
+        <oc:id>DE0B71BC-BB28-402C-B668-03801609A054</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/CC9E41C8-9328-4B1F-2F28-A7043E5D3DB5">
+        <oc:name>CAT # 583.1</oc:name>
+        <oc:id>CC9E41C8-9328-4B1F-2F28-A7043E5D3DB5</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D07E0C09-1D14-4248-EF8A-27A508C8ABFF">
+        <oc:name>CAT # 583.2</oc:name>
+        <oc:id>D07E0C09-1D14-4248-EF8A-27A508C8ABFF</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/8F35B140-4557-44D9-8B7C-7BF030A8B2DB">
+        <oc:name>CAT # 583.3</oc:name>
+        <oc:id>8F35B140-4557-44D9-8B7C-7BF030A8B2DB</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5C9B5ED0-19B0-4A72-9941-6DECF6F6137A">
+        <oc:name>CAT # 583.4</oc:name>
+        <oc:id>5C9B5ED0-19B0-4A72-9941-6DECF6F6137A</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6B285DFE-C3AB-457F-F72C-F7B33839A427">
+        <oc:name>CAT # 583.5</oc:name>
+        <oc:id>6B285DFE-C3AB-457F-F72C-F7B33839A427</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/9C4B9290-C19B-4578-F1C6-29AFBF41E5AA">
+        <oc:name>CAT # 583.6</oc:name>
+        <oc:id>9C4B9290-C19B-4578-F1C6-29AFBF41E5AA</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/23176401-D771-4300-6782-1021CF04A207">
+        <oc:name>CAT # 584</oc:name>
+        <oc:id>23176401-D771-4300-6782-1021CF04A207</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E95833E8-B017-4D1D-5D6A-FA76E68A2F3C">
+        <oc:name>CAT # 585</oc:name>
+        <oc:id>E95833E8-B017-4D1D-5D6A-FA76E68A2F3C</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1B39795C-CAAA-492E-7E0A-06FBD3F4F492">
+        <oc:name>CAT # 588</oc:name>
+        <oc:id>1B39795C-CAAA-492E-7E0A-06FBD3F4F492</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/AB141CED-D5C6-4E6B-843B-81B6B81AFFF9">
+        <oc:name>CAT # 589</oc:name>
+        <oc:id>AB141CED-D5C6-4E6B-843B-81B6B81AFFF9</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/297934B5-2585-4667-C2BC-552F3A109274">
+        <oc:name>CAT # 590.1</oc:name>
+        <oc:id>297934B5-2585-4667-C2BC-552F3A109274</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4B93FAD9-11DB-4ACF-32EE-CE4B2046EB52">
+        <oc:name>CAT # 590.2</oc:name>
+        <oc:id>4B93FAD9-11DB-4ACF-32EE-CE4B2046EB52</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/9D4FE407-35A4-4DCF-6A1C-48CAAE60650C">
+        <oc:name>CAT # 590.3</oc:name>
+        <oc:id>9D4FE407-35A4-4DCF-6A1C-48CAAE60650C</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/CF8B7824-38C2-4D18-91EA-A5F9D3E11610">
+        <oc:name>CAT # 590.4</oc:name>
+        <oc:id>CF8B7824-38C2-4D18-91EA-A5F9D3E11610</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/FD987A7A-0BA4-4A44-938C-CA3C1F642BDA">
+        <oc:name>CAT # 590.5</oc:name>
+        <oc:id>FD987A7A-0BA4-4A44-938C-CA3C1F642BDA</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/69B95955-8143-4757-0E76-9C42C0942D62">
+        <oc:name>CAT # 590.6</oc:name>
+        <oc:id>69B95955-8143-4757-0E76-9C42C0942D62</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B43AF1A4-32D3-4390-16F7-44595AE6B473">
+        <oc:name>CAT # 590.7</oc:name>
+        <oc:id>B43AF1A4-32D3-4390-16F7-44595AE6B473</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4A3557B8-C36C-405B-CE59-A460CDC39490">
+        <oc:name>CAT # 592</oc:name>
+        <oc:id>4A3557B8-C36C-405B-CE59-A460CDC39490</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D573AB43-84D7-4DAA-2021-569C1014768B">
+        <oc:name>CAT # 593.1</oc:name>
+        <oc:id>D573AB43-84D7-4DAA-2021-569C1014768B</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/EC0FA92C-F9DA-44ED-7C17-FA55DCC706F7">
+        <oc:name>CAT # 593.2</oc:name>
+        <oc:id>EC0FA92C-F9DA-44ED-7C17-FA55DCC706F7</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/61394D96-7A2B-4318-A1FC-E3B9D12892D9">
+        <oc:name>CAT # 593.3</oc:name>
+        <oc:id>61394D96-7A2B-4318-A1FC-E3B9D12892D9</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2547207B-0B66-4CA5-4FF5-FC0865DA756C">
+        <oc:name>CAT # 593.4</oc:name>
+        <oc:id>2547207B-0B66-4CA5-4FF5-FC0865DA756C</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/AE53FBDD-16A1-493D-EE8C-8BBF2C161948">
+        <oc:name>CAT # 594</oc:name>
+        <oc:id>AE53FBDD-16A1-493D-EE8C-8BBF2C161948</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/37B45228-FBCE-41C7-0357-F83402BCE096">
+        <oc:name>CAT # 595.1</oc:name>
+        <oc:id>37B45228-FBCE-41C7-0357-F83402BCE096</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D0137BA5-ACBE-4564-3F84-8A6A6D84BFF5">
+        <oc:name>CAT # 595.2</oc:name>
+        <oc:id>D0137BA5-ACBE-4564-3F84-8A6A6D84BFF5</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/68E5CF28-51AF-4596-9823-3C054EA9384C">
+        <oc:name>CAT # 596.1</oc:name>
+        <oc:id>68E5CF28-51AF-4596-9823-3C054EA9384C</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D47C9B92-F886-4637-3210-284F0F1E7578">
+        <oc:name>CAT # 596.2</oc:name>
+        <oc:id>D47C9B92-F886-4637-3210-284F0F1E7578</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/CF45809F-8EFC-432B-AA82-1AF7E49D3540">
+        <oc:name>CAT # 596.3</oc:name>
+        <oc:id>CF45809F-8EFC-432B-AA82-1AF7E49D3540</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/318C4F53-1AEE-4D86-AE62-4DA9C8C4D52B">
+        <oc:name>CAT # 598.1</oc:name>
+        <oc:id>318C4F53-1AEE-4D86-AE62-4DA9C8C4D52B</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/128EFA68-8221-46E7-7020-819F5E1D7120">
+        <oc:name>CAT # 598.2</oc:name>
+        <oc:id>128EFA68-8221-46E7-7020-819F5E1D7120</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/16688B7F-E955-49DF-815C-D3FD8901BC8E">
+        <oc:name>CAT # 598.3</oc:name>
+        <oc:id>16688B7F-E955-49DF-815C-D3FD8901BC8E</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/AEA976A4-C735-4D3E-848F-35CA59622C0B">
+        <oc:name>CAT # 598.4</oc:name>
+        <oc:id>AEA976A4-C735-4D3E-848F-35CA59622C0B</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/67DC583E-34C9-4893-FF8A-7282B0BD198F">
+        <oc:name>CAT # 598.5</oc:name>
+        <oc:id>67DC583E-34C9-4893-FF8A-7282B0BD198F</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/9E0E56D5-3D0C-4700-F9A4-9C339217415A">
+        <oc:name>CAT # 600.1</oc:name>
+        <oc:id>9E0E56D5-3D0C-4700-F9A4-9C339217415A</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2F3E2F9E-1DF6-4E23-72E4-B014AA354A6C">
+        <oc:name>CAT # 600.2</oc:name>
+        <oc:id>2F3E2F9E-1DF6-4E23-72E4-B014AA354A6C</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/95F7A899-EC3D-4098-A678-8296C264038C">
+        <oc:name>CAT # 601.1</oc:name>
+        <oc:id>95F7A899-EC3D-4098-A678-8296C264038C</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/34C9A7E0-66E5-499B-D01A-80D761EFA13D">
+        <oc:name>CAT # 601.2</oc:name>
+        <oc:id>34C9A7E0-66E5-499B-D01A-80D761EFA13D</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3D806406-027E-40A1-F551-D4400692EF56">
+        <oc:name>CAT # 601.3</oc:name>
+        <oc:id>3D806406-027E-40A1-F551-D4400692EF56</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B39C4BF8-9D2F-4899-BF4A-944831D311A2">
+        <oc:name>CAT # 601.4</oc:name>
+        <oc:id>B39C4BF8-9D2F-4899-BF4A-944831D311A2</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D482A6D3-3D05-4FEC-A862-F3D28664683F">
+        <oc:name>CAT # 601.5</oc:name>
+        <oc:id>D482A6D3-3D05-4FEC-A862-F3D28664683F</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/0B5B10B8-A63A-4BD2-AD34-26BD38B6BFF6">
+        <oc:name>CAT # 602</oc:name>
+        <oc:id>0B5B10B8-A63A-4BD2-AD34-26BD38B6BFF6</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C22E36B2-F290-434D-5851-E2EA6156A3A3">
+        <oc:name>CAT # 603</oc:name>
+        <oc:id>C22E36B2-F290-434D-5851-E2EA6156A3A3</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/8A2AFA53-A665-4716-6935-C109E7849A03">
+        <oc:name>CAT # 772</oc:name>
+        <oc:id>8A2AFA53-A665-4716-6935-C109E7849A03</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4A69FA88-F8D2-4F8D-68BD-2358AD4BF155">
+        <oc:name>CAT # 775</oc:name>
+        <oc:id>4A69FA88-F8D2-4F8D-68BD-2358AD4BF155</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>San Diego Archaeological Center: Unit 4 (Context)</dc:title>
+    <dc:date>2010-02-03</dc:date>
+    <dc:creator>San Diego Archaeological Center</dc:creator>
+    <dc:subject>historical archaeology</dc:subject>
+    <dc:subject>San Diego</dc:subject>
+    <dc:subject>California</dc:subject>
+    <dc:subject>Spanish colonial</dc:subject>
+    <dc:subject>Mexican</dc:subject>
+    <dc:subject>finds catalog</dc:subject>
+    <dc:subject>education</dc:subject>
+    <dc:subject>cultural resource management</dc:subject>
+    <dc:subject>archaeological collections</dc:subject>
+    <dc:identifier>http://opencontext.org/subjects/C660801C-A1FF-466D-392B-C7A2FA58A012</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/3FAAA477-5572-4B05-8DC1-CA264FE1FC10">San Diego Archaeological Center</oc:project_name>
+    <oc:primary_xsl>default/</oc:primary_xsl>
+    <oc:sourceID>z_7_YBG923768</oc:sourceID>
+    <oc:pub_date>2010-02-03T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=San%20Diego%20Archaeological%20Center%3A%20Unit%204%20%28Context%29&amp;rft.date=2010-02-03&amp;rft_id=http%3A%2F%2Fopencontext.org%2Fsubjects%2FC660801C-A1FF-466D-392B-C7A2FA58A012</oc:coins>
+    <oc:no_props>No properties</oc:no_props>
+    <oc:copyright_lic>
+      <oc:lic_name>Creative Commons Attribution</oc:lic_name>
+      <oc:lic_vers>3.0</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+    <oc:geo_reference>
+      <oc:geo_lat>32.6957</oc:geo_lat>
+      <oc:geo_long>-117.169</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/D16E4F19-6C6D-44DC-10CA-8AB36E674ABA">
+        <oc:source_name>SDI-15037</oc:source_name>
+        <oc:source_id>D16E4F19-6C6D-44DC-10CA-8AB36E674ABA</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2010-02-03T02:28:52Z</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2010/02/03 02:28:52</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(1763 CE - 1960 CE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>1763</oc:time_start>
+          <oc:time_finish>1960</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/D16E4F19-6C6D-44DC-10CA-8AB36E674ABA">
+            <oc:source_name>SDI-15037</oc:source_name>
+            <oc:source_id>D16E4F19-6C6D-44DC-10CA-8AB36E674ABA</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2010-01-27T04:57:34Z</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

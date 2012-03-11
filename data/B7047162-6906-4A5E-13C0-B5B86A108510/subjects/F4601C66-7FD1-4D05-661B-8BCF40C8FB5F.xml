@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:gml="http://www.opengis.net/gml" xmlns:dc="http://purl.org/dc/elements/1.1/" UUID="F4601C66-7FD1-4D05-661B-8BCF40C8FB5F" ownedBy="B7047162-6906-4A5E-13C0-B5B86A108510">
+  <arch:name>
+    <arch:string>Bone 8/4 (12272)</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Animal Bone</oc:name>
+    <oc:iconURI>http://www.opencontext.org/database/ui_images/med_oc_icons/animal_bone_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>54990D36-22F5-4184-503C-D0C70EE208A2</arch:variableID>
+          <arch:valueID>D1F70388-0F69-472B-5A9C-391E51313A3C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/68871206-9221-4A8C-D6CA-DC0A2775D196">68871206-9221-4A8C-D6CA-DC0A2775D196</oc:propid>
+          <oc:var_label type="nominal">Period</oc:var_label>
+          <oc:show_val>1201-1250</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>A19175AE-0582-44FA-0725-E034344E4704</arch:variableID>
+          <arch:valueID>600C3CE2-D6C6-459F-747A-D927E4882F9E</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/601EE199-E40C-4572-3756-C1243C1F6438">601EE199-E40C-4572-3756-C1243C1F6438</oc:propid>
+          <oc:var_label type="nominal">Phase</oc:var_label>
+          <oc:show_val>5</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DAA81348-5437-40E0-549F-AC70FC55FC5E</arch:variableID>
+          <arch:valueID>874CB795-3A0F-4CFE-0F36-D328735A92A1</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/B9790690-B8D2-4E82-4598-A2F6F9819786">B9790690-B8D2-4E82-4598-A2F6F9819786</oc:propid>
+          <oc:var_label type="alphanumeric">Find Number</oc:var_label>
+          <oc:show_val>8/4</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>171A8DC8-DC6B-4F0C-A7D6-A2C3CFAAD2D7</arch:variableID>
+          <arch:valueID>681C7B49-E720-48FB-35D7-2B2F77988CE0</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/30B2C5B2-6576-47BC-0C83-7E2E1174DD26">30B2C5B2-6576-47BC-0C83-7E2E1174DD26</oc:propid>
+          <oc:var_label type="nominal">Species</oc:var_label>
+          <oc:show_val>Dog</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="171A8DC8-DC6B-4F0C-A7D6-A2C3CFAAD2D7" href="http://purl.org/NET/biol/ns#term_hasTaxonomy">
+              <oc:vocabulary href="http://purl.org/NET/biol/ns#">Biological Taxonomy Vocabulary</oc:vocabulary>
+              <oc:label>Has Biological Taxonomy</oc:label>
+              <oc:targetLink localType="property" localID="30B2C5B2-6576-47BC-0C83-7E2E1174DD26" localURI="http://opencontext.org/properties/30B2C5B2-6576-47BC-0C83-7E2E1174DD26" href="http://eol.org/pages/1228387">
+                <oc:vocabulary href="http://eol.org/">Encyclopedia of Life</oc:vocabulary>
+                <oc:label>Canis lupus familiaris Linnaeus, 1758</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>A280913A-8E48-4BEE-7A07-3BD4F5733F9D</arch:variableID>
+          <arch:valueID>9D20D31A-4AAE-4B72-875E-0DDB54747C3E</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/706DC5E4-3628-4AA1-6487-B524618DAC3A">706DC5E4-3628-4AA1-6487-B524618DAC3A</oc:propid>
+          <oc:var_label type="nominal">Latin Name</oc:var_label>
+          <oc:show_val>Canis familiaris</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>6D04D184-BCC8-4C4C-EC40-124E553BD601</arch:variableID>
+          <arch:valueID>0C6EA80F-0C38-4EFD-49E9-9956DAB12EBB</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/3C5683F9-A1A7-40E2-F817-542A9D4FACDC">3C5683F9-A1A7-40E2-F817-542A9D4FACDC</oc:propid>
+          <oc:var_label type="nominal">Element</oc:var_label>
+          <oc:show_val>Cranium</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>978D3962-6912-4714-9409-E09A70173FAB</arch:variableID>
+          <arch:valueID>C796B173-C666-4BC6-E792-2B7117DB078B</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/7C39D9BB-EA78-435C-E6AA-740028117D53">7C39D9BB-EA78-435C-E6AA-740028117D53</oc:propid>
+          <oc:var_label type="nominal">Side</oc:var_label>
+          <oc:show_val>Left &amp; Right</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>E79083BE-AB89-4167-2AAA-F61F46714373</arch:variableID>
+          <arch:valueID>D681E98A-BFD8-443F-E733-6815968B3211</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/00EE48CC-3F5A-4292-CA60-BB9631F53512">00EE48CC-3F5A-4292-CA60-BB9631F53512</oc:propid>
+          <oc:var_label type="nominal">Part</oc:var_label>
+          <oc:show_val>complete</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>E8169335-DA84-4CDC-2A84-02D009667F08</arch:variableID>
+          <arch:integer href="http://www.freebase.com/view/en/counting_measure" name="counting measure" abrv="count">1</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/4E929AED-8F3B-4E2F-263A-B4D263CED776">4E929AED-8F3B-4E2F-263A-B4D263CED776</oc:propid>
+          <oc:var_label type="integer">Number Of Specimens</oc:var_label>
+          <oc:show_val>1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>63CF8F39-3A6B-4484-C086-9BBC8771CE5E</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/gram" name="gram" abrv="g">96.3</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/8F999A42-C1DD-4A81-4719-49D8422C7914">8F999A42-C1DD-4A81-4719-49D8422C7914</oc:propid>
+          <oc:var_label type="decimal">Weight (g)</oc:var_label>
+          <oc:show_val>96.3</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>E20A18F8-CA95-4216-23BC-5CE1AFF9BC1A</arch:variableID>
+          <arch:valueID>5E4D7000-3F81-4CBE-8E5E-96283D4E2F2F</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/5AC20258-4E74-4AA1-678C-6E86B8603336">5AC20258-4E74-4AA1-678C-6E86B8603336</oc:propid>
+          <oc:var_label type="nominal">Age Group</oc:var_label>
+          <oc:show_val>adult</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>10FE6C56-79AA-4F6B-2623-F5A79B76FD2B</arch:variableID>
+          <arch:valueID>BB3E4D26-AC30-437D-1B1C-9BCCEADF9E19</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/F1575709-C7BB-43CA-776C-ADD56BCFB84F">F1575709-C7BB-43CA-776C-ADD56BCFB84F</oc:propid>
+          <oc:var_label type="nominal">Age Teeth (months/classes)</oc:var_label>
+          <oc:show_val>&gt;6-12</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>87B9FE9E-4ED0-473B-CECF-2049514E66B7</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">170</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/9B7DA9CE-273A-4F4F-2F40-11BF0589F32D">9B7DA9CE-273A-4F4F-2F40-11BF0589F32D</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 1</oc:var_label>
+          <oc:show_val>170</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>2423D849-79AC-4BCC-7AD8-B7B97E041D1D</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">160</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/D35ACF61-22EC-45A7-5605-4FC8CDCC8ECA">D35ACF61-22EC-45A7-5605-4FC8CDCC8ECA</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 2</oc:var_label>
+          <oc:show_val>160</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>AC1CE39F-D202-4E6C-9BC9-97159B488D10</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">151.84</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/DE641D4F-235D-48A8-EF93-464F66B7ECF0">DE641D4F-235D-48A8-EF93-464F66B7ECF0</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 3</oc:var_label>
+          <oc:show_val>151.84</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>A32C0A7B-EB07-4662-E12E-B6322FB042DD</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">42.55</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/B20FC7EB-7A81-420E-D3FF-6349DFED6453">B20FC7EB-7A81-420E-D3FF-6349DFED6453</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 4</oc:var_label>
+          <oc:show_val>42.55</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9F25C8A3-4FCA-407B-96FA-25109FF66E0B</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">108.09</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/D862AA78-0A33-4C33-38E6-179BFEF045D9">D862AA78-0A33-4C33-38E6-179BFEF045D9</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 5</oc:var_label>
+          <oc:show_val>108.09</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>27CB4B72-78C9-44A8-1B81-D28772A5B861</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">82.14</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/0BA9391A-5222-455E-3D9F-F2A32FEA7811">0BA9391A-5222-455E-3D9F-F2A32FEA7811</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 7</oc:var_label>
+          <oc:show_val>82.14</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>A1EBCFE8-4073-407B-1E64-D54B855E7E6A</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">86.53</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/B65E0E2F-C2EA-4576-F062-28282A006DBE">B65E0E2F-C2EA-4576-F062-28282A006DBE</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 8</oc:var_label>
+          <oc:show_val>86.53</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>EAFD5DB8-9CDA-49C0-94A1-7FE3E6593214</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">97.77</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/04DB0FCF-80FF-43EB-1562-673647113205">04DB0FCF-80FF-43EB-1562-673647113205</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 9</oc:var_label>
+          <oc:show_val>97.77</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>A3F70C88-F62A-4DDB-4C7F-E4FB98260D74</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">81.75</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/A4A85B18-A02E-471A-4602-28D3C1BA3C07">A4A85B18-A02E-471A-4602-28D3C1BA3C07</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 11</oc:var_label>
+          <oc:show_val>81.75</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C68503C4-334F-4685-785D-4DC2CC026626</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">73.33</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/A1C67028-B55F-4908-B18C-E8A3BFB5BF97">A1C67028-B55F-4908-B18C-E8A3BFB5BF97</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 12</oc:var_label>
+          <oc:show_val>73.33</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>23255A68-1365-40D3-E902-5619CABCDFE3</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">85.66</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/B4F54459-18A4-4B60-4434-7A988678A219">B4F54459-18A4-4B60-4434-7A988678A219</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 13</oc:var_label>
+          <oc:show_val>85.66</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>044926E7-7D0C-4933-2EC4-D944E12DABDF</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">83.94</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/AB476EE4-C822-4547-46E0-CB035DCE13EF">AB476EE4-C822-4547-46E0-CB035DCE13EF</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 13a</oc:var_label>
+          <oc:show_val>83.94</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F6F4924D-07FD-4513-E8A9-7CE2DCA5B03F</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">29.55</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/2F798088-F41C-4C6B-9675-EA7DD9C0A739">2F798088-F41C-4C6B-9675-EA7DD9C0A739</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 14</oc:var_label>
+          <oc:show_val>29.55</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>97470130-B259-4BAB-6BB6-1AA4AFF7550D</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">27.45</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/6E247BF0-27E3-4EA1-6ABA-4BE8932AC744">6E247BF0-27E3-4EA1-6ABA-4BE8932AC744</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 14a</oc:var_label>
+          <oc:show_val>27.45</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9C86E228-A159-47BC-9768-3BAA93FD3C15</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">60.35</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/F5D65D68-912E-494F-3BD2-3FF085326678">F5D65D68-912E-494F-3BD2-3FF085326678</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 15</oc:var_label>
+          <oc:show_val>60.35</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>019BBF16-02CE-4D7E-904E-7BD7FF3BC493</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">15.41</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/ED1DCF73-0E33-4B89-39E9-146BC5212D2E">ED1DCF73-0E33-4B89-39E9-146BC5212D2E</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 16</oc:var_label>
+          <oc:show_val>15.41</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B12EEBB9-5C53-4EB5-63C9-12B9043ABB71</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">44.42</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/4F5DD79D-1627-482D-9D1F-8C7A9B8DB05F">4F5DD79D-1627-482D-9D1F-8C7A9B8DB05F</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 17</oc:var_label>
+          <oc:show_val>44.42</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8F39DE7A-E0D6-464A-573F-B530E57E45A1</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">14.6</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/35D27179-563C-48FF-2289-7A5C0BC1288B">35D27179-563C-48FF-2289-7A5C0BC1288B</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 19</oc:var_label>
+          <oc:show_val>14.6</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>3BEBFFBC-9E23-47AB-B7CD-541EE52EC0C3</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">21.03</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/BB73F184-92D9-4F1B-25B7-D4BE16C8E5D1">BB73F184-92D9-4F1B-25B7-D4BE16C8E5D1</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 22</oc:var_label>
+          <oc:show_val>21.03</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>4570F337-770B-4B60-523B-E219FB4935E3</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">56.21</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/326D11D9-07AC-4FA7-6A4D-891BEF78B954">326D11D9-07AC-4FA7-6A4D-891BEF78B954</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 23</oc:var_label>
+          <oc:show_val>56.21</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>71A22AF7-3243-475E-8B5A-2D1777021BE0</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">55.76</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/97324E8D-2083-4777-3C60-81C1676337CB">97324E8D-2083-4777-3C60-81C1676337CB</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 24</oc:var_label>
+          <oc:show_val>55.76</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D72E2308-D302-4E86-9A79-9DCADE5EE0FC</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">31.58</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/098A085D-3112-4897-6035-D73E6D6EBD56">098A085D-3112-4897-6035-D73E6D6EBD56</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 25</oc:var_label>
+          <oc:show_val>31.58</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>03815064-A99B-4FCE-77A5-6871E2A11922</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">56.23</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/7A6FEDA8-2A22-4686-B716-617925660F40">7A6FEDA8-2A22-4686-B716-617925660F40</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 26</oc:var_label>
+          <oc:show_val>56.23</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>84988B48-3818-4A5A-4189-2572C2115224</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">17.35</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/DCC7EA28-321B-481F-C466-6855D6243B02">DCC7EA28-321B-481F-C466-6855D6243B02</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 27</oc:var_label>
+          <oc:show_val>17.35</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>93F82C8C-2DC0-4E2C-767D-6B665155F01F</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">13.9</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/B4E2F3FF-FFB9-40E6-1936-8F83001B07DA">B4E2F3FF-FFB9-40E6-1936-8F83001B07DA</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 28</oc:var_label>
+          <oc:show_val>13.9</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>BAC92064-90BE-4761-4AC6-AEC1D0D7D4ED</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">53.12</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/388146BA-3F90-4A3D-251C-96B21C165E73">388146BA-3F90-4A3D-251C-96B21C165E73</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 29</oc:var_label>
+          <oc:show_val>53.12</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7E9D88A4-2B6A-49E1-D7EB-216457D1F8E9</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">91.25</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/087C1B5B-B835-4D0E-F227-E05DE611432C">087C1B5B-B835-4D0E-F227-E05DE611432C</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 30</oc:var_label>
+          <oc:show_val>91.25</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>E4B9B73C-604A-4BB3-F69E-D4B383FE450A</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">34.96</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/768544BB-40F2-4346-DCC0-9F4EA20D800F">768544BB-40F2-4346-DCC0-9F4EA20D800F</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 31</oc:var_label>
+          <oc:show_val>34.96</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>5CB35C39-C538-4A60-E4DE-75958C7AFF0F</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">44.43</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/4766E4B1-4095-4C71-4C53-06F7CBF8528A">4766E4B1-4095-4C71-4C53-06F7CBF8528A</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 32</oc:var_label>
+          <oc:show_val>44.43</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>A4A9E2F3-67D1-49EE-3C5D-172836F7B90B</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">28.02</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/857F992A-21C8-4D9A-D9E9-45EF935B7DA6">857F992A-21C8-4D9A-D9E9-45EF935B7DA6</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 33</oc:var_label>
+          <oc:show_val>28.02</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>AF93D256-F750-480F-A8D5-BDA3940322C2</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">53.06</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/618AB3B2-BD68-49A7-46E7-F39375280105">618AB3B2-BD68-49A7-46E7-F39375280105</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 34</oc:var_label>
+          <oc:show_val>53.06</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>CAF90C03-7B2E-468E-3CB5-DBA979B1BB6B</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">29.85</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/F2B34913-2E4F-44C5-6CFD-AE846A2D459B">F2B34913-2E4F-44C5-6CFD-AE846A2D459B</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 35</oc:var_label>
+          <oc:show_val>29.85</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>998DA04B-A9B3-4AC7-BF0B-349719C012A3</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">30.31</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/25153C04-1733-47AB-4DCF-ADB1D9A02F47">25153C04-1733-47AB-4DCF-ADB1D9A02F47</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 36</oc:var_label>
+          <oc:show_val>30.31</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>92188A91-438E-4379-E6C2-F07D14437C89</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">28.25</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/BEEDD963-5862-48A9-24FD-1C8264EEFCF6">BEEDD963-5862-48A9-24FD-1C8264EEFCF6</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 37</oc:var_label>
+          <oc:show_val>28.25</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>577D8FAF-7CAA-46DD-9D00-72722849D484</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">51.28</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/6D827980-BE7C-445C-BB2A-52BA353B6FF4">6D827980-BE7C-445C-BB2A-52BA353B6FF4</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 38</oc:var_label>
+          <oc:show_val>51.28</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9446C77C-0D22-44D1-747E-F7274FF2691D</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">49.09</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/9CF40483-CF6D-4F78-F0F4-C6A2FCAE032B">9CF40483-CF6D-4F78-F0F4-C6A2FCAE032B</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 39</oc:var_label>
+          <oc:show_val>49.09</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>E30E6BDC-2177-474C-5408-3EECC9BEFC6B</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">40.85</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/CE98FA8B-C229-4DC9-0905-3D0438929123">CE98FA8B-C229-4DC9-0905-3D0438929123</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 40</oc:var_label>
+          <oc:show_val>40.85</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>28D9DC37-3D5A-48ED-2F6E-12791119E9DF</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">80</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/6D965AA3-EE74-4987-91F5-428D172985FD">6D965AA3-EE74-4987-91F5-428D172985FD</oc:propid>
+          <oc:var_label type="decimal">Von Den Driesch (1976): Meas. 42</oc:var_label>
+          <oc:show_val>80</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Principle Author / Analyst">A8474C2C-A080-4E03-82A9-4B99393BC609</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/A8474C2C-A080-4E03-82A9-4B99393BC609" cite="contributor">
+            <oc:name>Jessica Grimm</oc:name>
+            <oc:id>A8474C2C-A080-4E03-82A9-4B99393BC609</oc:id>
+            <oc:relation>Principle Author / Analyst</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/2_Global_Germany">
+        <oc:name>Germany</oc:name>
+        <oc:id>2_Global_Germany</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/4B0DD7D5-8959-4A1E-D6E8-D649CC461CF9">
+        <oc:name>Emden</oc:name>
+        <oc:id>4B0DD7D5-8959-4A1E-D6E8-D649CC461CF9</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/7CDE2E5F-F938-459D-76A6-508DDF736A7B">
+        <oc:name>RosenstraΓe</oc:name>
+        <oc:id>7CDE2E5F-F938-459D-76A6-508DDF736A7B</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Field Project</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/C7E79D94-CA31-4CDD-3B67-569A6256E669">
+        <oc:name>Phase 5</oc:name>
+        <oc:id>C7E79D94-CA31-4CDD-3B67-569A6256E669</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Stratum</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/stratum_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Zooarchaeology of Medieval Emden: Bone 8/4 (12272) (Animal Bone)</dc:title>
+    <dc:date>2010-10-30</dc:date>
+    <dc:creator>Jessica Grimm</dc:creator>
+    <dc:subject>zooarchaeology</dc:subject>
+    <dc:subject>medieval</dc:subject>
+    <dc:subject>Lower Saxony</dc:subject>
+    <dc:subject>Germany</dc:subject>
+    <dc:subject>subsistence</dc:subject>
+    <dc:subject/>
+    <dc:contributor>Jessica Grimm</dc:contributor>
+    <dc:identifier>http://opencontext.org/subjects/F4601C66-7FD1-4D05-661B-8BCF40C8FB5F</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/B7047162-6906-4A5E-13C0-B5B86A108510">Zooarchaeology of Medieval Emden</oc:project_name>
+    <oc:primary_xsl>default/</oc:primary_xsl>
+    <oc:sourceID>z_2_93831678d</oc:sourceID>
+    <oc:pub_date>2010-10-30T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Zooarchaeology%20of%20Medieval%20Emden%3A%20Bone%208%2F4%20%2812272%29%20%28Animal%20Bone%29&amp;rft.date=2010-10-30&amp;rft.contributor=Jessica%20Grimm&amp;rft_id=http%3A%2F%2Fopencontext.org%2Fsubjects%2FF4601C66-7FD1-4D05-661B-8BCF40C8FB5F</oc:coins>
+    <oc:no_props>No properties</oc:no_props>
+    <oc:copyright_lic>
+      <oc:lic_name>Creative Commons Attribution</oc:lic_name>
+      <oc:lic_vers>3.0</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+    <oc:geo_reference>
+      <oc:geo_lat>53.365588</oc:geo_lat>
+      <oc:geo_long>7.203392</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/4B0DD7D5-8959-4A1E-D6E8-D649CC461CF9">
+        <oc:source_name>Emden</oc:source_name>
+        <oc:source_id>4B0DD7D5-8959-4A1E-D6E8-D649CC461CF9</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2010-10-30T21:15:53Z</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2010/10/30 21:15:53</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(1201 CE - 1250 CE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>1201</oc:time_start>
+          <oc:time_finish>1250</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/C7E79D94-CA31-4CDD-3B67-569A6256E669">
+            <oc:source_name>Phase 5</oc:source_name>
+            <oc:source_id>C7E79D94-CA31-4CDD-3B67-569A6256E669</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2010-10-28T19:05:23Z</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

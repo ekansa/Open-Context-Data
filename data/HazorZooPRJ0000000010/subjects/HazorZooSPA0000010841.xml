@@ -1,0 +1,998 @@
+<?xml version="1.0"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:gml="http://www.opengis.net/gml" xmlns:dc="http://purl.org/dc/elements/1.1/" UUID="HazorZooSPA0000010841" ownedBy="HazorZooPRJ0000000010">
+  <arch:name>
+    <arch:string>Basket 22329</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Basket</oc:name>
+    <oc:iconURI>http://www.opencontext.org/database/ui_images/med_oc_icons/locus_lot_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>HazorZooVAR0000000472</arch:variableID>
+          <arch:valueID>HazorZooTXT0000017056</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/HazorZooPRO0000039140">HazorZooPRO0000039140</oc:propid>
+          <oc:var_label type="nominal">Stratum</oc:var_label>
+          <oc:show_val>unknown</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Observer">HazorZooPER0000003276</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/HazorZooPER0000003276" cite="creator">
+            <oc:name>Justin Lev-Tov</oc:name>
+            <oc:id>HazorZooPER0000003276</oc:id>
+            <oc:relation>Observer</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/3_Global_Israel">
+        <oc:name>Israel</oc:name>
+        <oc:id>3_Global_Israel</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/HazorZooSPA00000main">
+        <oc:name>Hazor</oc:name>
+        <oc:id>HazorZooSPA00000main</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/HazorZooSPA0000007677">
+        <oc:name>Area A2</oc:name>
+        <oc:id>HazorZooSPA0000007677</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Area</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/HazorZooSPA0000010840">
+        <oc:name>Locus 3329</oc:name>
+        <oc:id>HazorZooSPA0000010840</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Locus</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010842">
+        <oc:name>Bone 3027</oc:name>
+        <oc:id>HazorZooSPA0000010842</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010843">
+        <oc:name>Bone 3028</oc:name>
+        <oc:id>HazorZooSPA0000010843</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010844">
+        <oc:name>Bone 3029</oc:name>
+        <oc:id>HazorZooSPA0000010844</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010845">
+        <oc:name>Bone 3030</oc:name>
+        <oc:id>HazorZooSPA0000010845</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010846">
+        <oc:name>Bone 3031</oc:name>
+        <oc:id>HazorZooSPA0000010846</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010847">
+        <oc:name>Bone 3032</oc:name>
+        <oc:id>HazorZooSPA0000010847</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010848">
+        <oc:name>Bone 3033</oc:name>
+        <oc:id>HazorZooSPA0000010848</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010849">
+        <oc:name>Bone 3034</oc:name>
+        <oc:id>HazorZooSPA0000010849</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010850">
+        <oc:name>Bone 3035</oc:name>
+        <oc:id>HazorZooSPA0000010850</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010851">
+        <oc:name>Bone 3036</oc:name>
+        <oc:id>HazorZooSPA0000010851</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010852">
+        <oc:name>Bone 3037</oc:name>
+        <oc:id>HazorZooSPA0000010852</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010853">
+        <oc:name>Bone 3038</oc:name>
+        <oc:id>HazorZooSPA0000010853</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010854">
+        <oc:name>Bone 3040</oc:name>
+        <oc:id>HazorZooSPA0000010854</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010855">
+        <oc:name>Bone 3041</oc:name>
+        <oc:id>HazorZooSPA0000010855</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010856">
+        <oc:name>Bone 3042</oc:name>
+        <oc:id>HazorZooSPA0000010856</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010857">
+        <oc:name>Bone 3043</oc:name>
+        <oc:id>HazorZooSPA0000010857</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010858">
+        <oc:name>Bone 3044</oc:name>
+        <oc:id>HazorZooSPA0000010858</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010859">
+        <oc:name>Bone 3045</oc:name>
+        <oc:id>HazorZooSPA0000010859</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010860">
+        <oc:name>Bone 3046</oc:name>
+        <oc:id>HazorZooSPA0000010860</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010861">
+        <oc:name>Bone 3047</oc:name>
+        <oc:id>HazorZooSPA0000010861</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010862">
+        <oc:name>Bone 3048</oc:name>
+        <oc:id>HazorZooSPA0000010862</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010863">
+        <oc:name>Bone 3049</oc:name>
+        <oc:id>HazorZooSPA0000010863</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010864">
+        <oc:name>Bone 3050</oc:name>
+        <oc:id>HazorZooSPA0000010864</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010865">
+        <oc:name>Bone 3052</oc:name>
+        <oc:id>HazorZooSPA0000010865</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010866">
+        <oc:name>Bone 3053</oc:name>
+        <oc:id>HazorZooSPA0000010866</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010867">
+        <oc:name>Bone 3054</oc:name>
+        <oc:id>HazorZooSPA0000010867</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010868">
+        <oc:name>Bone 3055</oc:name>
+        <oc:id>HazorZooSPA0000010868</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010869">
+        <oc:name>Bone 3056</oc:name>
+        <oc:id>HazorZooSPA0000010869</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010941">
+        <oc:name>Bone 3117</oc:name>
+        <oc:id>HazorZooSPA0000010941</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010942">
+        <oc:name>Bone 3118</oc:name>
+        <oc:id>HazorZooSPA0000010942</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010943">
+        <oc:name>Bone 3119</oc:name>
+        <oc:id>HazorZooSPA0000010943</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010944">
+        <oc:name>Bone 3120</oc:name>
+        <oc:id>HazorZooSPA0000010944</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010945">
+        <oc:name>Bone 3121</oc:name>
+        <oc:id>HazorZooSPA0000010945</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010946">
+        <oc:name>Bone 3122</oc:name>
+        <oc:id>HazorZooSPA0000010946</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010947">
+        <oc:name>Bone 3123</oc:name>
+        <oc:id>HazorZooSPA0000010947</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010948">
+        <oc:name>Bone 3124</oc:name>
+        <oc:id>HazorZooSPA0000010948</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010949">
+        <oc:name>Bone 3125</oc:name>
+        <oc:id>HazorZooSPA0000010949</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010950">
+        <oc:name>Bone 3126</oc:name>
+        <oc:id>HazorZooSPA0000010950</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010951">
+        <oc:name>Bone 3127</oc:name>
+        <oc:id>HazorZooSPA0000010951</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010952">
+        <oc:name>Bone 3128</oc:name>
+        <oc:id>HazorZooSPA0000010952</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010953">
+        <oc:name>Bone 3129</oc:name>
+        <oc:id>HazorZooSPA0000010953</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010954">
+        <oc:name>Bone 3130</oc:name>
+        <oc:id>HazorZooSPA0000010954</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010955">
+        <oc:name>Bone 3131</oc:name>
+        <oc:id>HazorZooSPA0000010955</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010956">
+        <oc:name>Bone 3132</oc:name>
+        <oc:id>HazorZooSPA0000010956</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010957">
+        <oc:name>Bone 3133</oc:name>
+        <oc:id>HazorZooSPA0000010957</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010958">
+        <oc:name>Bone 3134</oc:name>
+        <oc:id>HazorZooSPA0000010958</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010959">
+        <oc:name>Bone 3135</oc:name>
+        <oc:id>HazorZooSPA0000010959</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010960">
+        <oc:name>Bone 3136</oc:name>
+        <oc:id>HazorZooSPA0000010960</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010961">
+        <oc:name>Bone 3137</oc:name>
+        <oc:id>HazorZooSPA0000010961</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010962">
+        <oc:name>Bone 3138</oc:name>
+        <oc:id>HazorZooSPA0000010962</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010963">
+        <oc:name>Bone 3139</oc:name>
+        <oc:id>HazorZooSPA0000010963</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010964">
+        <oc:name>Bone 3140</oc:name>
+        <oc:id>HazorZooSPA0000010964</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010965">
+        <oc:name>Bone 3141</oc:name>
+        <oc:id>HazorZooSPA0000010965</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010966">
+        <oc:name>Bone 3142</oc:name>
+        <oc:id>HazorZooSPA0000010966</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010967">
+        <oc:name>Bone 3143</oc:name>
+        <oc:id>HazorZooSPA0000010967</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010968">
+        <oc:name>Bone 3144</oc:name>
+        <oc:id>HazorZooSPA0000010968</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010969">
+        <oc:name>Bone 3145</oc:name>
+        <oc:id>HazorZooSPA0000010969</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010970">
+        <oc:name>Bone 3146</oc:name>
+        <oc:id>HazorZooSPA0000010970</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010971">
+        <oc:name>Bone 3147</oc:name>
+        <oc:id>HazorZooSPA0000010971</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010972">
+        <oc:name>Bone 3148</oc:name>
+        <oc:id>HazorZooSPA0000010972</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010973">
+        <oc:name>Bone 3149</oc:name>
+        <oc:id>HazorZooSPA0000010973</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010974">
+        <oc:name>Bone 3150</oc:name>
+        <oc:id>HazorZooSPA0000010974</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010975">
+        <oc:name>Bone 3151</oc:name>
+        <oc:id>HazorZooSPA0000010975</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010976">
+        <oc:name>Bone 3152</oc:name>
+        <oc:id>HazorZooSPA0000010976</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010977">
+        <oc:name>Bone 3153</oc:name>
+        <oc:id>HazorZooSPA0000010977</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010978">
+        <oc:name>Bone 3154</oc:name>
+        <oc:id>HazorZooSPA0000010978</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010979">
+        <oc:name>Bone 3155</oc:name>
+        <oc:id>HazorZooSPA0000010979</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010980">
+        <oc:name>Bone 3156</oc:name>
+        <oc:id>HazorZooSPA0000010980</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010981">
+        <oc:name>Bone 3157</oc:name>
+        <oc:id>HazorZooSPA0000010981</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010982">
+        <oc:name>Bone 3158</oc:name>
+        <oc:id>HazorZooSPA0000010982</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010983">
+        <oc:name>Bone 3159</oc:name>
+        <oc:id>HazorZooSPA0000010983</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010984">
+        <oc:name>Bone 3160</oc:name>
+        <oc:id>HazorZooSPA0000010984</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010985">
+        <oc:name>Bone 3161</oc:name>
+        <oc:id>HazorZooSPA0000010985</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010986">
+        <oc:name>Bone 3162</oc:name>
+        <oc:id>HazorZooSPA0000010986</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010987">
+        <oc:name>Bone 3163</oc:name>
+        <oc:id>HazorZooSPA0000010987</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010988">
+        <oc:name>Bone 3164</oc:name>
+        <oc:id>HazorZooSPA0000010988</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010989">
+        <oc:name>Bone 3165</oc:name>
+        <oc:id>HazorZooSPA0000010989</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010990">
+        <oc:name>Bone 3166</oc:name>
+        <oc:id>HazorZooSPA0000010990</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010991">
+        <oc:name>Bone 3167</oc:name>
+        <oc:id>HazorZooSPA0000010991</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010992">
+        <oc:name>Bone 3168</oc:name>
+        <oc:id>HazorZooSPA0000010992</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010993">
+        <oc:name>Bone 3169</oc:name>
+        <oc:id>HazorZooSPA0000010993</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010994">
+        <oc:name>Bone 3170</oc:name>
+        <oc:id>HazorZooSPA0000010994</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010995">
+        <oc:name>Bone 3171</oc:name>
+        <oc:id>HazorZooSPA0000010995</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010996">
+        <oc:name>Bone 3172</oc:name>
+        <oc:id>HazorZooSPA0000010996</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010997">
+        <oc:name>Bone 3173</oc:name>
+        <oc:id>HazorZooSPA0000010997</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010998">
+        <oc:name>Bone 3174</oc:name>
+        <oc:id>HazorZooSPA0000010998</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000010999">
+        <oc:name>Bone 3175</oc:name>
+        <oc:id>HazorZooSPA0000010999</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000011000">
+        <oc:name>Bone 3176</oc:name>
+        <oc:id>HazorZooSPA0000011000</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000011001">
+        <oc:name>Bone 3177</oc:name>
+        <oc:id>HazorZooSPA0000011001</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000011002">
+        <oc:name>Bone 3178</oc:name>
+        <oc:id>HazorZooSPA0000011002</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000011003">
+        <oc:name>Bone 3179</oc:name>
+        <oc:id>HazorZooSPA0000011003</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000011004">
+        <oc:name>Bone 3180</oc:name>
+        <oc:id>HazorZooSPA0000011004</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000011005">
+        <oc:name>Bone 3181</oc:name>
+        <oc:id>HazorZooSPA0000011005</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000011006">
+        <oc:name>Bone 3182</oc:name>
+        <oc:id>HazorZooSPA0000011006</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000011007">
+        <oc:name>Bone 3183</oc:name>
+        <oc:id>HazorZooSPA0000011007</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000011008">
+        <oc:name>Bone 3184</oc:name>
+        <oc:id>HazorZooSPA0000011008</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000011009">
+        <oc:name>Bone 3185</oc:name>
+        <oc:id>HazorZooSPA0000011009</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000011010">
+        <oc:name>Bone 3186</oc:name>
+        <oc:id>HazorZooSPA0000011010</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000011011">
+        <oc:name>Bone 3187</oc:name>
+        <oc:id>HazorZooSPA0000011011</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000011012">
+        <oc:name>Bone 3188</oc:name>
+        <oc:id>HazorZooSPA0000011012</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000011013">
+        <oc:name>Bone 3189</oc:name>
+        <oc:id>HazorZooSPA0000011013</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000011014">
+        <oc:name>Bone 3190</oc:name>
+        <oc:id>HazorZooSPA0000011014</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000011015">
+        <oc:name>Bone 3191</oc:name>
+        <oc:id>HazorZooSPA0000011015</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000015465">
+        <oc:name>Unident. large(b.22329)(1)</oc:name>
+        <oc:id>HazorZooSPA0000015465</oc:id>
+        <oc:item_class>
+          <oc:name>Non Diag. Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000015466">
+        <oc:name>Unident. large(b.22329)(2)</oc:name>
+        <oc:id>HazorZooSPA0000015466</oc:id>
+        <oc:item_class>
+          <oc:name>Non Diag. Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000015467">
+        <oc:name>Unident. large(b.22329)(3)</oc:name>
+        <oc:id>HazorZooSPA0000015467</oc:id>
+        <oc:item_class>
+          <oc:name>Non Diag. Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/HazorZooSPA0000015468">
+        <oc:name>Unident. medium(b.22329)</oc:name>
+        <oc:id>HazorZooSPA0000015468</oc:id>
+        <oc:item_class>
+          <oc:name>Non Diag. Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Hazor: Zooarchaeology: Basket 22329 (Basket)</dc:title>
+    <dc:date>2006-05-12</dc:date>
+    <dc:coverage>Near East</dc:coverage>
+    <dc:creator>Justin Lev-Tov</dc:creator>
+    <dc:format>Text/HTML</dc:format>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:rights>Creative Commons Attribution NonCommercial 2.5</dc:rights>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>Iron Age</dc:subject>
+    <dc:subject>Late Bronze Age</dc:subject>
+    <dc:subject>Near East</dc:subject>
+    <dc:subject>Excavations</dc:subject>
+    <dc:subject>Hazor</dc:subject>
+    <dc:subject>Biblical archaeology</dc:subject>
+    <dc:subject>subsistence</dc:subject>
+    <dc:contributor>Justin Lev-Tov</dc:contributor>
+    <dc:identifier>http://opencontext.org/subjects/HazorZooSPA0000010841</dc:identifier>
+    <oc:project_name>Hazor: Zooarchaeology</oc:project_name>
+    <oc:primary_xsl>default/default_spatial.xsl</oc:primary_xsl>
+    <oc:pub_date>2006-05-12T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Hazor%3A%20Zooarchaeology%3A%20Basket%2022329%20%28Basket%29&amp;rft.date=2006-05-12&amp;rft.creator=Justin%20Lev-Tov&amp;rft.contributor=Justin%20Lev-Tov&amp;rft.subject=archaeology&amp;rft.subject=Iron%20Age&amp;rft.subject=Late%20Bronze%20Age&amp;rft.subject=Near%20East&amp;rft.subject=Excavations&amp;rft.subject=Hazor&amp;rft.subject=Biblical%20archaeology&amp;rft.subject=subsistence&amp;rft.format=Text%2FHTML&amp;rft.coverage=Near%20East&amp;rft.language=eng&amp;rft.publisher=&amp;rft.source=Open%20Context&amp;rft.rights=Creative%20Commons%20Attribution%20NonCommercial%202.5&amp;rft_id=http%3A%2F%2Fwww.opencontext.org%2Fsubjects%2FHazorZooSPA0000010841</oc:coins>
+    <oc:no_props>This study includes zooarchaeological information only. Other content, including details of Hazor contexts, is not yet available. </oc:no_props>
+    <oc:copyright_lic>
+      <oc:lic_name>Creative Commons Attribution-Noncommercial</oc:lic_name>
+      <oc:lic_vers>2.5</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by-nc/2.5/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by-nc/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+    <oc:geo_reference>
+      <oc:geo_lat>32.9792</oc:geo_lat>
+      <oc:geo_long>35.5433</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/HazorZooSPA00000main">
+        <oc:source_name>Hazor</oc:source_name>
+        <oc:source_id>HazorZooSPA00000main</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2008-11-01T23:18:51Z</oc:last_updated>
+    <oc:item_views>
+      <oc:count>7</oc:count>
+      <oc:view_time>August 4, 2008, 6:58PM</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(1,100 BCE - 650 BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-1100</oc:time_start>
+          <oc:time_finish>-650</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/HazorZooSPA00000main">
+            <oc:source_name>Hazor</oc:source_name>
+            <oc:source_id>HazorZooSPA00000main</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2008-08-11T21:45:49Z</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

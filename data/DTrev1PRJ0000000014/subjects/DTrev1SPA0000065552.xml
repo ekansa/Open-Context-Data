@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:gml="http://www.opengis.net/gml" xmlns:dc="http://purl.org/dc/elements/1.1/" UUID="DTrev1SPA0000065552" ownedBy="DTrev1PRJ0000000014">
+  <arch:name>
+    <arch:string>Patient ID 443</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Patients</oc:name>
+    <oc:iconURI>http://www.opencontext.org/database/ui_images/med_oc_icons/patient_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>DTrev1VAR0000000811</arch:variableID>
+          <arch:valueID>DTrev1TXT0000057208</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DTrev1PRO0000094859">DTrev1PRO0000094859</oc:propid>
+          <oc:var_label type="nominal">Referral person</oc:var_label>
+          <oc:show_val>ED</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DTrev1VAR0000000812</arch:variableID>
+          <arch:valueID>DTrev1TXT0000057209</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DTrev1PRO0000094860">DTrev1PRO0000094860</oc:propid>
+          <oc:var_label type="nominal">Antibiotic</oc:var_label>
+          <oc:show_val>yes</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DTrev1VAR0000000820</arch:variableID>
+          <arch:valueID>DTrev1TXT0000057209</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DTrev1PRO0000094867">DTrev1PRO0000094867</oc:propid>
+          <oc:var_label type="nominal">Hypopyon (puss in anterior chamber)</oc:var_label>
+          <oc:show_val>yes</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DTrev1VAR0000000826</arch:variableID>
+          <arch:valueID>DTrev1TXT0000057212</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DTrev1PRO0000094873">DTrev1PRO0000094873</oc:propid>
+          <oc:var_label type="nominal">Culture media (Blood Agar)</oc:var_label>
+          <oc:show_val>growth</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DTrev1VAR0000000827</arch:variableID>
+          <arch:valueID>DTrev1TXT0000057212</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DTrev1PRO0000094874">DTrev1PRO0000094874</oc:propid>
+          <oc:var_label type="nominal">Culture media (Chocolate Agar)</oc:var_label>
+          <oc:show_val>growth</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DTrev1VAR0000000830</arch:variableID>
+          <arch:valueID>DTrev1TXT0000057213</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DTrev1PRO0000094877">DTrev1PRO0000094877</oc:propid>
+          <oc:var_label type="nominal">Gram's Stain</oc:var_label>
+          <oc:show_val>positive</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DTrev1VAR0000000828</arch:variableID>
+          <arch:valueID>DTrev1TXT0000057219</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DTrev1PRO0000094898">DTrev1PRO0000094898</oc:propid>
+          <oc:var_label type="nominal">Culture media (Potato Dextrose Agar)</oc:var_label>
+          <oc:show_val>no growth</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DTrev1VAR0000000829</arch:variableID>
+          <arch:valueID>DTrev1TXT0000057219</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DTrev1PRO0000094899">DTrev1PRO0000094899</oc:propid>
+          <oc:var_label type="nominal">Culture media (Brain Heart Infusion)</oc:var_label>
+          <oc:show_val>no growth</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DTrev1VAR0000000831</arch:variableID>
+          <arch:valueID>DTrev1TXT0000057221</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DTrev1PRO0000094901">DTrev1PRO0000094901</oc:propid>
+          <oc:var_label type="nominal">Giemsa Stain</oc:var_label>
+          <oc:show_val>organism not seen</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DTrev1VAR0000000832</arch:variableID>
+          <arch:valueID>DTrev1TXT0000057222</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DTrev1PRO0000094902">DTrev1PRO0000094902</oc:propid>
+          <oc:var_label type="nominal">Potassium Hydroxide (wet mount for fungal ulcer diagnosis)</oc:var_label>
+          <oc:show_val>no fungi seen</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DTrev1VAR0000000814</arch:variableID>
+          <arch:valueID>DTrev1TXT0000057209</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DTrev1PRO0000094911">DTrev1PRO0000094911</oc:propid>
+          <oc:var_label type="nominal">trauma</oc:var_label>
+          <oc:show_val>yes</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DTrev1VAR0000000808</arch:variableID>
+          <arch:valueID>DTrev1TXT0000057217</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DTrev1PRO0000094925">DTrev1PRO0000094925</oc:propid>
+          <oc:var_label type="nominal">Sex</oc:var_label>
+          <oc:show_val>f</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DTrev1VAR0000000810</arch:variableID>
+          <arch:valueID>DTrev1TXT0000057229</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DTrev1PRO0000094927">DTrev1PRO0000094927</oc:propid>
+          <oc:var_label type="nominal">work</oc:var_label>
+          <oc:show_val>house wife</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DTrev1VAR0000000836</arch:variableID>
+          <arch:valueID>DTrev1TXT0000057237</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DTrev1PRO0000094967">DTrev1PRO0000094967</oc:propid>
+          <oc:var_label type="nominal">strata</oc:var_label>
+          <oc:show_val>b</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DTrev1VAR0000000833</arch:variableID>
+          <arch:valueID>DTrev1TXT0000057241</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DTrev1PRO0000094993">DTrev1PRO0000094993</oc:propid>
+          <oc:var_label type="nominal">Summary diagnosis (from 10 day culture)</oc:var_label>
+          <oc:show_val>Pseudomonas aeruginosa</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DTrev1VAR0000000834</arch:variableID>
+          <arch:valueID>DTrev1TXT0000057241</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DTrev1PRO0000094994">DTrev1PRO0000094994</oc:propid>
+          <oc:var_label type="nominal">bacteria</oc:var_label>
+          <oc:show_val>Pseudomonas aeruginosa</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DTrev1VAR0000000815</arch:variableID>
+          <arch:valueID>DTrev1TXT0000057279</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DTrev1PRO0000095182">DTrev1PRO0000095182</oc:propid>
+          <oc:var_label type="nominal">trauma agent</oc:var_label>
+          <oc:show_val>dust</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DTrev1VAR0000000806</arch:variableID>
+          <arch:integer>443</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/DTrev1PRO0000097065">DTrev1PRO0000097065</oc:propid>
+          <oc:var_label type="integer">Patient ID</oc:var_label>
+          <oc:show_val>443</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DTrev1VAR0000000817</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">9.5</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/DTrev1PRO0000097066">DTrev1PRO0000097066</oc:propid>
+          <oc:var_label type="decimal">length epithelial defect (mm)</oc:var_label>
+          <oc:show_val>9.5</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DTrev1VAR0000000818</arch:variableID>
+          <arch:decimal>77.9</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/DTrev1PRO0000097067">DTrev1PRO0000097067</oc:propid>
+          <oc:var_label type="decimal">epithelial defect area</oc:var_label>
+          <oc:show_val>77.9</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DTrev1VAR0000000819</arch:variableID>
+          <arch:decimal>8.82609766545</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/DTrev1PRO0000097068">DTrev1PRO0000097068</oc:propid>
+          <oc:var_label type="decimal">Sqrt of defect area</oc:var_label>
+          <oc:show_val>8.82609766544649</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DTrev1VAR0000000825</arch:variableID>
+          <arch:valueID>DTrev1TXT0000057559</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DTrev1PRO0000097069">DTrev1PRO0000097069</oc:propid>
+          <oc:var_label type="nominal">complicating factors</oc:var_label>
+          <oc:show_val>pregnant</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Observer">DTrev1PER0000003283</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/DTrev1PER0000003283" cite="creator">
+            <oc:name>John P. Whitcher</oc:name>
+            <oc:id>DTrev1PER0000003283</oc:id>
+            <oc:relation>Observer</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/6_global_India">
+        <oc:name>India</oc:name>
+        <oc:id>6_global_India</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/DTrev1add0000065110">
+        <oc:name>Madurai</oc:name>
+        <oc:id>DTrev1add0000065110</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/DTrev1SPA0000065110">
+        <oc:name>Aravind Eye Hospital</oc:name>
+        <oc:id>DTrev1SPA0000065110</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Hospital</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/hospital_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Corneal Ulceration in South East Asia: Patient ID 443 (Patients)</dc:title>
+    <dc:date>2006-07-11</dc:date>
+    <dc:coverage>South Asia</dc:coverage>
+    <dc:creator>Mathuiah Srinivasan</dc:creator>
+    <dc:creator>John P. Whitcher</dc:creator>
+    <dc:format>Text/HTML</dc:format>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:rights>Creative Commons Attribution NonCommercial 2.5</dc:rights>
+    <dc:subject>ophthalmology</dc:subject>
+    <dc:subject>India</dc:subject>
+    <dc:subject>public health</dc:subject>
+    <dc:subject>infections disease</dc:subject>
+    <dc:subject>eye</dc:subject>
+    <dc:subject>public health</dc:subject>
+    <dc:subject>developing world</dc:subject>
+    <dc:contributor>John P. Whitcher</dc:contributor>
+    <dc:identifier>http://opencontext.org/subjects/DTrev1SPA0000065552</dc:identifier>
+    <oc:project_name>Corneal Ulceration in South East Asia</oc:project_name>
+    <oc:primary_xsl>default/default_spatial.xsl</oc:primary_xsl>
+    <oc:pub_date>2006-07-11T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Corneal%20Ulceration%20in%20South%20East%20Asia%3A%20Patient%20ID%20443%20%28Patients%29&amp;rft.date=2006-07-11&amp;rft.creator=Mathuiah%20Srinivasan&amp;rft.creator=John%20P.%20Whitcher&amp;rft.contributor=John%20P.%20Whitcher&amp;rft.subject=ophthalmology&amp;rft.subject=India&amp;rft.subject=public%20health&amp;rft.subject=infections%20disease&amp;rft.subject=eye&amp;rft.subject=public%20health&amp;rft.subject=developing%20world&amp;rft.format=Text%2FHTML&amp;rft.coverage=South%20Asia&amp;rft.language=eng&amp;rft.publisher=&amp;rft.source=Open%20Context&amp;rft.rights=Creative%20Commons%20Attribution%20NonCommercial%202.5&amp;rft_id=http%3A%2F%2Fwww.opencontext.org%2Fsubjects%2FDTrev1SPA0000065552</oc:coins>
+    <oc:no_props>This project provides no general information about the Aravind Eye Hospital. Please refer to its website:&#13;
+&lt;a href='http://www.aravind.org/'&gt;&lt;b&gt;www.aravind.org&lt;/b&gt;&lt;/a&gt; </oc:no_props>
+    <oc:copyright_lic>
+      <oc:lic_name>Creative Commons Attribution-Noncommercial</oc:lic_name>
+      <oc:lic_vers>2.5</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by-nc/2.5/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by-nc/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+    <oc:geo_reference>
+      <oc:geo_lat>9.55</oc:geo_lat>
+      <oc:geo_long>78.1</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/DTrev1add0000065110">
+        <oc:source_name>Madurai</oc:source_name>
+        <oc:source_id>DTrev1add0000065110</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2008-11-01T22:38:34Z</oc:last_updated>
+    <oc:item_views>
+      <oc:count>9</oc:count>
+      <oc:view_time>August 4, 2008, 11:36AM</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(1990 CE - 1995 CE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>1990</oc:time_start>
+          <oc:time_finish>1995</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/DTrev1SPA0000065110">
+            <oc:source_name>Aravind Eye Hospital</oc:source_name>
+            <oc:source_id>DTrev1SPA0000065110</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2008-08-11T21:45:49Z</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

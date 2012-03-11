@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:gml="http://www.opengis.net/gml" xmlns:dc="http://purl.org/dc/elements/1.1/" UUID="14570_DT_Spatial" ownedBy="3">
+  <arch:name>
+    <arch:string>DT# 1418</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Small Find</oc:name>
+    <oc:iconURI>http://www.opencontext.org/database/ui_images/med_oc_icons/small_finds_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>24_DT_Var</arch:variableID>
+          <arch:integer>1418</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/24_1418_DT2_VarVal">24_1418_DT2_VarVal</oc:propid>
+          <oc:var_label type="integer">Small Find / DT number</oc:var_label>
+          <oc:show_val>1418</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>25_DT_Var</arch:variableID>
+          <arch:integer>41</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/25_41_DT2_VarVal">25_41_DT2_VarVal</oc:propid>
+          <oc:var_label type="integer">Internal Find Number</oc:var_label>
+          <oc:show_val>41</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>26_DT_Var</arch:variableID>
+          <arch:date>1998-08-15T00:00:00Z</arch:date>
+          <oc:propid href="http://opencontext.org/properties/26_19980815_DT2_VarVal">26_19980815_DT2_VarVal</oc:propid>
+          <oc:var_label type="calendar">Find Date</oc:var_label>
+          <oc:show_val>1998/08/15</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>27_DT_Var</arch:variableID>
+          <arch:date>1998-09-12T00:00:00Z</arch:date>
+          <oc:propid href="http://opencontext.org/properties/27_19980912_DT2_VarVal">27_19980912_DT2_VarVal</oc:propid>
+          <oc:var_label type="calendar">Registration Date</oc:var_label>
+          <oc:show_val>1998/09/12</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>28_DT_Var</arch:variableID>
+          <arch:valueID>278_DT_Value</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/28_278_DT_VarVal">28_278_DT_VarVal</oc:propid>
+          <oc:var_label type="nominal">Artifact Name</oc:var_label>
+          <oc:show_val>Sling ball</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>29_DT_Var</arch:variableID>
+          <arch:valueID>248_DT_Value</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/29_248_DT_VarVal">29_248_DT_VarVal</oc:propid>
+          <oc:var_label type="nominal">Material</oc:var_label>
+          <oc:show_val>Fired clay</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>30_DT_Var</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/gram" name="gram" abrv="g">18.8</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/30_18.8_DT2_VarVal">30_18.8_DT2_VarVal</oc:propid>
+          <oc:var_label type="decimal">Mass (g)</oc:var_label>
+          <oc:show_val>18.8</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>31_DT_Var</arch:variableID>
+          <arch:valueID>224_DT_Value</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/31_224_DT_VarVal">31_224_DT_VarVal</oc:propid>
+          <oc:var_label type="nominal">Disposition</oc:var_label>
+          <oc:show_val>Depot</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Observer">36_DT_Person</arch:docID>
+        <arch:docID type="person" info="Observer">20_DT_Person</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/36_DT_Person" cite="contributor">
+            <oc:name>Ellen Belcher</oc:name>
+            <oc:id>36_DT_Person</oc:id>
+            <oc:relation>Observer</oc:relation>
+          </oc:link>
+          <oc:link href="http://opencontext.org/persons/20_DT_Person" cite="creator">
+            <oc:name>Elizabeth Carter</oc:name>
+            <oc:id>20_DT_Person</oc:id>
+            <oc:relation>Observer</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string>Reddish clay.  Complete, end slightly chipped</arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+        <oc:name>Turkey</oc:name>
+        <oc:id>1_Global_Spatial</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/1_DT_Spatial">
+        <oc:name>Domuztepe</oc:name>
+        <oc:id>1_DT_Spatial</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/127_DT_Spatial">
+        <oc:name>I</oc:name>
+        <oc:id>127_DT_Spatial</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Operation</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/1019_DT_Spatial">
+        <oc:name>Lot 1917</oc:name>
+        <oc:id>1019_DT_Spatial</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Lot</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Domuztepe Excavations: DT# 1418 (Small Find)</dc:title>
+    <dc:date>2006-03-01</dc:date>
+    <dc:coverage>Near East</dc:coverage>
+    <dc:creator>Stuart Campbell</dc:creator>
+    <dc:creator>Elizabeth Carter</dc:creator>
+    <dc:format>Text/HTML</dc:format>
+    <dc:format>.jpg</dc:format>
+    <dc:format>.gif</dc:format>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:rights>Creative Commons Attribution NonCommercial 2.5</dc:rights>
+    <dc:subject>Archaeology</dc:subject>
+    <dc:subject>Halaf</dc:subject>
+    <dc:subject>Neolithic</dc:subject>
+    <dc:subject>Near East</dc:subject>
+    <dc:subject>Excavations</dc:subject>
+    <dc:subject>Domuztepe</dc:subject>
+    <dc:subject>7th millennium</dc:subject>
+    <dc:subject>Village</dc:subject>
+    <dc:contributor>Ellen Belcher</dc:contributor>
+    <dc:contributor>Elizabeth Carter</dc:contributor>
+    <dc:identifier>http://opencontext.org/subjects/14570_DT_Spatial</dc:identifier>
+    <oc:project_name>Domuztepe Excavations</oc:project_name>
+    <oc:primary_xsl>default/default_spatial.xsl</oc:primary_xsl>
+    <oc:pub_date>2006-03-01T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Domuztepe%20Excavations%3A%20DT%23%201418%20%28Small%20Find%29&amp;rft.date=2006-03-01&amp;rft.creator=Stuart%20Campbell&amp;rft.creator=Elizabeth%20Carter&amp;rft.contributor=Ellen%20Belcher&amp;rft.contributor=Elizabeth%20Carter&amp;rft.subject=Archaeology&amp;rft.subject=Halaf&amp;rft.subject=Neolithic&amp;rft.subject=Near%20East&amp;rft.subject=Excavations&amp;rft.subject=Domuztepe&amp;rft.subject=7th%20millennium&amp;rft.subject=Village&amp;rft.format=Text%2FHTML&amp;rft.format=.jpg&amp;rft.format=.gif&amp;rft.coverage=Near%20East&amp;rft.language=eng&amp;rft.publisher=&amp;rft.source=Open%20Context&amp;rft.rights=Creative%20Commons%20Attribution%20NonCommercial%202.5&amp;rft_id=http%3A%2F%2Fwww.opencontext.org%2Fsubjects%2F14570_DT_Spatial</oc:coins>
+    <oc:no_props>Additional information from the Domuztepe project is forthcoming. </oc:no_props>
+    <oc:copyright_lic>
+      <oc:lic_name>Creative Commons Attribution-Noncommercial</oc:lic_name>
+      <oc:lic_vers>2.5</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by-nc/2.5/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by-nc/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+    <oc:geo_reference>
+      <oc:geo_lat>37.33</oc:geo_lat>
+      <oc:geo_long>37.044</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/1_DT_Spatial">
+        <oc:source_name>Domuztepe</oc:source_name>
+        <oc:source_id>1_DT_Spatial</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2008-10-31T21:57:55Z</oc:last_updated>
+    <oc:item_views>
+      <oc:count>18</oc:count>
+      <oc:view_time>August 1, 2008, 1:14PM</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(6,500 BCE - 5,500 BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-6500</oc:time_start>
+          <oc:time_finish>-5500</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/1_DT_Spatial">
+            <oc:source_name>Domuztepe</oc:source_name>
+            <oc:source_id>1_DT_Spatial</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2008-08-11T21:45:49Z</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:gml="http://www.opengis.net/gml" xmlns:dc="http://purl.org/dc/elements/1.1/" UUID="GBHaySPA0000004145" ownedBy="GBHayPRJ0000000005">
+  <arch:name>
+    <arch:string>Sample: HAY-95-28</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Sample</oc:name>
+    <oc:iconURI>http://www.opencontext.org/database/ui_images/med_oc_icons/sample_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>GBHayVAR0000000344</arch:variableID>
+          <arch:valueID>GBHayTXT0000004384</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/GBHayPRO0000021341">GBHayPRO0000021341</oc:propid>
+          <oc:var_label type="nominal">Culture</oc:var_label>
+          <oc:show_val> Mousterian</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>GBHayVAR0000000337</arch:variableID>
+          <arch:valueID>GBHayTXT0000004460</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/GBHayPRO0000021432">GBHayPRO0000021432</oc:propid>
+          <oc:var_label type="nominal">Sample No.</oc:var_label>
+          <oc:show_val>HAY-95-28</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>GBHayVAR0000000338</arch:variableID>
+          <arch:valueID>GBHayTXT0000004461</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/GBHayPRO0000021433">GBHayPRO0000021433</oc:propid>
+          <oc:var_label type="nominal">Square</oc:var_label>
+          <oc:show_val>I21c</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>GBHayVAR0000000343</arch:variableID>
+          <arch:valueID>GBHayTXT0000004462</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/GBHayPRO0000021434">GBHayPRO0000021434</oc:propid>
+          <oc:var_label type="alphanumeric">Original (X,Y,Z)</oc:var_label>
+          <oc:show_val>X:95 Y:5 Z:-465</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>GBHayVAR0000000345</arch:variableID>
+          <arch:valueID>GBHayTXT0000004463</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/GBHayPRO0000021435">GBHayPRO0000021435</oc:propid>
+          <oc:var_label type="nominal">Color</oc:var_label>
+          <oc:show_val>dark brown [7.5YR5/4]</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>GBHayVAR0000000346</arch:variableID>
+          <arch:valueID>GBHayTXT0000004464</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/GBHayPRO0000021436">GBHayPRO0000021436</oc:propid>
+          <oc:var_label type="alphanumeric">Field Description</oc:var_label>
+          <oc:show_val>Light, porous, crumbly silt with abundant phosphate cements: dark brown [collo.?], yellow, blob-type, possible red [leucophosphite?]. Some TR grains; no bone.  Seems quite altered though it is ~45 cm from travertine block in H22. 28-B: patches of secondary silica?</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Observer">GBHayPER0000003269</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/GBHayPER0000003269" cite="creator">
+            <oc:name>Paul Goldberg</oc:name>
+            <oc:id>GBHayPER0000003269</oc:id>
+            <oc:relation>Observer</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/3_Global_Israel">
+        <oc:name>Israel</oc:name>
+        <oc:id>3_Global_Israel</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/GBHaySPA0000003963">
+        <oc:name>Hayonim</oc:name>
+        <oc:id>GBHaySPA0000003963</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/GBHaySPA0000004146">
+        <oc:name>Square: I21c</oc:name>
+        <oc:id>GBHaySPA0000004146</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Square</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Hayonim: Micromorphology: Sample: HAY-95-28 (Sample)</dc:title>
+    <dc:date>2006-04-05</dc:date>
+    <dc:coverage>Near East</dc:coverage>
+    <dc:creator>Paul Goldberg</dc:creator>
+    <dc:format>Text/HTML</dc:format>
+    <dc:format>.jpg</dc:format>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:rights>Creative Commons Attribution NonCommercial 2.5</dc:rights>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>Mousterian</dc:subject>
+    <dc:subject>geology</dc:subject>
+    <dc:subject>Middle Paleolithic</dc:subject>
+    <dc:subject>Kebaran</dc:subject>
+    <dc:subject>Epi-Paleolithic</dc:subject>
+    <dc:subject>Israel</dc:subject>
+    <dc:subject>Levant</dc:subject>
+    <dc:subject>Micromorphology</dc:subject>
+    <dc:subject>Geology</dc:subject>
+    <dc:subject>Cave</dc:subject>
+    <dc:subject>Deposition</dc:subject>
+    <dc:contributor>Paul Goldberg</dc:contributor>
+    <dc:identifier>http://opencontext.org/subjects/GBHaySPA0000004145</dc:identifier>
+    <oc:project_name>Hayonim: Micromorphology</oc:project_name>
+    <oc:primary_xsl>default/default_spatial.xsl</oc:primary_xsl>
+    <oc:pub_date>2006-04-05T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Hayonim%3A%20Micromorphology%3A%20Sample%3A%20HAY-95-28%20%28Sample%29&amp;rft.date=2006-04-05&amp;rft.creator=Paul%20Goldberg&amp;rft.contributor=Paul%20Goldberg&amp;rft.subject=archaeology&amp;rft.subject=Mousterian&amp;rft.subject=geology&amp;rft.subject=Middle%20Paleolithic&amp;rft.subject=Kebaran&amp;rft.subject=Epi-Paleolithic&amp;rft.subject=Israel&amp;rft.subject=Levant&amp;rft.subject=Micromorphology&amp;rft.subject=Geology&amp;rft.subject=Cave&amp;rft.subject=Deposition&amp;rft.format=Text%2FHTML&amp;rft.format=.jpg&amp;rft.coverage=Near%20East&amp;rft.language=eng&amp;rft.publisher=&amp;rft.source=Open%20Context&amp;rft.rights=Creative%20Commons%20Attribution%20NonCommercial%202.5&amp;rft_id=http%3A%2F%2Fwww.opencontext.org%2Fsubjects%2FGBHaySPA0000004145</oc:coins>
+    <oc:no_props>This study includes geoarchaeological information only. Other content, including details of Hayonim contexts, is not yet available. </oc:no_props>
+    <oc:copyright_lic>
+      <oc:lic_name>Creative Commons Attribution-Noncommercial</oc:lic_name>
+      <oc:lic_vers>2.5</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by-nc/2.5/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by-nc/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+    <oc:geo_reference>
+      <oc:geo_lat>33.0323</oc:geo_lat>
+      <oc:geo_long>35.3081</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/GBHaySPA0000003963">
+        <oc:source_name>Hayonim</oc:source_name>
+        <oc:source_id>GBHaySPA0000003963</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2008-11-01T23:12:48Z</oc:last_updated>
+    <oc:item_views>
+      <oc:count>10</oc:count>
+      <oc:view_time>August 4, 2008, 3:19PM</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(200K BCE - 40K BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-200000</oc:time_start>
+          <oc:time_finish>-40000</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/GBHaySPA0000003963">
+            <oc:source_name>Hayonim</oc:source_name>
+            <oc:source_id>GBHaySPA0000003963</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2008-08-11T21:45:49Z</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

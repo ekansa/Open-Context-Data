@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:gml="http://www.opengis.net/gml" xmlns:dc="http://purl.org/dc/elements/1.1/" UUID="43A4B355-5050-4BBA-AEBB-39CE18F85524" ownedBy="CBB6B9F7-500C-4DDD-71AA-4D5E5B96CDBB">
+  <arch:name>
+    <arch:string>Bone 2.00</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Animal Bone</oc:name>
+    <oc:iconURI>http://www.opencontext.org/database/ui_images/med_oc_icons/animal_bone_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>149020AB-AE12-4AA0-7CC8-F9BB746CBF01</arch:variableID>
+          <arch:valueID>B7D7EBA9-8E71-4920-4E84-A1EB676B52D1</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/27A229EB-B41D-4ABC-59EF-7E96CFDE8D93">27A229EB-B41D-4ABC-59EF-7E96CFDE8D93</oc:propid>
+          <oc:var_label type="nominal">Taxon</oc:var_label>
+          <oc:show_val>Bos taurus</oc:show_val>
+        <oc:linkedData><oc:relationLink localType="variable" localID="149020AB-AE12-4AA0-7CC8-F9BB746CBF01" href="http://purl.org/NET/biol/ns#term_hasTaxonomy"><oc:vocabulary href="http://purl.org/NET/biol/ns#">Biological Taxonomy Vocabulary</oc:vocabulary><oc:label>Has Biological Taxonomy</oc:label><oc:targetLink localType="property" localID="27A229EB-B41D-4ABC-59EF-7E96CFDE8D93" localURI="http://opencontext.org/properties/27A229EB-B41D-4ABC-59EF-7E96CFDE8D93" href="http://eol.org/pages/328699"><oc:vocabulary href="http://eol.org/">Encyclopedia of Life</oc:vocabulary><oc:label>Bos taurus Linnaeus, 1758</oc:label></oc:targetLink></oc:relationLink></oc:linkedData></arch:property>
+        <arch:property>
+          <arch:variableID>85E75CCB-2113-41C6-E4AF-A42804B84506</arch:variableID>
+          <arch:valueID>2B6564D2-A22F-4297-2E40-0B9B33373A5D</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/F7645E67-5383-4976-B3AC-626C2EFAEAF7">F7645E67-5383-4976-B3AC-626C2EFAEAF7</oc:propid>
+          <oc:var_label type="nominal">Inventory Number</oc:var_label>
+          <oc:show_val>002</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D60D88A5-D352-48E5-D6AD-76A861026EF4</arch:variableID>
+          <arch:integer>1998</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/433EA10F-9E4A-4239-801B-574D20A33BBD">433EA10F-9E4A-4239-801B-574D20A33BBD</oc:propid>
+          <oc:var_label type="integer">Season</oc:var_label>
+          <oc:show_val>1998</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>48774576-858C-4490-03F9-D7A70D7E107F</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/gram" name="gram" abrv="g">8</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/39479C11-6A26-420D-ABBD-A87E7CA58A6E">39479C11-6A26-420D-ABBD-A87E7CA58A6E</oc:propid>
+          <oc:var_label type="decimal">Weight (g)</oc:var_label>
+          <oc:show_val>8</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>2C47E88B-EEBA-4857-835D-974A8567C830</arch:variableID>
+          <arch:valueID>A7308939-47AE-4123-73D2-47706D74EDDB</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/9591B1BE-C958-4C4C-9685-DCE82AD182AC">9591B1BE-C958-4C4C-9685-DCE82AD182AC</oc:propid>
+          <oc:var_label type="nominal">Element</oc:var_label>
+          <oc:show_val>premaxilla</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D9845903-DF49-4F72-86EE-73F3267AEB2C</arch:variableID>
+          <arch:valueID>0F9B8ACE-0C36-4384-1D0D-47683E5B7CED</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/47790DA5-E880-40A1-A937-CC7EEBB920FA">47790DA5-E880-40A1-A937-CC7EEBB920FA</oc:propid>
+          <oc:var_label type="nominal">Symmetry</oc:var_label>
+          <oc:show_val>left</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>96D68B07-2B03-4101-3071-B8B02E045A72</arch:variableID>
+          <arch:valueID>4B74538E-5359-47AB-270A-08D8C75D10EA</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/67AD1A27-D12E-4554-5600-9196B5D6B2C1">67AD1A27-D12E-4554-5600-9196B5D6B2C1</oc:propid>
+          <oc:var_label type="nominal">Portion</oc:var_label>
+          <oc:show_val>proximal</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DE939D4A-E817-4B20-1C9D-4DE653417C0C</arch:variableID>
+          <arch:integer href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">43</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/EB80614D-CE49-4596-6909-3703B0431057">EB80614D-CE49-4596-6909-3703B0431057</oc:propid>
+          <oc:var_label type="integer">Greatest Fragment Size (mm)</oc:var_label>
+          <oc:show_val>43</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>60DF80D9-F247-4654-0471-6113DCFEB327</arch:variableID>
+          <arch:integer href="http://www.freebase.com/view/en/counting_measure" name="counting measure" abrv="count">1</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/40F6D9BF-6CBE-489C-B4EF-1C761E84B512">40F6D9BF-6CBE-489C-B4EF-1C761E84B512</oc:propid>
+          <oc:var_label type="integer">Total Number</oc:var_label>
+          <oc:show_val>1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9376EE17-95C8-42DD-70AB-84A78F7C4EFB</arch:variableID>
+          <arch:valueID>CB5D3C1B-00A1-422C-718F-1AF45D884A38</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/26A8FE91-F15B-4403-5403-5EB91D35646E">26A8FE91-F15B-4403-5403-5EB91D35646E</oc:propid>
+          <oc:var_label type="alphanumeric">Note about Element</oc:var_label>
+          <oc:show_val>without teeth</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>13865D5D-880A-4034-DAEB-CE2300A34C2D</arch:variableID>
+          <arch:decimal>45</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/3E433DC6-73BA-44AF-C065-C72753924F99">3E433DC6-73BA-44AF-C065-C72753924F99</oc:propid>
+          <oc:var_label type="decimal">Bag</oc:var_label>
+          <oc:show_val>45</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>EA4DD7A8-B816-41F1-756A-8D93AE52D740</arch:variableID>
+          <arch:integer>700</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/A2157C2A-7591-49AE-3C08-4BF71DBD53D5">A2157C2A-7591-49AE-3C08-4BF71DBD53D5</oc:propid>
+          <oc:var_label type="integer">Building</oc:var_label>
+          <oc:show_val>700</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Principle Author / Analyst">0262B276-CE58-4386-7BA7-D73F3352A694</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/0262B276-CE58-4386-7BA7-D73F3352A694" cite="contributor">
+            <oc:name>Justin Lev-Tov</oc:name>
+            <oc:id>0262B276-CE58-4386-7BA7-D73F3352A694</oc:id>
+            <oc:relation>Principle Author / Analyst</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/D9AE02E5-C3F3-41D0-EB3A-39798F63GGGG">
+        <oc:name>Jordan</oc:name>
+        <oc:id>D9AE02E5-C3F3-41D0-EB3A-39798F63GGGG</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/AF09E5AA-7D56-4E7A-0678-B39EE4690A95">
+        <oc:name>Khirbat al-Mudayna al-Aliya</oc:name>
+        <oc:id>AF09E5AA-7D56-4E7A-0678-B39EE4690A95</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/AD563668-ACFE-4E2C-8F53-B481385BA014">
+        <oc:name>Unit 5I05</oc:name>
+        <oc:id>AD563668-ACFE-4E2C-8F53-B481385BA014</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Square</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/66A2DF8B-3AC9-476A-2549-EE06D82E54C3">
+        <oc:name>Locus 5</oc:name>
+        <oc:id>66A2DF8B-3AC9-476A-2549-EE06D82E54C3</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Locus</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Khirbat al-Mudayna al-Aliya: Bone 2.00 (Animal Bone)</dc:title>
+    <dc:date>2010-06-08</dc:date>
+    <dc:creator>Bruce Routledge</dc:creator>
+    <dc:creator>Benjamin Porter</dc:creator>
+    <dc:subject>pastoralism</dc:subject>
+    <dc:subject>economy</dc:subject>
+    <dc:subject>agriculture</dc:subject>
+    <dc:subject>Southern Levant</dc:subject>
+    <dc:subject>Semi-Arid</dc:subject>
+    <dc:subject>Kerak Plateau</dc:subject>
+    <dc:subject>Jordan</dc:subject>
+    <dc:subject>Iron I</dc:subject>
+    <dc:subject>Early Iron Age</dc:subject>
+    <dc:subject>subsistence</dc:subject>
+    <dc:contributor>Justin Lev-Tov</dc:contributor>
+    <dc:identifier>http://opencontext.org/subjects/43A4B355-5050-4BBA-AEBB-39CE18F85524</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/CBB6B9F7-500C-4DDD-71AA-4D5E5B96CDBB">Khirbat al-Mudayna al-Aliya</oc:project_name>
+    <oc:primary_xsl>default/</oc:primary_xsl>
+    <oc:sourceID>z_41_cb073a8c2</oc:sourceID>
+    <oc:pub_date>2010-06-08T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Khirbat%20al-Mudayna%20al-Aliya%3A%20Bone%202.00%20%28Animal%20Bone%29&amp;rft.date=2010-06-08&amp;rft.contributor=Justin%20Lev-Tov&amp;rft_id=http%3A%2F%2Fopencontext.org%2Fsubjects%2F43A4B355-5050-4BBA-AEBB-39CE18F85524</oc:coins>
+    <oc:no_props>No properties</oc:no_props>
+    <oc:copyright_lic>
+      <oc:lic_name>Creative Commons Attribution</oc:lic_name>
+      <oc:lic_vers>3.0</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+    <oc:geo_reference>
+      <oc:geo_lat>31.279645</oc:geo_lat>
+      <oc:geo_long>35.868772</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/AF09E5AA-7D56-4E7A-0678-B39EE4690A95">
+        <oc:source_name>Khirbat al-Mudayna al-Aliya</oc:source_name>
+        <oc:source_id>AF09E5AA-7D56-4E7A-0678-B39EE4690A95</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2010-06-08T01:18:38Z</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2010/06/08 01:18:38</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(1,100 BCE - 1,000 BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-1100</oc:time_start>
+          <oc:time_finish>-1000</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/AF09E5AA-7D56-4E7A-0678-B39EE4690A95">
+            <oc:source_name>Khirbat al-Mudayna al-Aliya</oc:source_name>
+            <oc:source_id>AF09E5AA-7D56-4E7A-0678-B39EE4690A95</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2010-05-18T16:52:26Z</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

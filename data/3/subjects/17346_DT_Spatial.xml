@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:gml="http://www.opengis.net/gml" xmlns:dc="http://purl.org/dc/elements/1.1/" UUID="17346_DT_Spatial" ownedBy="3">
+  <arch:name>
+    <arch:string>DT99-2005</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Animal Bone</oc:name>
+    <oc:iconURI>http://www.opencontext.org/database/ui_images/med_oc_icons/animal_bone_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>10_DT_Var</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/counting_measure" name="counting measure" abrv="count">1</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/10_1_DT2_VarVal">10_1_DT2_VarVal</oc:propid>
+          <oc:var_label type="decimal">NISP</oc:var_label>
+          <oc:show_val>1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>11_DT_Var</arch:variableID>
+          <arch:valueID>53_DT_Value</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/11_53_DT_VarVal">11_53_DT_VarVal</oc:propid>
+          <oc:var_label type="nominal">Taxon</oc:var_label>
+          <oc:show_val>Ovis aries / Capra hircus</oc:show_val>
+        <oc:linkedData><oc:relationLink localType="variable" localID="11_DT_Var" href="http://purl.org/NET/biol/ns#term_hasTaxonomy"><oc:vocabulary href="http://purl.org/NET/biol/ns#">Biological Taxonomy Vocabulary</oc:vocabulary><oc:label>Has Biological Taxonomy</oc:label><oc:targetLink localType="property" localID="11_53_DT_VarVal" localURI="http://opencontext.org/properties/11_53_DT_VarVal" href="http://eol.org/pages/2851411"><oc:vocabulary href="http://eol.org/">Encyclopedia of Life</oc:vocabulary><oc:label>Caprinae</oc:label></oc:targetLink></oc:relationLink></oc:linkedData></arch:property>
+        <arch:property>
+          <arch:variableID>12_DT_Var</arch:variableID>
+          <arch:valueID>48_DT_Value</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/12_48_DT_VarVal">12_48_DT_VarVal</oc:propid>
+          <oc:var_label type="nominal">Taxon Certainty</oc:var_label>
+          <oc:show_val>Certain</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>13_DT_Var</arch:variableID>
+          <arch:valueID>1C1B4AA8-4880-4824-1739-CD6E04AEF9BE</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/13_52_DT_VarVal">13_52_DT_VarVal</oc:propid>
+          <oc:var_label type="nominal">Element</oc:var_label>
+          <oc:show_val>calcaneus</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>14_DT_Var</arch:variableID>
+          <arch:valueID>48_DT_Value</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/14_48_DT_VarVal">14_48_DT_VarVal</oc:propid>
+          <oc:var_label type="nominal">Element Certainty</oc:var_label>
+          <oc:show_val>Certain</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B1BB9E0B-B9B8-46B9-63F6-7E851D4F6E75</arch:variableID>
+          <arch:valueID>430_DT_Value</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/32_430_DT_VarVal">32_430_DT_VarVal</oc:propid>
+          <oc:var_label type="nominal">Side</oc:var_label>
+          <oc:show_val>Right</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>34_DT_Var</arch:variableID>
+          <arch:valueID>426_DT_Value</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/34_426_DT_VarVal">34_426_DT_VarVal</oc:propid>
+          <oc:var_label type="nominal">Fusion (Distal)</oc:var_label>
+          <oc:show_val>Unfused</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>35_DT_Var</arch:variableID>
+          <arch:valueID>69_DT_Value</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/35_69_DT_VarVal">35_69_DT_VarVal</oc:propid>
+          <oc:var_label type="nominal">Sex</oc:var_label>
+          <oc:show_val>unidentified</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>37_DT_Var</arch:variableID>
+          <arch:boolean>False</arch:boolean>
+          <oc:propid href="http://opencontext.org/properties/37_2_DT2_VarVal">37_2_DT2_VarVal</oc:propid>
+          <oc:var_label type="boolean">Pathology Noted</oc:var_label>
+          <oc:show_val>False</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>50_DT_Var</arch:variableID>
+          <arch:valueID/>
+          <oc:propid href="http://opencontext.org/properties/50_507_DT_VarVal">50_507_DT_VarVal</oc:propid>
+          <oc:var_label type="ordinal">Bone Preservation</oc:var_label>
+          <oc:show_val>3</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8_DT_Var</arch:variableID>
+          <arch:valueID>15196alpha_DT_Val</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/8_15196alpha_DT2_VarVal">8_15196alpha_DT2_VarVal</oc:propid>
+          <oc:var_label type="alphanumeric">Bone ID</oc:var_label>
+          <oc:show_val>DT99-2005</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Observer">EAD7A209-7926-4C08-AE00-5EF348FC6435</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/EAD7A209-7926-4C08-AE00-5EF348FC6435" cite="contributor">
+            <oc:name>Sarah Whitcher Kansa</oc:name>
+            <oc:id>EAD7A209-7926-4C08-AE00-5EF348FC6435</oc:id>
+            <oc:relation>Observer</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+        <oc:name>Turkey</oc:name>
+        <oc:id>1_Global_Spatial</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/1_DT_Spatial">
+        <oc:name>Domuztepe</oc:name>
+        <oc:id>1_DT_Spatial</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/127_DT_Spatial">
+        <oc:name>I</oc:name>
+        <oc:id>127_DT_Spatial</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Operation</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/16701_DT_Spatial">
+        <oc:name>Lot 2500</oc:name>
+        <oc:id>16701_DT_Spatial</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Lot</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Domuztepe Excavations: DT99-2005 (Animal Bone)</dc:title>
+    <dc:date>2006-03-01</dc:date>
+    <dc:coverage>Near East</dc:coverage>
+    <dc:creator>Stuart Campbell</dc:creator>
+    <dc:creator>Elizabeth Carter</dc:creator>
+    <dc:format>Text/HTML</dc:format>
+    <dc:format>.jpg</dc:format>
+    <dc:format>.gif</dc:format>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:rights>Creative Commons Attribution NonCommercial 2.5</dc:rights>
+    <dc:subject>Archaeology</dc:subject>
+    <dc:subject>Halaf</dc:subject>
+    <dc:subject>Neolithic</dc:subject>
+    <dc:subject>Near East</dc:subject>
+    <dc:subject>Excavations</dc:subject>
+    <dc:subject>Domuztepe</dc:subject>
+    <dc:subject>7th millennium</dc:subject>
+    <dc:subject>Village</dc:subject>
+    <dc:contributor>Sarah Whitcher Kansa</dc:contributor>
+    <dc:identifier>http://opencontext.org/subjects/17346_DT_Spatial</dc:identifier>
+    <oc:project_name>Domuztepe Excavations</oc:project_name>
+    <oc:primary_xsl>default/default_spatial.xsl</oc:primary_xsl>
+    <oc:pub_date>2006-03-01T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Domuztepe%20Excavations%3A%20DT99-2005%20%28Animal%20Bone%29&amp;rft.date=2006-03-01&amp;rft.creator=Stuart%20Campbell&amp;rft.creator=Elizabeth%20Carter&amp;rft.contributor=Sarah%20Whitcher%20Kansa&amp;rft.subject=Archaeology&amp;rft.subject=Halaf&amp;rft.subject=Neolithic&amp;rft.subject=Near%20East&amp;rft.subject=Excavations&amp;rft.subject=Domuztepe&amp;rft.subject=7th%20millennium&amp;rft.subject=Village&amp;rft.format=Text%2FHTML&amp;rft.format=.jpg&amp;rft.format=.gif&amp;rft.coverage=Near%20East&amp;rft.language=eng&amp;rft.publisher=&amp;rft.source=Open%20Context&amp;rft.rights=Creative%20Commons%20Attribution%20NonCommercial%202.5&amp;rft_id=http%3A%2F%2Fwww.opencontext.org%2Fsubjects%2F17346_DT_Spatial</oc:coins>
+    <oc:no_props>Additional information from the Domuztepe project is forthcoming. </oc:no_props>
+    <oc:copyright_lic>
+      <oc:lic_name>Creative Commons Attribution-Noncommercial</oc:lic_name>
+      <oc:lic_vers>2.5</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by-nc/2.5/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by-nc/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+    <oc:geo_reference>
+      <oc:geo_lat>37.33</oc:geo_lat>
+      <oc:geo_long>37.044</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/1_DT_Spatial">
+        <oc:source_name>Domuztepe</oc:source_name>
+        <oc:source_id>1_DT_Spatial</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2008-10-31T22:04:11Z</oc:last_updated>
+    <oc:item_views>
+      <oc:count>15</oc:count>
+      <oc:view_time>August 1, 2008, 1:23PM</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(6,500 BCE - 5,500 BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-6500</oc:time_start>
+          <oc:time_finish>-5500</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/1_DT_Spatial">
+            <oc:source_name>Domuztepe</oc:source_name>
+            <oc:source_id>1_DT_Spatial</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2008-08-11T21:45:49Z</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

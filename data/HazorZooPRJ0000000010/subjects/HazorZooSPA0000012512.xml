@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:gml="http://www.opengis.net/gml" xmlns:dc="http://purl.org/dc/elements/1.1/" UUID="HazorZooSPA0000012512" ownedBy="HazorZooPRJ0000000010">
+  <arch:name>
+    <arch:string>Bone 4654</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Animal Bone</oc:name>
+    <oc:iconURI>http://www.opencontext.org/database/ui_images/med_oc_icons/animal_bone_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>HazorZooVAR0000000476</arch:variableID>
+          <arch:valueID>HazorZooTXT0000016392</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/HazorZooPRO0000038230">HazorZooPRO0000038230</oc:propid>
+          <oc:var_label type="nominal">Taxon</oc:var_label>
+          <oc:show_val>sheep/goat</oc:show_val>
+        <oc:linkedData><oc:relationLink localType="variable" localID="HazorZooVAR0000000476" href="http://purl.org/NET/biol/ns#term_hasTaxonomy"><oc:vocabulary href="http://purl.org/NET/biol/ns#">Biological Taxonomy Vocabulary</oc:vocabulary><oc:label>Has Biological Taxonomy</oc:label><oc:targetLink localType="property" localID="HazorZooPRO0000038230" localURI="http://opencontext.org/properties/HazorZooPRO0000038230" href="http://eol.org/pages/2851411"><oc:vocabulary href="http://eol.org/">Encyclopedia of Life</oc:vocabulary><oc:label>Caprinae</oc:label></oc:targetLink></oc:relationLink></oc:linkedData></arch:property>
+        <arch:property>
+          <arch:variableID>HazorZooVAR0000000479</arch:variableID>
+          <arch:valueID>HazorZooTXT0000016398</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/HazorZooPRO0000038236">HazorZooPRO0000038236</oc:propid>
+          <oc:var_label type="nominal">Fragment Present</oc:var_label>
+          <oc:show_val>complete</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>HazorZooVAR0000000478</arch:variableID>
+          <arch:valueID>HazorZooTXT0000016417</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/HazorZooPRO0000038261">HazorZooPRO0000038261</oc:propid>
+          <oc:var_label type="nominal">Symmetry</oc:var_label>
+          <oc:show_val>right</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>HazorZooVAR0000000477</arch:variableID>
+          <arch:valueID>HazorZooTXT0000016602</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/HazorZooPRO0000038505">HazorZooPRO0000038505</oc:propid>
+          <oc:var_label type="nominal">Element</oc:var_label>
+          <oc:show_val>naviculo-cuboid</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>HazorZooVAR0000000472</arch:variableID>
+          <arch:valueID>HazorZooTXT0000018205</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/HazorZooPRO0000040647">HazorZooPRO0000040647</oc:propid>
+          <oc:var_label type="nominal">Stratum</oc:var_label>
+          <oc:show_val>Late Bronze</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>HazorZooVAR0000000473</arch:variableID>
+          <arch:valueID>HazorZooTXT0000020447</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/HazorZooPRO0000043271">HazorZooPRO0000043271</oc:propid>
+          <oc:var_label type="nominal">Phase</oc:var_label>
+          <oc:show_val>courtyard</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>HazorZooVAR0000000474</arch:variableID>
+          <arch:valueID>HazorZooTXT0000021114</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/HazorZooPRO0000043996">HazorZooPRO0000043996</oc:propid>
+          <oc:var_label type="alphanumeric">Bone Number</oc:var_label>
+          <oc:show_val>4654</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Observer">HazorZooPER0000003276</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/HazorZooPER0000003276" cite="creator">
+            <oc:name>Justin Lev-Tov</oc:name>
+            <oc:id>HazorZooPER0000003276</oc:id>
+            <oc:relation>Observer</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/3_Global_Israel">
+        <oc:name>Israel</oc:name>
+        <oc:id>3_Global_Israel</oc:id>
+        <oc:level>5</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/HazorZooSPA00000main">
+        <oc:name>Hazor</oc:name>
+        <oc:id>HazorZooSPA00000main</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/HazorZooSPA0000008849">
+        <oc:name>Area A4</oc:name>
+        <oc:id>HazorZooSPA0000008849</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Area</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/HazorZooSPA0000012500">
+        <oc:name>Locus 8282</oc:name>
+        <oc:id>HazorZooSPA0000012500</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Locus</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/HazorZooSPA0000012501">
+        <oc:name>Basket 52013</oc:name>
+        <oc:id>HazorZooSPA0000012501</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Basket</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Hazor: Zooarchaeology: Bone 4654 (Animal Bone)</dc:title>
+    <dc:date>2006-05-12</dc:date>
+    <dc:coverage>Near East</dc:coverage>
+    <dc:creator>Justin Lev-Tov</dc:creator>
+    <dc:format>Text/HTML</dc:format>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:rights>Creative Commons Attribution NonCommercial 2.5</dc:rights>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>Iron Age</dc:subject>
+    <dc:subject>Late Bronze Age</dc:subject>
+    <dc:subject>Near East</dc:subject>
+    <dc:subject>Excavations</dc:subject>
+    <dc:subject>Hazor</dc:subject>
+    <dc:subject>Biblical archaeology</dc:subject>
+    <dc:subject>subsistence</dc:subject>
+    <dc:contributor>Justin Lev-Tov</dc:contributor>
+    <dc:identifier>http://opencontext.org/subjects/HazorZooSPA0000012512</dc:identifier>
+    <oc:project_name>Hazor: Zooarchaeology</oc:project_name>
+    <oc:primary_xsl>default/default_spatial.xsl</oc:primary_xsl>
+    <oc:pub_date>2006-05-12T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Hazor%3A%20Zooarchaeology%3A%20Bone%204654%20%28Animal%20Bone%29&amp;rft.date=2006-05-12&amp;rft.creator=Justin%20Lev-Tov&amp;rft.contributor=Justin%20Lev-Tov&amp;rft.subject=archaeology&amp;rft.subject=Iron%20Age&amp;rft.subject=Late%20Bronze%20Age&amp;rft.subject=Near%20East&amp;rft.subject=Excavations&amp;rft.subject=Hazor&amp;rft.subject=Biblical%20archaeology&amp;rft.subject=subsistence&amp;rft.format=Text%2FHTML&amp;rft.coverage=Near%20East&amp;rft.language=eng&amp;rft.publisher=&amp;rft.source=Open%20Context&amp;rft.rights=Creative%20Commons%20Attribution%20NonCommercial%202.5&amp;rft_id=http%3A%2F%2Fwww.opencontext.org%2Fsubjects%2FHazorZooSPA0000012512</oc:coins>
+    <oc:no_props>This study includes zooarchaeological information only. Other content, including details of Hazor contexts, is not yet available. </oc:no_props>
+    <oc:copyright_lic>
+      <oc:lic_name>Creative Commons Attribution-Noncommercial</oc:lic_name>
+      <oc:lic_vers>2.5</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by-nc/2.5/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by-nc/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+    <oc:geo_reference>
+      <oc:geo_lat>32.9792</oc:geo_lat>
+      <oc:geo_long>35.5433</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/HazorZooSPA00000main">
+        <oc:source_name>Hazor</oc:source_name>
+        <oc:source_id>HazorZooSPA00000main</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2008-11-01T23:21:09Z</oc:last_updated>
+    <oc:item_views>
+      <oc:count>7</oc:count>
+      <oc:view_time>August 4, 2008, 7:04PM</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(1,100 BCE - 650 BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-1100</oc:time_start>
+          <oc:time_finish>-650</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/HazorZooSPA00000main">
+            <oc:source_name>Hazor</oc:source_name>
+            <oc:source_id>HazorZooSPA00000main</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2008-08-11T21:45:49Z</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

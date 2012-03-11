@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:gml="http://www.opengis.net/gml" xmlns:dc="http://purl.org/dc/elements/1.1/" UUID="633498A0-0E77-4E96-804D-5C3FB99D82CA" ownedBy="A3CBADB6-6CD4-4099-9FE2-A33757EAB749">
+  <arch:name>
+    <arch:string>Feature 1</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Feature</oc:name>
+    <oc:iconURI>http://www.opencontext.org/database/ui_images/med_oc_icons/feature_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>3247DA44-EB09-45A2-0185-233E70795F97</arch:variableID>
+          <arch:valueID>4F228307-8FD8-49A5-350D-76777A40F7A4</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/4D511052-2212-4AB0-ACA9-6344C03DD82E">4D511052-2212-4AB0-ACA9-6344C03DD82E</oc:propid>
+          <oc:var_label type="alphanumeric">Feature Type</oc:var_label>
+          <oc:show_val>Pithouse</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Principle Author / Analyst">C35EC624-27CE-42F9-9AF4-6017B00025E4</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/C35EC624-27CE-42F9-9AF4-6017B00025E4" cite="contributor">
+            <oc:name>Jenny  Adams</oc:name>
+            <oc:id>C35EC624-27CE-42F9-9AF4-6017B00025E4</oc:id>
+            <oc:relation>Principle Author / Analyst</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string>More complete feature documentation, research methods, etc. can be obtained from Swartz 2008. Raw data and the artifacts are stored at the Arizona State Museum.</arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/4_global_USA">
+        <oc:name>United States</oc:name>
+        <oc:id>4_global_USA</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/9_global_Ariz">
+        <oc:name>Arizona</oc:name>
+        <oc:id>9_global_Ariz</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/04BBF39E-A30E-4BF1-6AAD-A9FF48ECE0A8">
+        <oc:name>Wild Burro Canyon</oc:name>
+        <oc:id>04BBF39E-A30E-4BF1-6AAD-A9FF48ECE0A8</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/CC837B7E-B83F-4A42-CDFB-7D978B311F40">
+        <oc:name>Object 211</oc:name>
+        <oc:id>CC837B7E-B83F-4A42-CDFB-7D978B311F40</oc:id>
+        <oc:item_class>
+          <oc:name>Groundstone</oc:name>
+          <oc:iconURI>groundstone_30x30.png</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A599E2AF-0AE4-4920-5B60-CD1364F769CB">
+        <oc:name>Object 40</oc:name>
+        <oc:id>A599E2AF-0AE4-4920-5B60-CD1364F769CB</oc:id>
+        <oc:item_class>
+          <oc:name>Groundstone</oc:name>
+          <oc:iconURI>groundstone_30x30.png</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2174C070-E31D-43C2-95E3-C9D3F5FB93BC">
+        <oc:name>Object 41</oc:name>
+        <oc:id>2174C070-E31D-43C2-95E3-C9D3F5FB93BC</oc:id>
+        <oc:item_class>
+          <oc:name>Groundstone</oc:name>
+          <oc:iconURI>groundstone_30x30.png</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C51E1DB9-6A5E-43B7-A5C3-038590191569">
+        <oc:name>Object 42</oc:name>
+        <oc:id>C51E1DB9-6A5E-43B7-A5C3-038590191569</oc:id>
+        <oc:item_class>
+          <oc:name>Groundstone</oc:name>
+          <oc:iconURI>groundstone_30x30.png</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/73A9EDBA-B175-401E-C07A-B988448A395A">
+        <oc:name>Object 468</oc:name>
+        <oc:id>73A9EDBA-B175-401E-C07A-B988448A395A</oc:id>
+        <oc:item_class>
+          <oc:name>Groundstone</oc:name>
+          <oc:iconURI>groundstone_30x30.png</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/7C1EF9A5-2C19-4301-0213-CF43EF178CCC">
+        <oc:name>Object 469</oc:name>
+        <oc:id>7C1EF9A5-2C19-4301-0213-CF43EF178CCC</oc:id>
+        <oc:item_class>
+          <oc:name>Groundstone</oc:name>
+          <oc:iconURI>groundstone_30x30.png</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6383D13B-12A6-41E5-9F74-F9DE4073A2B6">
+        <oc:name>Object 470</oc:name>
+        <oc:id>6383D13B-12A6-41E5-9F74-F9DE4073A2B6</oc:id>
+        <oc:item_class>
+          <oc:name>Groundstone</oc:name>
+          <oc:iconURI>groundstone_30x30.png</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/AACEA27F-617E-4158-9239-0009986A9F41">
+        <oc:name>Object 471</oc:name>
+        <oc:id>AACEA27F-617E-4158-9239-0009986A9F41</oc:id>
+        <oc:item_class>
+          <oc:name>Groundstone</oc:name>
+          <oc:iconURI>groundstone_30x30.png</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Dove Mountain Groundstone: Feature 1 (Feature)</dc:title>
+    <dc:date>2010-04-29</dc:date>
+    <dc:creator>Jenny Adams</dc:creator>
+    <dc:subject>Southwest</dc:subject>
+    <dc:subject>Pioneer Period</dc:subject>
+    <dc:subject>Sedentary Period</dc:subject>
+    <dc:subject>Hohokam</dc:subject>
+    <dc:subject>Early Agricultural</dc:subject>
+    <dc:subject>Groundstone</dc:subject>
+    <dc:subject>Arizona</dc:subject>
+    <dc:subject>Archaeology</dc:subject>
+    <dc:contributor>Jenny  Adams</dc:contributor>
+    <dc:identifier>http://opencontext.org/subjects/633498A0-0E77-4E96-804D-5C3FB99D82CA</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/A3CBADB6-6CD4-4099-9FE2-A33757EAB749">Dove Mountain Groundstone</oc:project_name>
+    <oc:primary_xsl>default/</oc:primary_xsl>
+    <oc:sourceID>z_39_0354a824b</oc:sourceID>
+    <oc:pub_date>2010-04-29T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Dove%20Mountain%20Groundstone%3A%20Feature%201%20%28Feature%29&amp;rft.date=2010-04-29&amp;rft.contributor=Jenny%20%20Adams&amp;rft_id=http%3A%2F%2Fopencontext.org%2Fsubjects%2F633498A0-0E77-4E96-804D-5C3FB99D82CA</oc:coins>
+    <oc:no_props>No properties</oc:no_props>
+    <oc:copyright_lic>
+      <oc:lic_name>Creative Commons Attribution</oc:lic_name>
+      <oc:lic_vers>3.0</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+    <oc:geo_reference>
+      <oc:geo_lat>32.4733</oc:geo_lat>
+      <oc:geo_long>-111.0924</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/04BBF39E-A30E-4BF1-6AAD-A9FF48ECE0A8">
+        <oc:source_name>Wild Burro Canyon</oc:source_name>
+        <oc:source_id>04BBF39E-A30E-4BF1-6AAD-A9FF48ECE0A8</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2010-04-29T17:51:03Z</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2010/04/29 17:51:03</oc:view_time>
+    </oc:item_views>
+  </oc:social_usage>
+</arch:spatialUnit>

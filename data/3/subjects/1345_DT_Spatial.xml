@@ -1,0 +1,974 @@
+<?xml version="1.0"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:gml="http://www.opengis.net/gml" xmlns:dc="http://purl.org/dc/elements/1.1/" UUID="1345_DT_Spatial" ownedBy="3">
+  <arch:name>
+    <arch:string>Lot 2671</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Lot</oc:name>
+    <oc:iconURI>http://www.opencontext.org/database/ui_images/med_oc_icons/locus_lot_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>2_DT_Var</arch:variableID>
+          <arch:integer>1999</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/2_1999_DT2_VarVal">2_1999_DT2_VarVal</oc:propid>
+          <oc:var_label type="integer">Year Open</oc:var_label>
+          <oc:show_val>1999</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>6_DT_Var</arch:variableID>
+          <arch:valueID>11_DT_Value</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/6_11_DT_VarVal">6_11_DT_VarVal</oc:propid>
+          <oc:var_label type="nominal">Reliability</oc:var_label>
+          <oc:show_val>OK</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7_DT_Var</arch:variableID>
+          <arch:valueID>18_DT_Value</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/7_18_DT_VarVal">7_18_DT_VarVal</oc:propid>
+          <oc:var_label type="nominal">Phase</oc:var_label>
+          <oc:show_val>Post-Halaf B1</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="resource" info="Standard">600_DT_Dairy</arch:docID>
+        <arch:docID type="resource" info="Standard">200_DT_Dairy</arch:docID>
+        <arch:docID type="person" info="Observer">45_DT_Person</arch:docID>
+        <oc:diary_links>
+          <oc:link href="http://opencontext.org/documents/600_DT_Dairy">
+            <oc:name>Log for: Death Pit Area (02-Sep-99)</oc:name>
+            <oc:id>600_DT_Dairy</oc:id>
+            <oc:relation>Standard</oc:relation>
+            <oc:type>internalDocument</oc:type>
+          </oc:link>
+          <oc:link href="http://opencontext.org/documents/200_DT_Dairy">
+            <oc:name>Log for: Death Pit Area (04-Sep-99)</oc:name>
+            <oc:id>200_DT_Dairy</oc:id>
+            <oc:relation>Standard</oc:relation>
+            <oc:type>internalDocument</oc:type>
+          </oc:link>
+        </oc:diary_links>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/45_DT_Person" cite="contributor">
+            <oc:name>Steven Bell / Eric Martin Breul</oc:name>
+            <oc:id>45_DT_Person</oc:id>
+            <oc:relation>Observer</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+        <oc:name>Turkey</oc:name>
+        <oc:id>1_Global_Spatial</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/1_DT_Spatial">
+        <oc:name>Domuztepe</oc:name>
+        <oc:id>1_DT_Spatial</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/127_DT_Spatial">
+        <oc:name>I</oc:name>
+        <oc:id>127_DT_Spatial</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Operation</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/5611_DT_Spatial">
+        <oc:name>DT99-3876</oc:name>
+        <oc:id>5611_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5612_DT_Spatial">
+        <oc:name>DT99-3922</oc:name>
+        <oc:id>5612_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5613_DT_Spatial">
+        <oc:name>DT99-3980</oc:name>
+        <oc:id>5613_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5614_DT_Spatial">
+        <oc:name>DT99-3981</oc:name>
+        <oc:id>5614_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5615_DT_Spatial">
+        <oc:name>DT99-3982</oc:name>
+        <oc:id>5615_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5616_DT_Spatial">
+        <oc:name>DT99-3983</oc:name>
+        <oc:id>5616_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5617_DT_Spatial">
+        <oc:name>DT99-3984</oc:name>
+        <oc:id>5617_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5618_DT_Spatial">
+        <oc:name>DT99-3985</oc:name>
+        <oc:id>5618_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5619_DT_Spatial">
+        <oc:name>DT99-3986</oc:name>
+        <oc:id>5619_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5620_DT_Spatial">
+        <oc:name>DT99-3987</oc:name>
+        <oc:id>5620_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5621_DT_Spatial">
+        <oc:name>DT99-3988</oc:name>
+        <oc:id>5621_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5622_DT_Spatial">
+        <oc:name>DT99-3989</oc:name>
+        <oc:id>5622_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5623_DT_Spatial">
+        <oc:name>DT99-4134</oc:name>
+        <oc:id>5623_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5624_DT_Spatial">
+        <oc:name>DT99-4135</oc:name>
+        <oc:id>5624_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5625_DT_Spatial">
+        <oc:name>DT99-4136</oc:name>
+        <oc:id>5625_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5626_DT_Spatial">
+        <oc:name>DT99-4137</oc:name>
+        <oc:id>5626_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5627_DT_Spatial">
+        <oc:name>DT99-4138</oc:name>
+        <oc:id>5627_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5628_DT_Spatial">
+        <oc:name>DT99-4140</oc:name>
+        <oc:id>5628_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5629_DT_Spatial">
+        <oc:name>DT99-4141</oc:name>
+        <oc:id>5629_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5630_DT_Spatial">
+        <oc:name>DT99-4736</oc:name>
+        <oc:id>5630_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5631_DT_Spatial">
+        <oc:name>DT99-4737</oc:name>
+        <oc:id>5631_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5632_DT_Spatial">
+        <oc:name>DT99-4738</oc:name>
+        <oc:id>5632_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5633_DT_Spatial">
+        <oc:name>DT99-4739</oc:name>
+        <oc:id>5633_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5634_DT_Spatial">
+        <oc:name>DT99-4740</oc:name>
+        <oc:id>5634_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5635_DT_Spatial">
+        <oc:name>DT99-4741</oc:name>
+        <oc:id>5635_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5636_DT_Spatial">
+        <oc:name>DT99-4742</oc:name>
+        <oc:id>5636_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5637_DT_Spatial">
+        <oc:name>DT99-4743</oc:name>
+        <oc:id>5637_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5638_DT_Spatial">
+        <oc:name>DT99-4744</oc:name>
+        <oc:id>5638_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5639_DT_Spatial">
+        <oc:name>DT99-4745</oc:name>
+        <oc:id>5639_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5640_DT_Spatial">
+        <oc:name>DT99-4746</oc:name>
+        <oc:id>5640_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5641_DT_Spatial">
+        <oc:name>DT99-4747</oc:name>
+        <oc:id>5641_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5642_DT_Spatial">
+        <oc:name>DT99-4748</oc:name>
+        <oc:id>5642_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5643_DT_Spatial">
+        <oc:name>DT99-4749</oc:name>
+        <oc:id>5643_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/20793_DT_Spatial">
+        <oc:name>2671/0.1</oc:name>
+        <oc:id>20793_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22924_DT_Spatial">
+        <oc:name>2671/0.10</oc:name>
+        <oc:id>22924_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22925_DT_Spatial">
+        <oc:name>2671/0.11</oc:name>
+        <oc:id>22925_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/21715_DT_Spatial">
+        <oc:name>2671/0.12</oc:name>
+        <oc:id>21715_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/21716_DT_Spatial">
+        <oc:name>2671/0.13</oc:name>
+        <oc:id>21716_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/21717_DT_Spatial">
+        <oc:name>2671/0.14</oc:name>
+        <oc:id>21717_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/21718_DT_Spatial">
+        <oc:name>2671/0.15</oc:name>
+        <oc:id>21718_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/21719_DT_Spatial">
+        <oc:name>2671/0.16</oc:name>
+        <oc:id>21719_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22749_DT_Spatial">
+        <oc:name>2671/0.17</oc:name>
+        <oc:id>22749_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/21828_DT_Spatial">
+        <oc:name>2671/0.18</oc:name>
+        <oc:id>21828_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22135_DT_Spatial">
+        <oc:name>2671/0.19</oc:name>
+        <oc:id>22135_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/20994_DT_Spatial">
+        <oc:name>2671/0.2</oc:name>
+        <oc:id>20994_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22136_DT_Spatial">
+        <oc:name>2671/0.20</oc:name>
+        <oc:id>22136_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/21316_DT_Spatial">
+        <oc:name>2671/0.21</oc:name>
+        <oc:id>21316_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22576_DT_Spatial">
+        <oc:name>2671/0.22</oc:name>
+        <oc:id>22576_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22577_DT_Spatial">
+        <oc:name>2671/0.23</oc:name>
+        <oc:id>22577_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22578_DT_Spatial">
+        <oc:name>2671/0.24</oc:name>
+        <oc:id>22578_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22579_DT_Spatial">
+        <oc:name>2671/0.25</oc:name>
+        <oc:id>22579_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22580_DT_Spatial">
+        <oc:name>2671/0.26</oc:name>
+        <oc:id>22580_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22581_DT_Spatial">
+        <oc:name>2671/0.27</oc:name>
+        <oc:id>22581_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22582_DT_Spatial">
+        <oc:name>2671/0.28</oc:name>
+        <oc:id>22582_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22583_DT_Spatial">
+        <oc:name>2671/0.29</oc:name>
+        <oc:id>22583_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22330_DT_Spatial">
+        <oc:name>2671/0.3</oc:name>
+        <oc:id>22330_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22584_DT_Spatial">
+        <oc:name>2671/0.30</oc:name>
+        <oc:id>22584_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22585_DT_Spatial">
+        <oc:name>2671/0.31</oc:name>
+        <oc:id>22585_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22586_DT_Spatial">
+        <oc:name>2671/0.32a</oc:name>
+        <oc:id>22586_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22587_DT_Spatial">
+        <oc:name>2671/0.32b</oc:name>
+        <oc:id>22587_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22588_DT_Spatial">
+        <oc:name>2671/0.32c</oc:name>
+        <oc:id>22588_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/21208_DT_Spatial">
+        <oc:name>2671/0.33</oc:name>
+        <oc:id>21208_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/21209_DT_Spatial">
+        <oc:name>2671/0.34</oc:name>
+        <oc:id>21209_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22589_DT_Spatial">
+        <oc:name>2671/0.35</oc:name>
+        <oc:id>22589_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/21210_DT_Spatial">
+        <oc:name>2671/0.36</oc:name>
+        <oc:id>21210_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/21211_DT_Spatial">
+        <oc:name>2671/0.37</oc:name>
+        <oc:id>21211_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22334_DT_Spatial">
+        <oc:name>2671/0.38</oc:name>
+        <oc:id>22334_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22335_DT_Spatial">
+        <oc:name>2671/0.39</oc:name>
+        <oc:id>22335_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22331_DT_Spatial">
+        <oc:name>2671/0.4</oc:name>
+        <oc:id>22331_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/20995_DT_Spatial">
+        <oc:name>2671/0.40</oc:name>
+        <oc:id>20995_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22750_DT_Spatial">
+        <oc:name>2671/0.41</oc:name>
+        <oc:id>22750_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/20795_DT_Spatial">
+        <oc:name>2671/0.43</oc:name>
+        <oc:id>20795_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/20796_DT_Spatial">
+        <oc:name>2671/0.44</oc:name>
+        <oc:id>20796_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22751_DT_Spatial">
+        <oc:name>2671/0.45</oc:name>
+        <oc:id>22751_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22752_DT_Spatial">
+        <oc:name>2671/0.46</oc:name>
+        <oc:id>22752_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22137_DT_Spatial">
+        <oc:name>2671/0.47</oc:name>
+        <oc:id>22137_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/21720_DT_Spatial">
+        <oc:name>2671/0.48</oc:name>
+        <oc:id>21720_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/20797_DT_Spatial">
+        <oc:name>2671/0.49</oc:name>
+        <oc:id>20797_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22332_DT_Spatial">
+        <oc:name>2671/0.5</oc:name>
+        <oc:id>22332_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/20798_DT_Spatial">
+        <oc:name>2671/0.50</oc:name>
+        <oc:id>20798_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/21721_DT_Spatial">
+        <oc:name>2671/0.51</oc:name>
+        <oc:id>21721_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22753_DT_Spatial">
+        <oc:name>2671/0.52</oc:name>
+        <oc:id>22753_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/20799_DT_Spatial">
+        <oc:name>2671/0.53</oc:name>
+        <oc:id>20799_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/20996_DT_Spatial">
+        <oc:name>2671/0.54</oc:name>
+        <oc:id>20996_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/21722_DT_Spatial">
+        <oc:name>2671/0.55</oc:name>
+        <oc:id>21722_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/21829_DT_Spatial">
+        <oc:name>2671/0.56</oc:name>
+        <oc:id>21829_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22754_DT_Spatial">
+        <oc:name>2671/0.57</oc:name>
+        <oc:id>22754_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/20800_DT_Spatial">
+        <oc:name>2671/0.58</oc:name>
+        <oc:id>20800_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/21723_DT_Spatial">
+        <oc:name>2671/0.59</oc:name>
+        <oc:id>21723_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22333_DT_Spatial">
+        <oc:name>2671/0.6</oc:name>
+        <oc:id>22333_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22755_DT_Spatial">
+        <oc:name>2671/0.60</oc:name>
+        <oc:id>22755_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22835_DT_Spatial">
+        <oc:name>2671/0.61</oc:name>
+        <oc:id>22835_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/20794_DT_Spatial">
+        <oc:name>2671/0.7</oc:name>
+        <oc:id>20794_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/21996_DT_Spatial">
+        <oc:name>2671/0.8</oc:name>
+        <oc:id>21996_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/22923_DT_Spatial">
+        <oc:name>2671/0.9</oc:name>
+        <oc:id>22923_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/15710_DT_Spatial">
+        <oc:name>DT# 2205</oc:name>
+        <oc:id>15710_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/16083_DT_Spatial">
+        <oc:name>DT# 2611</oc:name>
+        <oc:id>16083_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/16087_DT_Spatial">
+        <oc:name>DT# 2617</oc:name>
+        <oc:id>16087_DT_Spatial</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/50BAEE31-9981-48FA-0B21-8DBFE887A872">
+        <oc:name>2671.0.7b</oc:name>
+        <oc:id>50BAEE31-9981-48FA-0B21-8DBFE887A872</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1B3AE479-E939-4021-3199-B8C3B878C51C">
+        <oc:name>2671.0.10b</oc:name>
+        <oc:id>1B3AE479-E939-4021-3199-B8C3B878C51C</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/940B7F2F-1FE0-4DC9-16D3-653AF9A9A278">
+        <oc:name>2671.0.11a</oc:name>
+        <oc:id>940B7F2F-1FE0-4DC9-16D3-653AF9A9A278</oc:id>
+        <oc:item_class>
+          <oc:name>Human Bone</oc:name>
+          <oc:iconURI>human_bones_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Domuztepe Excavations: Lot 2671 (Lot)</dc:title>
+    <dc:date>2006-03-01</dc:date>
+    <dc:coverage>Near East</dc:coverage>
+    <dc:creator>Stuart Campbell</dc:creator>
+    <dc:creator>Elizabeth Carter</dc:creator>
+    <dc:format>Text/HTML</dc:format>
+    <dc:format>.jpg</dc:format>
+    <dc:format>.gif</dc:format>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:rights>Creative Commons Attribution NonCommercial 2.5</dc:rights>
+    <dc:subject>Archaeology</dc:subject>
+    <dc:subject>Halaf</dc:subject>
+    <dc:subject>Neolithic</dc:subject>
+    <dc:subject>Near East</dc:subject>
+    <dc:subject>Excavations</dc:subject>
+    <dc:subject>Domuztepe</dc:subject>
+    <dc:subject>7th millennium</dc:subject>
+    <dc:subject>Village</dc:subject>
+    <dc:contributor>Steven Bell / Eric Martin Breul</dc:contributor>
+    <dc:identifier>http://opencontext.org/subjects/1345_DT_Spatial</dc:identifier>
+    <oc:project_name>Domuztepe Excavations</oc:project_name>
+    <oc:primary_xsl>default/default_spatial.xsl</oc:primary_xsl>
+    <oc:pub_date>2006-03-01T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Domuztepe%20Excavations%3A%20Lot%202671%20%28Lot%29&amp;rft.date=2006-03-01&amp;rft.creator=Stuart%20Campbell&amp;rft.creator=Elizabeth%20Carter&amp;rft.contributor=Steven%20Bell%20%2F%20Eric%20Martin%20Breul&amp;rft.subject=Archaeology&amp;rft.subject=Halaf&amp;rft.subject=Neolithic&amp;rft.subject=Near%20East&amp;rft.subject=Excavations&amp;rft.subject=Domuztepe&amp;rft.subject=7th%20millennium&amp;rft.subject=Village&amp;rft.format=Text%2FHTML&amp;rft.format=.jpg&amp;rft.format=.gif&amp;rft.coverage=Near%20East&amp;rft.language=eng&amp;rft.publisher=&amp;rft.source=Open%20Context&amp;rft.rights=Creative%20Commons%20Attribution%20NonCommercial%202.5&amp;rft_id=http%3A%2F%2Fwww.opencontext.org%2Fsubjects%2F1345_DT_Spatial</oc:coins>
+    <oc:no_props>Additional information from the Domuztepe project is forthcoming. </oc:no_props>
+    <oc:copyright_lic>
+      <oc:lic_name>Creative Commons Attribution-Noncommercial</oc:lic_name>
+      <oc:lic_vers>2.5</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by-nc/2.5/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by-nc/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+    <oc:geo_reference>
+      <oc:geo_lat>37.33</oc:geo_lat>
+      <oc:geo_long>37.044</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/1_DT_Spatial">
+        <oc:source_name>Domuztepe</oc:source_name>
+        <oc:source_id>1_DT_Spatial</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2008-10-31T21:55:29Z</oc:last_updated>
+    <oc:item_views>
+      <oc:count>22</oc:count>
+      <oc:view_time>August 1, 2008, 1:11PM</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(6,500 BCE - 5,500 BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-6500</oc:time_start>
+          <oc:time_finish>-5500</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/1_DT_Spatial">
+            <oc:source_name>Domuztepe</oc:source_name>
+            <oc:source_id>1_DT_Spatial</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2008-08-11T21:45:49Z</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

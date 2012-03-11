@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:gml="http://www.opengis.net/gml" xmlns:dc="http://purl.org/dc/elements/1.1/" UUID="AE114B9F-7FE7-4593-DB8F-630433E0500A" ownedBy="A3CBADB6-6CD4-4099-9FE2-A33757EAB749">
+  <arch:name>
+    <arch:string>Feature 27</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Feature</oc:name>
+    <oc:iconURI>http://www.opencontext.org/database/ui_images/med_oc_icons/feature_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>3247DA44-EB09-45A2-0185-233E70795F97</arch:variableID>
+          <arch:valueID>724721D0-C678-4447-1A3B-70ED5A02ED02</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/3309F5CC-1700-4625-D8E6-DA0DDD68E18E">3309F5CC-1700-4625-D8E6-DA0DDD68E18E</oc:propid>
+          <oc:var_label type="alphanumeric">Feature Type</oc:var_label>
+          <oc:show_val>Small pit</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Principle Author / Analyst">C35EC624-27CE-42F9-9AF4-6017B00025E4</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/C35EC624-27CE-42F9-9AF4-6017B00025E4" cite="contributor">
+            <oc:name>Jenny  Adams</oc:name>
+            <oc:id>C35EC624-27CE-42F9-9AF4-6017B00025E4</oc:id>
+            <oc:relation>Principle Author / Analyst</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string>More complete feature documentation, research methods, etc. can be obtained from Swartz 2008. Raw data and the artifacts are stored at the Arizona State Museum.</arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/4_global_USA">
+        <oc:name>United States</oc:name>
+        <oc:id>4_global_USA</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/9_global_Ariz">
+        <oc:name>Arizona</oc:name>
+        <oc:id>9_global_Ariz</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/962FB401-FD43-41C8-A074-B33DA15C50B7">
+        <oc:name>Desert Tortoise</oc:name>
+        <oc:id>962FB401-FD43-41C8-A074-B33DA15C50B7</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/D7094F18-BF39-43DD-7506-4632C9279D83">
+        <oc:name>Object 901</oc:name>
+        <oc:id>D7094F18-BF39-43DD-7506-4632C9279D83</oc:id>
+        <oc:item_class>
+          <oc:name>Groundstone</oc:name>
+          <oc:iconURI>groundstone_30x30.png</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Dove Mountain Groundstone: Feature 27 (Feature)</dc:title>
+    <dc:date>2010-04-29</dc:date>
+    <dc:creator>Jenny Adams</dc:creator>
+    <dc:subject>Southwest</dc:subject>
+    <dc:subject>Pioneer Period</dc:subject>
+    <dc:subject>Sedentary Period</dc:subject>
+    <dc:subject>Hohokam</dc:subject>
+    <dc:subject>Early Agricultural</dc:subject>
+    <dc:subject>Groundstone</dc:subject>
+    <dc:subject>Arizona</dc:subject>
+    <dc:subject>Archaeology</dc:subject>
+    <dc:contributor>Jenny  Adams</dc:contributor>
+    <dc:identifier>http://opencontext.org/subjects/AE114B9F-7FE7-4593-DB8F-630433E0500A</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/A3CBADB6-6CD4-4099-9FE2-A33757EAB749">Dove Mountain Groundstone</oc:project_name>
+    <oc:primary_xsl>default/</oc:primary_xsl>
+    <oc:sourceID>z_39_0354a824b</oc:sourceID>
+    <oc:pub_date>2010-04-29T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Dove%20Mountain%20Groundstone%3A%20Feature%2027%20%28Feature%29&amp;rft.date=2010-04-29&amp;rft.contributor=Jenny%20%20Adams&amp;rft_id=http%3A%2F%2Fopencontext.org%2Fsubjects%2FAE114B9F-7FE7-4593-DB8F-630433E0500A</oc:coins>
+    <oc:no_props>No properties</oc:no_props>
+    <oc:copyright_lic>
+      <oc:lic_name>Creative Commons Attribution</oc:lic_name>
+      <oc:lic_vers>3.0</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+    <oc:geo_reference>
+      <oc:geo_lat>32.4764</oc:geo_lat>
+      <oc:geo_long>-111.0904</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/962FB401-FD43-41C8-A074-B33DA15C50B7">
+        <oc:source_name>Desert Tortoise</oc:source_name>
+        <oc:source_id>962FB401-FD43-41C8-A074-B33DA15C50B7</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2010-04-29T18:02:58Z</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2010/04/29 18:02:58</oc:view_time>
+    </oc:item_views>
+  </oc:social_usage>
+</arch:spatialUnit>

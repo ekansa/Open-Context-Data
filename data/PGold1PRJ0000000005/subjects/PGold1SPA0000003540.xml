@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:gml="http://www.opengis.net/gml" xmlns:dc="http://purl.org/dc/elements/1.1/" UUID="PGold1SPA0000003540" ownedBy="PGold1PRJ0000000005">
+  <arch:name>
+    <arch:string>Sample: (ID num 2)</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Sample</oc:name>
+    <oc:iconURI>http://www.opencontext.org/database/ui_images/med_oc_icons/sample_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>PGold1VAR0000000342</arch:variableID>
+          <arch:valueID>PGold1TXT0000002957</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/PGold1PRO0000019498">PGold1PRO0000019498</oc:propid>
+          <oc:var_label type="nominal">Sample No</oc:var_label>
+          <oc:show_val>(ID num 2)</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>PGold1VAR0000000343</arch:variableID>
+          <arch:integer>131</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/PGold1PRO0000019499">PGold1PRO0000019499</oc:propid>
+          <oc:var_label type="integer">Unit Number</oc:var_label>
+          <oc:show_val>131</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>PGold1VAR0000000344</arch:variableID>
+          <arch:integer>213</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/PGold1PRO0000019500">PGold1PRO0000019500</oc:propid>
+          <oc:var_label type="integer">Field ID</oc:var_label>
+          <oc:show_val>213</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>PGold1VAR0000000348</arch:variableID>
+          <arch:valueID>PGold1TXT0000002958</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/PGold1PRO0000019501">PGold1PRO0000019501</oc:propid>
+          <oc:var_label type="nominal">BEST</oc:var_label>
+          <oc:show_val>sp</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>PGold1VAR0000000349</arch:variableID>
+          <arch:valueID>PGold1TXT0000002959</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/PGold1PRO0000019502">PGold1PRO0000019502</oc:propid>
+          <oc:var_label type="nominal">AUSGR</oc:var_label>
+          <oc:show_val>PG</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>PGold1VAR0000000350</arch:variableID>
+          <arch:date>2000-08-03T00:00:00Z</arch:date>
+          <oc:propid href="http://opencontext.org/properties/PGold1PRO0000019503">PGold1PRO0000019503</oc:propid>
+          <oc:var_label type="calendar">DATE</oc:var_label>
+          <oc:show_val>2000-08-03 00:00:00</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>PGold1VAR0000000351</arch:variableID>
+          <arch:decimal>31.994</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/PGold1PRO0000019504">PGold1PRO0000019504</oc:propid>
+          <oc:var_label type="decimal">X</oc:var_label>
+          <oc:show_val>31.994</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>PGold1VAR0000000352</arch:variableID>
+          <arch:decimal>31.33</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/PGold1PRO0000019505">PGold1PRO0000019505</oc:propid>
+          <oc:var_label type="decimal">Y</oc:var_label>
+          <oc:show_val>31.33</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>PGold1VAR0000000353</arch:variableID>
+          <arch:decimal>-1.696</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/PGold1PRO0000019506">PGold1PRO0000019506</oc:propid>
+          <oc:var_label type="decimal">Z</oc:var_label>
+          <oc:show_val>-1.696</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>PGold1VAR0000000354</arch:variableID>
+          <arch:valueID/>
+          <oc:propid href="http://opencontext.org/properties/PGold1PRO0000019507">PGold1PRO0000019507</oc:propid>
+          <oc:var_label type="alphanumeric">Field Remarks</oc:var_label>
+          <oc:show_val>0</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Observer">PGold1PER0000003269</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/PGold1PER0000003269" cite="creator">
+            <oc:name>Paul Goldberg</oc:name>
+            <oc:id>PGold1PER0000003269</oc:id>
+            <oc:relation>Observer</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/2_Global_Germany">
+        <oc:name>Germany</oc:name>
+        <oc:id>2_Global_Germany</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/PGold1SPA0000003541">
+        <oc:name>Geissenklosterle</oc:name>
+        <oc:id>PGold1SPA0000003541</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/PGold1SPA0000003542">
+        <oc:name>Unit: 131</oc:name>
+        <oc:id>PGold1SPA0000003542</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Geissenklosterle: Micromorphology: Sample: (ID num 2) (Sample)</dc:title>
+    <dc:date>2006-04-04</dc:date>
+    <dc:coverage>Europe</dc:coverage>
+    <dc:creator>Paul Goldberg</dc:creator>
+    <dc:format>Text/HTML</dc:format>
+    <dc:format>.jpg</dc:format>
+    <dc:language>eng</dc:language>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:rights>Creative Commons Attribution NonCommercial 2.5</dc:rights>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>Aurignation</dc:subject>
+    <dc:subject>geology</dc:subject>
+    <dc:subject>Upper Paleolithic</dc:subject>
+    <dc:subject>Europe</dc:subject>
+    <dc:subject>Germany</dc:subject>
+    <dc:contributor>Paul Goldberg</dc:contributor>
+    <dc:identifier>http://opencontext.org/subjects/PGold1SPA0000003540</dc:identifier>
+    <oc:project_name>Geissenklosterle: Micromorphology</oc:project_name>
+    <oc:primary_xsl>default/default_spatial.xsl</oc:primary_xsl>
+    <oc:pub_date>2006-04-04T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Geissenklosterle%3A%20Micromorphology%3A%20Sample%3A%20%28ID%20num%202%29%20%28Sample%29&amp;rft.date=2006-04-04&amp;rft.creator=Paul%20Goldberg&amp;rft.contributor=Paul%20Goldberg&amp;rft.subject=archaeology&amp;rft.subject=Aurignation&amp;rft.subject=geology&amp;rft.subject=Upper%20Paleolithic&amp;rft.subject=Europe&amp;rft.subject=Germany&amp;rft.format=Text%2FHTML&amp;rft.format=.jpg&amp;rft.coverage=Europe&amp;rft.language=eng&amp;rft.publisher=&amp;rft.source=Open%20Context&amp;rft.rights=Creative%20Commons%20Attribution%20NonCommercial%202.5&amp;rft_id=http%3A%2F%2Fwww.opencontext.org%2Fsubjects%2FPGold1SPA0000003540</oc:coins>
+    <oc:no_props>This study includes geoarchaeological information only. Other content, including details of Geissenklosterle contexts, is not yet available. </oc:no_props>
+    <oc:copyright_lic>
+      <oc:lic_name>Creative Commons Attribution-Noncommercial</oc:lic_name>
+      <oc:lic_vers>2.5</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by-nc/2.5/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by-nc/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+    <oc:geo_reference>
+      <oc:geo_lat>48.4021</oc:geo_lat>
+      <oc:geo_long>9.77036</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/PGold1SPA0000003541">
+        <oc:source_name>Geissenklosterle</oc:source_name>
+        <oc:source_id>PGold1SPA0000003541</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2008-11-01T23:37:35Z</oc:last_updated>
+    <oc:item_views>
+      <oc:count>15</oc:count>
+      <oc:view_time>August 4, 2008, 7:47PM</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(40K BCE - 30K BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-40000</oc:time_start>
+          <oc:time_finish>-30000</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/PGold1SPA0000003541">
+            <oc:source_name>Geissenklosterle</oc:source_name>
+            <oc:source_id>PGold1SPA0000003541</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2008-08-11T21:45:49Z</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

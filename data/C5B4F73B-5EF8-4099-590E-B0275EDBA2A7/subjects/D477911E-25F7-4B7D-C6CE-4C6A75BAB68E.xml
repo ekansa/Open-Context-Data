@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:gml="http://www.opengis.net/gml" xmlns:dc="http://purl.org/dc/elements/1.1/" UUID="D477911E-25F7-4B7D-C6CE-4C6A75BAB68E" ownedBy="C5B4F73B-5EF8-4099-590E-B0275EDBA2A7">
+  <arch:name>
+    <arch:string>Bone 100033.13</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Animal Bone</oc:name>
+    <oc:iconURI>http://www.opencontext.org/database/ui_images/med_oc_icons/animal_bone_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>7764853A-0A18-41DB-B663-8E8685CB2F1C</arch:variableID>
+          <arch:integer>100033</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/DA759C5F-546B-4662-458B-7530B6AC2635">DA759C5F-546B-4662-458B-7530B6AC2635</oc:propid>
+          <oc:var_label type="integer">Bag Number</oc:var_label>
+          <oc:show_val>100033</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>37D59894-C1D4-41B4-C88B-DFC5A0C3FB6E</arch:variableID>
+          <arch:integer href="http://www.freebase.com/view/en/counting_measure" name="counting measure" abrv="count">1</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/B41B61DA-0CD6-4D87-EE41-E821C4BDC753">B41B61DA-0CD6-4D87-EE41-E821C4BDC753</oc:propid>
+          <oc:var_label type="integer">NISP</oc:var_label>
+          <oc:show_val>1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>A9172FBF-9AEF-4F7E-0BD5-DC23EC72F541</arch:variableID>
+          <arch:valueID>9CE2D1A6-AD67-46CF-61A3-341CDA5ACED1</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/BA9534BD-FC23-4037-954D-F415F732B618">BA9534BD-FC23-4037-954D-F415F732B618</oc:propid>
+          <oc:var_label type="nominal">Taxon</oc:var_label>
+          <oc:show_val>Bos taurus</oc:show_val>
+        <oc:linkedData><oc:relationLink localType="variable" localID="A9172FBF-9AEF-4F7E-0BD5-DC23EC72F541" href="http://purl.org/NET/biol/ns#term_hasTaxonomy"><oc:vocabulary href="http://purl.org/NET/biol/ns#">Biological Taxonomy Vocabulary</oc:vocabulary><oc:label>Has Biological Taxonomy</oc:label><oc:targetLink localType="property" localID="BA9534BD-FC23-4037-954D-F415F732B618" localURI="http://opencontext.org/properties/BA9534BD-FC23-4037-954D-F415F732B618" href="http://eol.org/pages/328699"><oc:vocabulary href="http://eol.org/">Encyclopedia of Life</oc:vocabulary><oc:label>Bos taurus Linnaeus, 1758</oc:label></oc:targetLink></oc:relationLink></oc:linkedData></arch:property>
+        <arch:property>
+          <arch:variableID>262078F0-8B76-4B5B-9BEC-F74D191E4EF7</arch:variableID>
+          <arch:valueID>D73A48C8-C0F6-427C-1615-159FDD200407</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/5E764397-3125-4552-046F-A084E0219A7A">5E764397-3125-4552-046F-A084E0219A7A</oc:propid>
+          <oc:var_label type="nominal">Common name</oc:var_label>
+          <oc:show_val>Cattle</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>02050A90-DD1A-4B2B-9898-26F5D1D559AB</arch:variableID>
+          <arch:valueID>F3F9ADF9-2C07-4F37-8E15-2D7EFDD233E5</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/CC693CDB-D5B1-43AE-CBBC-B911954F5744">CC693CDB-D5B1-43AE-CBBC-B911954F5744</oc:propid>
+          <oc:var_label type="nominal">Element</oc:var_label>
+          <oc:show_val>tarsal</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B12F8F83-8D89-452F-4C3C-A8CDE9132C2C</arch:variableID>
+          <arch:valueID>C2C67CE2-17A9-458E-8BA8-20A04D7244B0</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/D2330E4A-A4E7-429F-45A9-02805F507811">D2330E4A-A4E7-429F-45A9-02805F507811</oc:propid>
+          <oc:var_label type="nominal">Part</oc:var_label>
+          <oc:show_val>centroquartal</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>3C0AB9B9-A60F-4134-6E4D-3C48904B022D</arch:variableID>
+          <arch:valueID>D4F69F43-C0C4-4D4B-3EDF-F8BC95C1CAC0</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/9645A295-8B91-410D-6B0E-978E69333156">9645A295-8B91-410D-6B0E-978E69333156</oc:propid>
+          <oc:var_label type="nominal">% preseved</oc:var_label>
+          <oc:show_val>3/4 of complete bone present</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>1B1B7751-2643-4B7F-FE04-73F40FF6E09A</arch:variableID>
+          <arch:valueID>57C974C2-5910-4365-8FF2-DAED1AB8AE24</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/A01EA370-4EDC-4604-284F-F8F6CC2A2A36">A01EA370-4EDC-4604-284F-F8F6CC2A2A36</oc:propid>
+          <oc:var_label type="nominal">Side</oc:var_label>
+          <oc:show_val>Right</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>171BE8AC-8DBB-43B3-AB41-1C5EE0ED998C</arch:variableID>
+          <arch:valueID>7E5A6032-2C9A-406E-2E63-2D06ECBA1747</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/67F709B1-4C3A-479E-5BFC-8651E18C4D4F">67F709B1-4C3A-479E-5BFC-8651E18C4D4F</oc:propid>
+          <oc:var_label type="nominal">Root etching?</oc:var_label>
+          <oc:show_val>yes</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>812C5CAD-1B8A-499C-3A85-00F4C3037E70</arch:variableID>
+          <arch:valueID>8100F880-9364-44C3-065D-0858E3038867</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/A681C820-804F-4457-781F-B6FCC7471898">A681C820-804F-4457-781F-B6FCC7471898</oc:propid>
+          <oc:var_label type="alphanumeric">Breakage</oc:var_label>
+          <oc:show_val>modern</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>FB71505E-81B8-4842-9FD7-2F9278F0E9A6</arch:variableID>
+          <arch:valueID>7A79DB9E-3774-43D5-0391-224AA6B158A9</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/8EEF081B-47AD-4B83-0BC5-7830AE787328">8EEF081B-47AD-4B83-0BC5-7830AE787328</oc:propid>
+          <oc:var_label type="alphanumeric">Butchery marks</oc:var_label>
+          <oc:show_val>one slice on lateral</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="resource" info="link">9365C54C-2277-40B2-827E-0A7A6B177BF8</arch:docID>
+        <arch:docID type="person" info="Principle Author / Analyst">1A2F7786-0BC7-11DF-933B-E95756D89593</arch:docID>
+        <oc:media_links>
+          <oc:link href="http://opencontext.org/media/9365C54C-2277-40B2-827E-0A7A6B177BF8">
+            <oc:name>Building 39 Fauna Analysis Report</oc:name>
+            <oc:id>9365C54C-2277-40B2-827E-0A7A6B177BF8</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>acrobat pdf</oc:type>
+            <oc:path/>
+            <oc:filename/>
+            <oc:thumbnailURI>http://www.opencontext.org/database/ui_images/oc_icons/sm_document_icon.jpg</oc:thumbnailURI>
+          </oc:link>
+        </oc:media_links>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/1A2F7786-0BC7-11DF-933B-E95756D89593" cite="contributor">
+            <oc:name>Sarah W. Kansa</oc:name>
+            <oc:id>1A2F7786-0BC7-11DF-933B-E95756D89593</oc:id>
+            <oc:relation>Principle Author / Analyst</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string>For the specimen label and identification number, the first set of 6 numbers before the period refers to the bag number; the numbers following the period identifiy specimens within the bag</arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/4_global_USA">
+        <oc:name>United States</oc:name>
+        <oc:id>4_global_USA</oc:id>
+        <oc:level>5</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/8_global_Cal">
+        <oc:name>California</oc:name>
+        <oc:id>8_global_Cal</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/66CEA102-FDA4-4AF2-8A45-7546A1D19AAB">
+        <oc:name>Presidio of San Francisco</oc:name>
+        <oc:id>66CEA102-FDA4-4AF2-8A45-7546A1D19AAB</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/70B9E6CF-E6E4-4228-B2B9-6EF2D2F1FDAE">
+        <oc:name>Building 39</oc:name>
+        <oc:id>70B9E6CF-E6E4-4228-B2B9-6EF2D2F1FDAE</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Area</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/C75AA957-B44D-4AE1-794B-4B75E35201C1">
+        <oc:name>FA Box 11</oc:name>
+        <oc:id>C75AA957-B44D-4AE1-794B-4B75E35201C1</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+    <oc:tree id="8_global_Cal_66CEA102-FDA4-4AF2-8A45-7546A1D19AAB">
+      <oc:parent href="http://opencontext.org/subjects/4_global_USA">
+        <oc:name>United States</oc:name>
+        <oc:id>4_global_USA</oc:id>
+        <oc:level>5</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/8_global_Cal">
+        <oc:name>California</oc:name>
+        <oc:id>8_global_Cal</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/66CEA102-FDA4-4AF2-8A45-7546A1D19AAB">
+        <oc:name>Presidio of San Francisco</oc:name>
+        <oc:id>66CEA102-FDA4-4AF2-8A45-7546A1D19AAB</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/70B9E6CF-E6E4-4228-B2B9-6EF2D2F1FDAE">
+        <oc:name>Building 39</oc:name>
+        <oc:id>70B9E6CF-E6E4-4228-B2B9-6EF2D2F1FDAE</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Area</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/C75AA957-B44D-4AE1-794B-4B75E35201C1">
+        <oc:name>FA Box 11</oc:name>
+        <oc:id>C75AA957-B44D-4AE1-794B-4B75E35201C1</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Presidio of San Francisco: Bone 100033.13 (Animal Bone)</dc:title>
+    <dc:date>2010-01-29</dc:date>
+    <dc:creator>Presidio Archaeology Lab (Presidio Trust)</dc:creator>
+    <dc:subject>historical archaeology</dc:subject>
+    <dc:subject>presidio</dc:subject>
+    <dc:subject>San Francisco</dc:subject>
+    <dc:subject>California</dc:subject>
+    <dc:subject>Spanish colonial</dc:subject>
+    <dc:subject>Mexican</dc:subject>
+    <dc:subject>US Army</dc:subject>
+    <dc:subject>education</dc:subject>
+    <dc:contributor>Sarah W. Kansa</dc:contributor>
+    <dc:identifier>http://opencontext.org/subjects/D477911E-25F7-4B7D-C6CE-4C6A75BAB68E</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/C5B4F73B-5EF8-4099-590E-B0275EDBA2A7">Presidio of San Francisco</oc:project_name>
+    <oc:primary_xsl>default/</oc:primary_xsl>
+    <oc:sourceID>z_8_c3fbae071</oc:sourceID>
+    <oc:pub_date>2010-01-29T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Presidio%20of%20San%20Francisco%3A%20Bone%20100033.13%20%28Animal%20Bone%29&amp;rft.date=2010-01-29&amp;rft.contributor=Sarah%20W.%20Kansa&amp;rft_id=http%3A%2F%2Fopencontext.org%2Fsubjects%2FD477911E-25F7-4B7D-C6CE-4C6A75BAB68E</oc:coins>
+    <oc:no_props>No properties</oc:no_props>
+    <oc:copyright_lic>
+      <oc:lic_name>Creative Commons Attribution</oc:lic_name>
+      <oc:lic_vers>3.0</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+    <oc:geo_reference>
+      <oc:geo_lat>37.800154</oc:geo_lat>
+      <oc:geo_long>-122.455925</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/70B9E6CF-E6E4-4228-B2B9-6EF2D2F1FDAE">
+        <oc:source_name>Building 39</oc:source_name>
+        <oc:source_id>70B9E6CF-E6E4-4228-B2B9-6EF2D2F1FDAE</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2010-01-29T09:09:49Z</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2010/01/29 09:09:49</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(1780 CE - 1860 CE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>1780</oc:time_start>
+          <oc:time_finish>1860</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/70B9E6CF-E6E4-4228-B2B9-6EF2D2F1FDAE">
+            <oc:source_name>Building 39</oc:source_name>
+            <oc:source_id>70B9E6CF-E6E4-4228-B2B9-6EF2D2F1FDAE</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2010-01-27T23:01:28Z</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

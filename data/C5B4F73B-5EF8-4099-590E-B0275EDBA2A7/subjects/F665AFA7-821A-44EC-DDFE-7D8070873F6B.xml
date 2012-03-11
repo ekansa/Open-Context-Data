@@ -1,0 +1,340 @@
+<?xml version="1.0"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:gml="http://www.opengis.net/gml" xmlns:dc="http://purl.org/dc/elements/1.1/" UUID="F665AFA7-821A-44EC-DDFE-7D8070873F6B" ownedBy="C5B4F73B-5EF8-4099-590E-B0275EDBA2A7">
+  <arch:name>
+    <arch:string>Artifacts</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Sample</oc:name>
+    <oc:iconURI>http://www.opencontext.org/database/ui_images/med_oc_icons/sample_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <arch:links>
+        <arch:docID type="person" info="Principle Author / Analyst">4D9C0758-C8A6-42B8-6C7B-5C5DFEE4720B</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/4D9C0758-C8A6-42B8-6C7B-5C5DFEE4720B" cite="contributor">
+            <oc:name>Thad M. Van Bueren</oc:name>
+            <oc:id>4D9C0758-C8A6-42B8-6C7B-5C5DFEE4720B</oc:id>
+            <oc:relation>Principle Author / Analyst</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string>Storage box for the Presidio Archaeology Lab. Each box has an identification number</arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/4_global_USA">
+        <oc:name>United States</oc:name>
+        <oc:id>4_global_USA</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/8_global_Cal">
+        <oc:name>California</oc:name>
+        <oc:id>8_global_Cal</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/66CEA102-FDA4-4AF2-8A45-7546A1D19AAB">
+        <oc:name>Presidio of San Francisco</oc:name>
+        <oc:id>66CEA102-FDA4-4AF2-8A45-7546A1D19AAB</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/70B9E6CF-E6E4-4228-B2B9-6EF2D2F1FDAE">
+        <oc:name>Building 39</oc:name>
+        <oc:id>70B9E6CF-E6E4-4228-B2B9-6EF2D2F1FDAE</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Area</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+    <oc:tree id="8_global_Cal_66CEA102-FDA4-4AF2-8A45-7546A1D19AAB">
+      <oc:parent href="http://opencontext.org/subjects/4_global_USA">
+        <oc:name>United States</oc:name>
+        <oc:id>4_global_USA</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/8_global_Cal">
+        <oc:name>California</oc:name>
+        <oc:id>8_global_Cal</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/66CEA102-FDA4-4AF2-8A45-7546A1D19AAB">
+        <oc:name>Presidio of San Francisco</oc:name>
+        <oc:id>66CEA102-FDA4-4AF2-8A45-7546A1D19AAB</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/70B9E6CF-E6E4-4228-B2B9-6EF2D2F1FDAE">
+        <oc:name>Building 39</oc:name>
+        <oc:id>70B9E6CF-E6E4-4228-B2B9-6EF2D2F1FDAE</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Area</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/A7EDE6CA-8788-4EF7-D2C3-95ECEA840A05">
+        <oc:name>Item 1</oc:name>
+        <oc:id>A7EDE6CA-8788-4EF7-D2C3-95ECEA840A05</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/12B41E90-78F1-4BC2-8EC7-7F4144B3FD85">
+        <oc:name>Item 10</oc:name>
+        <oc:id>12B41E90-78F1-4BC2-8EC7-7F4144B3FD85</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/BA532376-C8D0-418A-3B6A-951F928B3897">
+        <oc:name>Item 11</oc:name>
+        <oc:id>BA532376-C8D0-418A-3B6A-951F928B3897</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/179B1CDA-5A5A-49CA-6530-8CF72636EC74">
+        <oc:name>Item 12</oc:name>
+        <oc:id>179B1CDA-5A5A-49CA-6530-8CF72636EC74</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5D808810-FF07-4CC4-D10E-7BC9CB5A89D4">
+        <oc:name>Item 13</oc:name>
+        <oc:id>5D808810-FF07-4CC4-D10E-7BC9CB5A89D4</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/07E7BBB2-30E9-49F3-E47A-78430E4E330A">
+        <oc:name>Item 14</oc:name>
+        <oc:id>07E7BBB2-30E9-49F3-E47A-78430E4E330A</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/16225034-F7F4-4B58-8ABF-C31F134222A6">
+        <oc:name>Item 15</oc:name>
+        <oc:id>16225034-F7F4-4B58-8ABF-C31F134222A6</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/371C0E5A-EB97-48EE-2A27-B8A862741909">
+        <oc:name>Item 16</oc:name>
+        <oc:id>371C0E5A-EB97-48EE-2A27-B8A862741909</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F1AE2752-B4A3-4C6D-512F-A688CADB4725">
+        <oc:name>Item 17</oc:name>
+        <oc:id>F1AE2752-B4A3-4C6D-512F-A688CADB4725</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/7A2DD548-8F87-491B-D985-3D1DB61FED34">
+        <oc:name>Item 18</oc:name>
+        <oc:id>7A2DD548-8F87-491B-D985-3D1DB61FED34</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/680F8C14-2659-478D-CB4E-14739CFC77FB">
+        <oc:name>Item 19</oc:name>
+        <oc:id>680F8C14-2659-478D-CB4E-14739CFC77FB</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5ECABCA6-24CB-4D26-F7DD-32FE616B977A">
+        <oc:name>Item 2</oc:name>
+        <oc:id>5ECABCA6-24CB-4D26-F7DD-32FE616B977A</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B9BB7DBC-E9F5-4E33-24C5-5A545D51F78B">
+        <oc:name>Item 20</oc:name>
+        <oc:id>B9BB7DBC-E9F5-4E33-24C5-5A545D51F78B</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/248CF319-89F1-46EE-C891-C2E5249D4558">
+        <oc:name>Item 21</oc:name>
+        <oc:id>248CF319-89F1-46EE-C891-C2E5249D4558</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6CDF7230-4D36-49ED-8ADE-38AE6259061E">
+        <oc:name>Item 3</oc:name>
+        <oc:id>6CDF7230-4D36-49ED-8ADE-38AE6259061E</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A3DED972-59BB-46A5-2D67-63313271D40D">
+        <oc:name>Item 4</oc:name>
+        <oc:id>A3DED972-59BB-46A5-2D67-63313271D40D</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6251D31D-1D6B-4DF4-A494-F58A69C32B5F">
+        <oc:name>Item 5</oc:name>
+        <oc:id>6251D31D-1D6B-4DF4-A494-F58A69C32B5F</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/0955E73F-5790-4C4B-1C93-7A5D6140AAE1">
+        <oc:name>Item 6</oc:name>
+        <oc:id>0955E73F-5790-4C4B-1C93-7A5D6140AAE1</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D1CF1318-3589-4408-E7EC-C4516D8044AF">
+        <oc:name>Item 7</oc:name>
+        <oc:id>D1CF1318-3589-4408-E7EC-C4516D8044AF</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/EB8F8B4F-57E9-4302-D022-0E4135D2F60F">
+        <oc:name>Item 8</oc:name>
+        <oc:id>EB8F8B4F-57E9-4302-D022-0E4135D2F60F</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/64C82A2F-1886-4887-3880-D9A6994A17B3">
+        <oc:name>Item 9</oc:name>
+        <oc:id>64C82A2F-1886-4887-3880-D9A6994A17B3</oc:id>
+        <oc:item_class>
+          <oc:name>Small Find</oc:name>
+          <oc:iconURI>small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Presidio of San Francisco: Artifacts (Sample)</dc:title>
+    <dc:date>2010-01-29</dc:date>
+    <dc:creator>Presidio Archaeology Lab (Presidio Trust)</dc:creator>
+    <dc:subject>historical archaeology</dc:subject>
+    <dc:subject>presidio</dc:subject>
+    <dc:subject>San Francisco</dc:subject>
+    <dc:subject>California</dc:subject>
+    <dc:subject>Spanish colonial</dc:subject>
+    <dc:subject>Mexican</dc:subject>
+    <dc:subject>US Army</dc:subject>
+    <dc:subject>education</dc:subject>
+    <dc:contributor>Thad M. Van Bueren</dc:contributor>
+    <dc:identifier>http://opencontext.org/subjects/F665AFA7-821A-44EC-DDFE-7D8070873F6B</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/C5B4F73B-5EF8-4099-590E-B0275EDBA2A7">Presidio of San Francisco</oc:project_name>
+    <oc:primary_xsl>default/</oc:primary_xsl>
+    <oc:sourceID>z_8_f3642f5a0</oc:sourceID>
+    <oc:pub_date>2010-01-29T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Presidio%20of%20San%20Francisco%3A%20Artifacts%20%28Sample%29&amp;rft.date=2010-01-29&amp;rft.contributor=Thad%20M.%20Van%20Bueren&amp;rft_id=http%3A%2F%2Fopencontext.org%2Fsubjects%2FF665AFA7-821A-44EC-DDFE-7D8070873F6B</oc:coins>
+    <oc:no_props>No properties</oc:no_props>
+    <oc:copyright_lic>
+      <oc:lic_name>Creative Commons Attribution</oc:lic_name>
+      <oc:lic_vers>3.0</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+    <oc:geo_reference>
+      <oc:geo_lat>37.800154</oc:geo_lat>
+      <oc:geo_long>-122.455925</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/70B9E6CF-E6E4-4228-B2B9-6EF2D2F1FDAE">
+        <oc:source_name>Building 39</oc:source_name>
+        <oc:source_id>70B9E6CF-E6E4-4228-B2B9-6EF2D2F1FDAE</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2010-01-29T10:21:10Z</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2010/01/29 10:21:10</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(1780 CE - 1860 CE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>1780</oc:time_start>
+          <oc:time_finish>1860</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/70B9E6CF-E6E4-4228-B2B9-6EF2D2F1FDAE">
+            <oc:source_name>Building 39</oc:source_name>
+            <oc:source_id>70B9E6CF-E6E4-4228-B2B9-6EF2D2F1FDAE</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2010-01-27T23:01:28Z</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

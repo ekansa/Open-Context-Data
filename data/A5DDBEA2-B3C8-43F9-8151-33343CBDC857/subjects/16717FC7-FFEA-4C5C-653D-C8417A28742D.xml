@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="16717FC7-FFEA-4C5C-653D-C8417A28742D" ownedBy="A5DDBEA2-B3C8-43F9-8151-33343CBDC857">
+  <arch:name>
+    <arch:string>Coin 01-C-16</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Coin</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/coin_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_1_GKF553378</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>FF010969-9F5C-486B-9BF4-21E813728F60</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/centimeter" name="centimeter" abrv="cm"/>
+          <oc:propid href="http://opencontext.org/properties/05CBAE00-0089-4EF0-057D-7BE5BD8EAAF5">05CBAE00-0089-4EF0-057D-7BE5BD8EAAF5</oc:propid>
+          <oc:var_label type="decimal">Diameter</oc:var_label>
+          <oc:show_val>22-to-20 mm</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>78D528C0-9DFF-4404-E6C2-B83F0BF05257</arch:variableID>
+          <arch:valueID>ABD18DD4-0089-42C0-69BC-426B10D7983E</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/BCCFF2C0-009B-40C1-BB90-0F9285454615">BCCFF2C0-009B-40C1-BB90-0F9285454615</oc:propid>
+          <oc:var_label type="nominal">References</oc:var_label>
+          <oc:show_val>Waage, Antioch Coins No. 1302.
+RIC V part 2, Antioch #322 (p. 256), struck 293-295 CE.</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>5A8C284B-03A2-4956-7FC5-31F883E2B0D1</arch:variableID>
+          <arch:valueID>7D4577BF-2780-467D-9E8D-A02EA6187D31</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/2F4F8D13-7674-4CC1-7A90-DF2B8CC9A04F">2F4F8D13-7674-4CC1-7A90-DF2B8CC9A04F</oc:propid>
+          <oc:var_label type="nominal">City/Dynasty</oc:var_label>
+          <oc:show_val>Diocletian</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>528C7FAF-5AC9-4EDF-57C0-792F504D0902</arch:variableID>
+          <arch:valueID>51A8D6FD-A7A5-4066-7F9F-DBD520804B36</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/805EB9D8-4C49-4988-A7DB-093D15CAA231">805EB9D8-4C49-4988-A7DB-093D15CAA231</oc:propid>
+          <oc:var_label type="nominal">Thickness (cm)</oc:var_label>
+          <oc:show_val>2 mm</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>EA1D7BC9-3B85-4747-4178-E64938E18DB7</arch:variableID>
+          <arch:valueID>B1EFCB6D-A2B7-4FDD-0ACE-A5BED5C6BFC4</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/A823E5EE-2804-40FB-D9BF-29386A217273">A823E5EE-2804-40FB-D9BF-29386A217273</oc:propid>
+          <oc:var_label type="calendric">Date Catalogued</oc:var_label>
+          <oc:show_val>6/25/2009</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>09E1BC6E-0A8C-4571-3CAD-71B38610A181</arch:variableID>
+          <arch:valueID>79053DBA-A1B0-4FD9-8005-B615A1633171</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/8026BB19-9C0F-4FD5-6FE7-6E3045B6E4EF">8026BB19-9C0F-4FD5-6FE7-6E3045B6E4EF</oc:propid>
+          <oc:var_label type="nominal">Mintmark</oc:var_label>
+          <oc:show_val>Antioch B</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="09E1BC6E-0A8C-4571-3CAD-71B38610A181" href="http://gawd.atlantides.org/terms/origin">
+              <oc:vocabulary href="http://pleiades.stoa.org/">Pleiades</oc:vocabulary>
+              <oc:label>Concordia::Origin</oc:label>
+              <oc:targetLink localType="property" localID="8026BB19-9C0F-4FD5-6FE7-6E3045B6E4EF" localURI="http://opencontext.org/properties/8026BB19-9C0F-4FD5-6FE7-6E3045B6E4EF" href="http://pleiades.stoa.org/places/658381">
+                <oc:vocabulary href="http://pleiades.stoa.org/">Pleiades</oc:vocabulary>
+                <oc:label>Antiochia/Theoupolis</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>46F582FF-FEBD-4D1B-7BF1-B2B81B51DF85</arch:variableID>
+          <oc:propid href="http://opencontext.org/properties/FCB64A2F-BD28-45D8-91C9-2D75831359DB">FCB64A2F-BD28-45D8-91C9-2D75831359DB</oc:propid>
+          <oc:var_label type="nominal">Die Axis</oc:var_label>
+          <oc:show_val>2</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>2A4995E1-A5CE-46DE-BF61-1D51D9124E5B</arch:variableID>
+          <arch:valueID>1519BFB4-A38A-4454-52D7-4E226B804448</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/58F37688-2C24-4C79-2F3E-7AF31D7CF678">58F37688-2C24-4C79-2F3E-7AF31D7CF678</oc:propid>
+          <oc:var_label type="nominal">Country</oc:var_label>
+          <oc:show_val>Syria (Antioch)</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>923B7809-EBC8-49C7-B7E0-7440942FB193</arch:variableID>
+          <arch:valueID>0F88ADEB-AEB0-426C-056B-C77EF35A9374</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/414B4286-DB59-405E-18C2-AE83BEAEF307">414B4286-DB59-405E-18C2-AE83BEAEF307</oc:propid>
+          <oc:var_label type="nominal">Metal Description</oc:var_label>
+          <oc:show_val>Silver</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>34BAA15A-8B82-4E2F-5AA2-E4CCF795F9B3</arch:variableID>
+          <arch:integer>2001</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/AAA8B7A4-831E-4EC7-C732-9A78FF52B547">AAA8B7A4-831E-4EC7-C732-9A78FF52B547</oc:propid>
+          <oc:var_label type="integer">Year Excavated</oc:var_label>
+          <oc:show_val>2001</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9204EA91-DE97-4585-4F52-759D0F046069</arch:variableID>
+          <arch:valueID>CF9C6689-6FA1-4A9A-D1FF-19AB836CD8FE</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/6B732CE4-0D32-4420-6476-AC18C07F7D06">6B732CE4-0D32-4420-6476-AC18C07F7D06</oc:propid>
+          <oc:var_label type="nominal">Date Minted</oc:var_label>
+          <oc:show_val>293-295 CE</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>FAB47C2C-3FF1-4B6A-2B66-687B99B75462</arch:variableID>
+          <arch:valueID>005278CA-20D1-4FA6-328A-845615F58C03</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/A375ED7A-3DB2-4553-8E04-664DA11BC3C6">A375ED7A-3DB2-4553-8E04-664DA11BC3C6</oc:propid>
+          <oc:var_label type="nominal">Metal</oc:var_label>
+          <oc:show_val>AR</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>CCB54DD0-936F-4A02-B7A4-1E307DAC6F99</arch:variableID>
+          <arch:date>2001-06-22</arch:date>
+          <oc:propid href="http://opencontext.org/properties/BB830D9B-AE92-451E-93E9-70F395AC5665">BB830D9B-AE92-451E-93E9-70F395AC5665</oc:propid>
+          <oc:var_label type="calendar">Date Excavated</oc:var_label>
+          <oc:show_val>June 22, 2001</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>4561A4BB-FADF-4E09-4A72-98460A5B4B45</arch:variableID>
+          <arch:decimal>80153</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/05013D58-57D0-4ED5-6856-0335EC97A8DC">05013D58-57D0-4ED5-6856-0335EC97A8DC</oc:propid>
+          <oc:var_label type="decimal">Sequence #</oc:var_label>
+          <oc:show_val>80153</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="resource" info="link">5C5D8BB4-ABD8-46CB-3F4A-2F17928BFD10</arch:docID>
+        <arch:docID type="resource" info="link">36A3DE26-7C29-4833-FC4B-9FA72DDE8245</arch:docID>
+        <arch:docID type="person" info="Catalogued by">1EFB20BC-BE05-486A-C434-988892277ED5</arch:docID>
+        <arch:docID type="person" info="excavated by">9034B710-8EC0-426F-C5D8-61E5255DF22F</arch:docID>
+        <arch:docID type="person" info="excavated by">5585E5B4-0FC3-4C08-76FE-F6B9BAE53B3C</arch:docID>
+        <oc:media_links>
+          <oc:link href="http://opencontext.org/media/5C5D8BB4-ABD8-46CB-3F4A-2F17928BFD10">
+            <oc:name>Coin 01-C-16 obverse</oc:name>
+            <oc:id>5C5D8BB4-ABD8-46CB-3F4A-2F17928BFD10</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>Image</oc:type>
+            <oc:thumbnailURI>http://www.alexandriaarchive.org/opencontext/petra/coins/thumbnail/obverse_png/petra_coins_01-C-16_obs.png</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/36A3DE26-7C29-4833-FC4B-9FA72DDE8245">
+            <oc:name>Coin 01-C-16 reverse</oc:name>
+            <oc:id>36A3DE26-7C29-4833-FC4B-9FA72DDE8245</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>Image</oc:type>
+            <oc:thumbnailURI>http://www.alexandriaarchive.org/opencontext/petra/coins/thumbnail/reverse_png/petra_coins_01-C-16_rev.png</oc:thumbnailURI>
+          </oc:link>
+        </oc:media_links>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/1EFB20BC-BE05-486A-C434-988892277ED5" cite="contributor">
+            <oc:name>Martha Sharp Joukowsky</oc:name>
+            <oc:id>1EFB20BC-BE05-486A-C434-988892277ED5</oc:id>
+            <oc:relation>Catalogued by</oc:relation>
+          </oc:link>
+          <oc:link href="http://opencontext.org/persons/9034B710-8EC0-426F-C5D8-61E5255DF22F" cite="contributor">
+            <oc:name/>
+            <oc:id>9034B710-8EC0-426F-C5D8-61E5255DF22F</oc:id>
+            <oc:relation>excavated by</oc:relation>
+          </oc:link>
+          <oc:link href="http://opencontext.org/persons/5585E5B4-0FC3-4C08-76FE-F6B9BAE53B3C" cite="contributor">
+            <oc:name>Darrryl B. Sneag</oc:name>
+            <oc:id>5585E5B4-0FC3-4C08-76FE-F6B9BAE53B3C</oc:id>
+            <oc:relation>excavated by</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string>Identifier assigned to individual coin finds</arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/D9AE02E5-C3F3-41D0-EB3A-39798F63GGGG">
+        <oc:name>Jordan</oc:name>
+        <oc:id>D9AE02E5-C3F3-41D0-EB3A-39798F63GGGG</oc:id>
+        <oc:level>6</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/D9AE02E5-C3F1-41D0-EB3A-39798F63F6C4">
+        <oc:name>Petra Great Temple</oc:name>
+        <oc:id>D9AE02E5-C3F1-41D0-EB3A-39798F63F6C4</oc:id>
+        <oc:level>5</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/BB0C24AB-A6AB-471F-FB95-F37839047CE3">
+        <oc:name>Propylaeum</oc:name>
+        <oc:id>BB0C24AB-A6AB-471F-FB95-F37839047CE3</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Area</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/F5E097A8-4058-4084-D744-39E778343351">
+        <oc:name>Trench 80</oc:name>
+        <oc:id>F5E097A8-4058-4084-D744-39E778343351</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/6FC1CA12-EA88-4263-BBCE-B14A2910E1F7">
+        <oc:name>Locus 2</oc:name>
+        <oc:id>6FC1CA12-EA88-4263-BBCE-B14A2910E1F7</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Locus</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/341B09D7-58E9-4A6F-87AE-5A6A658ABDE1">
+        <oc:name>Seq. 80153</oc:name>
+        <oc:id>341B09D7-58E9-4A6F-87AE-5A6A658ABDE1</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Sequence</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Petra Great Temple Excavations: Coin 01-C-16 (Coin)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2009-10-26</dc:date>
+    <dc:coverage>Jordan</dc:coverage>
+    <dc:subject>Religion</dc:subject>
+    <dc:subject>Hellenistic</dc:subject>
+    <dc:subject>Jordan</dc:subject>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Roman Empire</dc:subject>
+    <dc:subject>Archaeology</dc:subject>
+    <dc:subject>Architecture</dc:subject>
+    <dc:subject>Nabateans</dc:subject>
+    <dc:subject>Nabatean</dc:subject>
+    <dc:subject>Petra</dc:subject>
+    <dc:contributor href="http://opencontext.org/persons/1EFB20BC-BE05-486A-C434-988892277ED5">Martha Sharp Joukowsky</dc:contributor>
+    <dc:contributor href="http://opencontext.org/persons/9034B710-8EC0-426F-C5D8-61E5255DF22F"/>
+    <dc:contributor href="http://opencontext.org/persons/5585E5B4-0FC3-4C08-76FE-F6B9BAE53B3C">Darrryl B. Sneag</dc:contributor>
+    <dc:creator href="http://opencontext.org/persons/1EFB20BC-BE05-486A-C434-988892277ED5">Martha Sharp Joukowsky</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/16717FC7-FFEA-4C5C-653D-C8417A28742D</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/A5DDBEA2-B3C8-43F9-8151-33343CBDC857">Petra Great Temple Excavations</oc:project_name>
+    <oc:pub_date>2009-10-26T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Petra+Great+Temple+Excavations%3A+Coin+01-C-16+%28Coin%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.coverage=Jordan&amp;rft.subject=Religion&amp;rft.subject=Hellenistic&amp;rft.subject=Jordan&amp;rft.subject=Roman&amp;rft.subject=Roman+Empire&amp;rft.subject=Archaeology&amp;rft.subject=Architecture&amp;rft.subject=Nabateans&amp;rft.subject=Nabatean&amp;rft.subject=Petra&amp;rft.contributor=Martha+Sharp+Joukowsky&amp;rft.contributor=&amp;rft.contributor=Darrryl+B.+Sneag&amp;rft.creator=Martha+Sharp+Joukowsky&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F16717FC7-FFEA-4C5C-653D-C8417A28742D</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>30.3286991119385</oc:geo_lat>
+      <oc:geo_long>35.4421005249023</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/D9AE02E5-C3F1-41D0-EB3A-39798F63F6C4">
+        <oc:source_name>Petra Great Temple</oc:source_name>
+        <oc:source_id>D9AE02E5-C3F1-41D0-EB3A-39798F63F6C4</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2011-10-21T16:55:36-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2011/10/21 16:55:36</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(200 BCE - 360 CE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-200</oc:time_start>
+          <oc:time_finish>360</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/D9AE02E5-C3F1-41D0-EB3A-39798F63F6C4">
+            <oc:source_name>Petra Great Temple</oc:source_name>
+            <oc:source_id>D9AE02E5-C3F1-41D0-EB3A-39798F63F6C4</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2008-08-11T22:45:26-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

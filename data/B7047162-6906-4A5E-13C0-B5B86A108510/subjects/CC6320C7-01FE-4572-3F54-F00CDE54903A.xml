@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:gml="http://www.opengis.net/gml" xmlns:dc="http://purl.org/dc/elements/1.1/" UUID="CC6320C7-01FE-4572-3F54-F00CDE54903A" ownedBy="B7047162-6906-4A5E-13C0-B5B86A108510">
+  <arch:name>
+    <arch:string>Phase</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Stratum</oc:name>
+    <oc:iconURI>http://www.opencontext.org/database/ui_images/med_oc_icons/stratum_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <arch:links>
+        <arch:docID type="person" info="Principle Author / Analyst">A8474C2C-A080-4E03-82A9-4B99393BC609</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/A8474C2C-A080-4E03-82A9-4B99393BC609" cite="contributor">
+            <oc:name>Jessica Grimm</oc:name>
+            <oc:id>A8474C2C-A080-4E03-82A9-4B99393BC609</oc:id>
+            <oc:relation>Principle Author / Analyst</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string>This project includes zooarchaeological data only. For more information about phases, please refer to Jessica Grimm's dissertation (see link and bibliographic reference in the project description).</arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/2_Global_Germany">
+        <oc:name>Germany</oc:name>
+        <oc:id>2_Global_Germany</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/4B0DD7D5-8959-4A1E-D6E8-D649CC461CF9">
+        <oc:name>Emden</oc:name>
+        <oc:id>4B0DD7D5-8959-4A1E-D6E8-D649CC461CF9</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/79A7C8C5-D95D-41C4-D4C8-6001BA33B6DB">
+        <oc:name>Gro&#xDF;e Kirche</oc:name>
+        <oc:id>79A7C8C5-D95D-41C4-D4C8-6001BA33B6DB</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Field Project</oc:name>
+          <oc:iconURI>http://www.opencontext.org/database/ui_images/oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children qPath="Germany/Emden/Gro%C3%9Fe+Kirche/Phase+">
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/DF940D0F-3F91-4447-F40C-FE4A68766239">
+        <oc:name>Bone </oc:name>
+        <oc:id>DF940D0F-3F91-4447-F40C-FE4A68766239</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/29F3CDA8-BDCE-436B-8BA0-F0AADA1016CB">
+        <oc:name>Bone (11705)</oc:name>
+        <oc:id>29F3CDA8-BDCE-436B-8BA0-F0AADA1016CB</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/36C6C6D4-EBC5-4224-DC80-BF0D7B38C6D2">
+        <oc:name>Bone (11706)</oc:name>
+        <oc:id>36C6C6D4-EBC5-4224-DC80-BF0D7B38C6D2</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A0731E23-D1E8-478A-285D-7CE7D07385FB">
+        <oc:name>Bone (11707)</oc:name>
+        <oc:id>A0731E23-D1E8-478A-285D-7CE7D07385FB</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/AD7C4312-BAD3-487E-0BF7-1874A8C82784">
+        <oc:name>Bone (11708)</oc:name>
+        <oc:id>AD7C4312-BAD3-487E-0BF7-1874A8C82784</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D399A57B-DC87-4FA3-BF71-E389D58E90C1">
+        <oc:name>Bone (11709)</oc:name>
+        <oc:id>D399A57B-DC87-4FA3-BF71-E389D58E90C1</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E74E0C49-F4D8-4369-2671-4D6EB44FE628">
+        <oc:name>Bone (11710)</oc:name>
+        <oc:id>E74E0C49-F4D8-4369-2671-4D6EB44FE628</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/DA40C5F8-DC0B-4672-20EF-0DE683D4DC40">
+        <oc:name>Bone (11711)</oc:name>
+        <oc:id>DA40C5F8-DC0B-4672-20EF-0DE683D4DC40</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D9BADFC9-EC55-460C-FB9B-3EBAFF756187">
+        <oc:name>Bone (11712)</oc:name>
+        <oc:id>D9BADFC9-EC55-460C-FB9B-3EBAFF756187</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2F817E49-6171-49A4-54B8-42044C67389D">
+        <oc:name>Bone (11713)</oc:name>
+        <oc:id>2F817E49-6171-49A4-54B8-42044C67389D</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/0B3D6296-B56B-4E7A-B7EB-8AEE77AD61CA">
+        <oc:name>Bone (11714)</oc:name>
+        <oc:id>0B3D6296-B56B-4E7A-B7EB-8AEE77AD61CA</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2F7E2A77-9211-46EC-9769-D2000E1EF4FC">
+        <oc:name>Bone (11715)</oc:name>
+        <oc:id>2F7E2A77-9211-46EC-9769-D2000E1EF4FC</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B2128AA9-9593-4025-979C-417B8C016876">
+        <oc:name>Bone (11716)</oc:name>
+        <oc:id>B2128AA9-9593-4025-979C-417B8C016876</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3B55AD20-B47D-4827-F044-FF474337684F">
+        <oc:name>Bone (12538)</oc:name>
+        <oc:id>3B55AD20-B47D-4827-F044-FF474337684F</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A1763909-00E4-402B-9E75-11C66ACA7AA6">
+        <oc:name>Bone (12890)</oc:name>
+        <oc:id>A1763909-00E4-402B-9E75-11C66ACA7AA6</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E1243819-A3A6-4014-30CD-0BEC84029C40">
+        <oc:name>Bone (13172)</oc:name>
+        <oc:id>E1243819-A3A6-4014-30CD-0BEC84029C40</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/CEF7AB61-70C8-4F43-2434-31B0E0ADEAB6">
+        <oc:name>Bone (14487)</oc:name>
+        <oc:id>CEF7AB61-70C8-4F43-2434-31B0E0ADEAB6</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2474E543-951E-499E-9409-F4E009A1901A">
+        <oc:name>Bone (20052)</oc:name>
+        <oc:id>2474E543-951E-499E-9409-F4E009A1901A</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Zooarchaeology of Medieval Emden: Phase  (Stratum)</dc:title>
+    <dc:date>2010-11-01</dc:date>
+    <dc:creator>Jessica Grimm</dc:creator>
+    <dc:subject>zooarchaeology</dc:subject>
+    <dc:subject>medieval</dc:subject>
+    <dc:subject>Lower Saxony</dc:subject>
+    <dc:subject>Germany</dc:subject>
+    <dc:subject>subsistence</dc:subject>
+    <dc:subject/>
+    <dc:contributor>Jessica Grimm</dc:contributor>
+    <dc:identifier>http://opencontext.org/subjects/CC6320C7-01FE-4572-3F54-F00CDE54903A</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/B7047162-6906-4A5E-13C0-B5B86A108510">Zooarchaeology of Medieval Emden</oc:project_name>
+    <oc:primary_xsl>default/</oc:primary_xsl>
+    <oc:sourceID>z_2_93831678d</oc:sourceID>
+    <oc:pub_date>2010-11-01T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Zooarchaeology%20of%20Medieval%20Emden%3A%20Phase%20%20%28Stratum%29&amp;rft.date=2010-11-01&amp;rft.contributor=Jessica%20Grimm&amp;rft_id=http%3A%2F%2Fopencontext.org%2Fsubjects%2FCC6320C7-01FE-4572-3F54-F00CDE54903A</oc:coins>
+    <oc:no_props>No properties</oc:no_props>
+    <oc:copyright_lic>
+      <oc:lic_name>Creative Commons Attribution</oc:lic_name>
+      <oc:lic_vers>3.0</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+    <oc:geo_reference>
+      <oc:geo_lat>53.365588</oc:geo_lat>
+      <oc:geo_long>7.203392</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/4B0DD7D5-8959-4A1E-D6E8-D649CC461CF9">
+        <oc:source_name>Emden</oc:source_name>
+        <oc:source_id>4B0DD7D5-8959-4A1E-D6E8-D649CC461CF9</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2010-11-01T19:34:41Z</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2010/11/01 19:34:40</oc:view_time>
+    </oc:item_views>
+  </oc:social_usage>
+</arch:spatialUnit>
