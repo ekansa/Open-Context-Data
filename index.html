@@ -10,17 +10,25 @@
 
 	<style type="text/css">
 	div.nav_area {
-  	padding: 5px;
-	background-color: #003B66;
-    	background-color: #003B66;
-    	border-style:solid;
-    	border-width:5px;
-    	border-color: #003366;
-	border-radius:12px;
-	text-decoration: none;
-        color: #FFFFFF;
-}
-
+	  	padding: 5px;
+		background-color: #003B66;
+	    	border-style:solid;
+	    	border-width:5px;
+	    	border-color: #003366;
+		border-radius:12px;
+		text-decoration: none;
+	        color: #FFFFFF;
+	}
+	div.nav_area li a{
+	   	text-decoration:underline;
+	   	font-weight:bold;
+	        color: #FFFFFF;
+	}
+	div.codeArea {
+		display: table-cell;
+		background-color: #2E2E2E;
+		border-color: #666666;
+	}
 
 	</style>
 	
@@ -95,7 +103,9 @@
 	  </li>
 	  <li>You can also clone the project with <a href="http://git-scm.com">Git</a>
 	      by running:<br/>
+	      <div class="codeArea">
 	      <pre>$ git clone git://github.com/ekansa/Open-Context-Data</pre>
+	      </div>
 	  </li>
 	</ul>
         <br/>
