@@ -43,38 +43,58 @@
 
 <div id="main" class="bodyText">
 
-    <div>
-      This represents an early stage experiment in using GitHub to host Open Context datasets.
+  <div id="pageTop">
+    <div id="pageIntro">
+      <h2 style="text-align:center;">About Open Context Data on GitHub</h2>
+
+      <p>
+      This represents an early stage experiment in using GitHub to host <a href="http://opencontext.org/">Open Context</a> datasets. 
+      The main point of this is to add more transparency to versioning of Open Context data, and eventually,
+      facilitate more collaboration by making it easier to "fork" these data for new applications.
+     </p>
+     
+     <p>Open Context publishes archaeological data (mainly). 
+     These data are stored as XML documents which have been added to this GitHub hosted repository. Please note,
+     Open Context does not rely upon GitHub for long-term archiving and data preservation. Open Context also
+     works with the <a href="http://www.cdlib.org/">California Digital Library</a>'s 
+     <a href="http://www.cdlib.org/services/uc3/merritt/">Merritt</a> repository. Open Context uses of GitHub
+     mainly to encourage collaboration and transparency, and not for data preservation.
+     </p>
+    
     </div>
+  </div
 
     
-      <p><a href="http://opencontext.org/">Open Context</a> publishes archaeological data (mainly). The purpose of this repository is to share Open Context's data in a way that is easy for anyone to reuse, expand upon, and modify, all in the context of powerful version control features.</p>
+    
+      <h3>Notes about Open Context Data on GitHub</h3>
+      <p>The XML files are pretty straightforward, using elements of the "Archaeological Markup Language" (ArchaeoML)
+      from the University of Chicago <a href='http://ochre.lib.uchicago.edu/index_files/Page845.htm'>OCHRE project</a>. There are some additional Open Context 
+      specific namespace elements (no recent XSD yet, that will come!). To use these data, please note the following:</p>
+
+      <ul>
+    
+      <li><strong>Licenses</strong> Each XML document has Creative Commons licensing data in each document. 
+      Most carry the Creative Commons Attribution license, but some of the earlier datasets have the 
+      (dreaded, less-than-ideal) non-commercial restriction. </li>
+    
+      <li><strong>Authorship / Attribution</strong> Each XML document has Dublin-Core metadata
+      noting "creators" and "contributors". Please cite and attribute these individuals in all works based on these
+      data. Please also use the Dublin Core identifier element (an Open Context URL/URI) when 
+      citing these data.</li>
+    
+      <li><strong>More Information</strong> A brief introduction to the concepts behind these XML data can be
+      found at Open Context's <a href="http://opencontext.org">"About" pages</a>. Some of the XML documents have
+      an early stab at describing Linked Data relations. These are introduced 
+      <a href="http://opencontext.org/about/concepts#linked-data">here</a>.</li>
     
 
+      </ul>
     
-      <h2>Dependencies</h2>
-      <p>The XML files are pretty straightforward, using elements of the "Archaeological Markup Language" (ArchaeoML) from the University of Chicago OCHRE project. There are some additional Open Context specific namespace elements (no recent XSD yet, that will come!). </p>
-    
-
-    
-
-    
-      <h2>License</h2>
-      <p>See Creative Commons licensing data in each document. Most carry the Creative Commons Attribution license.</p>
+      <h3>Contact</h3>
+      <p>Eric Kansa (kansaeric@gmail.com)</p>
     
 
-    
-      <h2>Authors</h2>
-      <p>See Dublin Core metadata in each XML document</p>
-    
-
-    
-      <h2>Contact</h2>
-      <p>Eric Kansa (kansaeric@gmail.com)
-<br/>      </p>
-    
-
-    <h2>Download</h2>
+    <h3>Download</h3>
     <p>
       You can download this project in either
       <a href="https://github.com/ekansa/Open-Context-Data/zipball/master">zip</a> or
