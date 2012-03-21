@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="FD20557B-36DF-4921-137C-AE0F42E5029D" ownedBy="3DE4CD9C-259E-4C14-9B03-8B10454BA66E">
+  <arch:name>
+    <arch:string>Trench 11</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Trench</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_40x40.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_1_549c3837c</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>09E1A5FA-A6CB-4F13-D27A-197E624AEF96</arch:variableID>
+          <arch:valueID>64B656AD-B0FF-4EF7-D645-6FC667D135BE</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/69FB6211-9BC0-42CA-105E-8FF4AE5577B5">69FB6211-9BC0-42CA-105E-8FF4AE5577B5</oc:propid>
+          <oc:var_label type="nominal">Tentative Dating</oc:var_label>
+          <oc:show_val>uncertain</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7DAA1496-5ACD-42ED-D93E-EE92AD8E0B60</arch:variableID>
+          <arch:decimal>2001</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/33B3490B-2110-4EAA-46BE-BB630753A642">33B3490B-2110-4EAA-46BE-BB630753A642</oc:propid>
+          <oc:var_label type="decimal">Year</oc:var_label>
+          <oc:show_val>2001</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>5DF78D1C-2047-48C6-D905-71775B1F4A1D</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/meter" name="meter" abrv="m">2</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/E3B1B6D2-04F3-49FB-64FF-9DCC93267A46">E3B1B6D2-04F3-49FB-64FF-9DCC93267A46</oc:propid>
+          <oc:var_label type="decimal">Trench Length (m)</oc:var_label>
+          <oc:show_val>2</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F02DB2A8-3F91-46ED-660E-C57FEBD8437B</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/meter" name="meter" abrv="m">1</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/9532D5E8-267A-474C-C22C-6F5CDD543D0F">9532D5E8-267A-474C-C22C-6F5CDD543D0F</oc:propid>
+          <oc:var_label type="decimal">Trench Width (m)</oc:var_label>
+          <oc:show_val>1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>5CA4CA22-5AB1-49A8-624D-AE50EEE2EFC3</arch:variableID>
+          <arch:valueID>83F1D6FB-537A-46BF-77D7-0666E03ABDCC</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/CCAD45B3-7A61-402F-D034-0AC88D49CF1A">CCAD45B3-7A61-402F-D034-0AC88D49CF1A</oc:propid>
+          <oc:var_label type="alphanumeric">Trench Description</oc:var_label>
+          <oc:show_val>Trench F 11 is a 1 by 1 meter sounding excavated on the northwestern edge of Area F. The purpose of this trench was to determine the extent and depth of cultural debris in Area F. This trench was excavated using arbitrary sounding levels. F11 was placed on the side of a road cut that was made in this part of the tepe.</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Director">4499C94B-8EB5-4E30-07CC-DD3A98561FB6</arch:docID>
+        <arch:docID type="resource" info="link">FD448C80-E760-4198-5558-904137F76B8A</arch:docID>
+        <oc:diary_links>
+          <oc:link href="http://opencontext.org/documents/FD448C80-E760-4198-5558-904137F76B8A">
+            <oc:name>F-11-2001-08-21-Season</oc:name>
+            <oc:id>FD448C80-E760-4198-5558-904137F76B8A</oc:id>
+            <oc:relation>link</oc:relation>
+          </oc:link>
+        </oc:diary_links>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/4499C94B-8EB5-4E30-07CC-DD3A98561FB6" cite="creator">
+            <oc:name>Bradley J. Parker</oc:name>
+            <oc:id>4499C94B-8EB5-4E30-07CC-DD3A98561FB6</oc:id>
+            <oc:relation>Director</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string>A trench is the projection of a 2D square or rectangle onto some small portion of an Area. This projection is usually excavated vertically, leaving a one-half meter space between the vertically excavated space and the edge of the trench so that a standing section, or baulk, is left as a record of the trench stratigraphy. Generally speaking, trenches fit into the north-south grid established on the site. The exception is where the site topography does not allow a trench to be oriented to the cardinal points. Trench corners were located using a total station and secured with cement. The location of all excavated material within a trench was measured relative to the actual (cemented) corners of the trench. Various sized trenches were excavated at Kenan Tepe including 1 x 1 and 2 x 2 meter soundings and 3 x 5, 5 x 5, 5 x 10 and 10 x 10 meter trenches. One or two students were typically placed in control of a trench as "trench supervisors." Trenches also typically had between 1 and 4 local laborers. Area supervisors oversaw trenches in each area. Trench supervisors were responsible for recording the excavation and for directing the local laborers. This included keeping a daily journal that recorded observations and activities in each trench, drawing daily plans showing the location of excavated contexts, taking photographs and issuing loci and finds bag numbers. Area supervisors oversaw excavation and sampling strategies and guided trench supervisors in excavation procedures and interpretation.</arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+        <oc:name>Turkey</oc:name>
+        <oc:id>1_Global_Spatial</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/5D6B6454-017A-43C1-9F15-6DFE36C3558F">
+        <oc:name>Kenan Tepe</oc:name>
+        <oc:id>5D6B6454-017A-43C1-9F15-6DFE36C3558F</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/85B36DE2-96FC-40AF-B3FB-D35CCDE2189E">
+        <oc:name>Area F</oc:name>
+        <oc:id>85B36DE2-96FC-40AF-B3FB-D35CCDE2189E</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Area</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/609A5CFE-FA00-4C37-7784-58823E53114B">
+        <oc:name>Locus 11000</oc:name>
+        <oc:id>609A5CFE-FA00-4C37-7784-58823E53114B</oc:id>
+        <oc:item_class>
+          <oc:name>Locus</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A40C4E12-8CEF-4353-2858-BD09EF46114E">
+        <oc:name>Locus 11001</oc:name>
+        <oc:id>A40C4E12-8CEF-4353-2858-BD09EF46114E</oc:id>
+        <oc:item_class>
+          <oc:name>Locus</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/FC63A65A-2202-4322-4CC7-26A33A8C921E">
+        <oc:name>Locus 11002</oc:name>
+        <oc:id>FC63A65A-2202-4322-4CC7-26A33A8C921E</oc:id>
+        <oc:item_class>
+          <oc:name>Locus</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Kenan Tepe: Area F / Trench 11 (Trench)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2012-02-28</dc:date>
+    <dc:subject>Ubaid Period</dc:subject>
+    <dc:subject>Late Chalcolithic Period</dc:subject>
+    <dc:subject>Anatolia</dc:subject>
+    <dc:subject>Northern Mesopotamia</dc:subject>
+    <dc:subject>Middle Bronze Age</dc:subject>
+    <dc:subject>Early Iron Age</dc:subject>
+    <dc:subject>Tigris River</dc:subject>
+    <dc:subject>Archaeology</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/21_DT_Person">Bradley Parker</dc:creator>
+    <dc:creator href="http://opencontext.org/persons/3BDBEC0E-8D0F-484F-DBD9-985F3D0915F6">Peter Cobb</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/FD20557B-36DF-4921-137C-AE0F42E5029D</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/3DE4CD9C-259E-4C14-9B03-8B10454BA66E">Kenan Tepe</oc:project_name>
+    <oc:pub_date>2012-02-28T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Kenan+Tepe%3A+Area+F+%2F+Trench+11+%28Trench%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Ubaid+Period&amp;rft.subject=Late+Chalcolithic+Period&amp;rft.subject=Anatolia&amp;rft.subject=Northern+Mesopotamia&amp;rft.subject=Middle+Bronze+Age&amp;rft.subject=Early+Iron+Age&amp;rft.subject=Tigris+River&amp;rft.subject=Archaeology&amp;rft.creator=Bradley+Parker&amp;rft.creator=Peter+Cobb&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FFD20557B-36DF-4921-137C-AE0F42E5029D</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>37.831763</oc:geo_lat>
+      <oc:geo_long>40.814915</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/FD20557B-36DF-4921-137C-AE0F42E5029D">
+        <oc:source_name>Trench 11</oc:source_name>
+        <oc:source_id>FD20557B-36DF-4921-137C-AE0F42E5029D</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2012-03-18T21:29:21-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2012/03/18 21:29:21</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags/>
+  </oc:social_usage>
+</arch:spatialUnit>
