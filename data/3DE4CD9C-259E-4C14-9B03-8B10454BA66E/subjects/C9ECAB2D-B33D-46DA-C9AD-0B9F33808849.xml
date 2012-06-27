@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="C9ECAB2D-B33D-46DA-C9AD-0B9F33808849" ownedBy="3DE4CD9C-259E-4C14-9B03-8B10454BA66E">
+  <arch:name>
+    <arch:string>MicroArch  1</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Sample</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_1_456098914</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>531F9C62-BC3E-4515-79CA-D1C4F4AF9BC1</arch:variableID>
+          <arch:valueID>DC45D122-7C36-48DE-43E4-28BA15582DAB</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/0CCEB1E0-7945-4FE4-13B1-D911CE6C2F59">0CCEB1E0-7945-4FE4-13B1-D911CE6C2F59</oc:propid>
+          <oc:var_label type="nominal">Context</oc:var_label>
+          <oc:show_val>Floatation</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>686C84F0-0E5C-437B-119B-43375D6DDA47</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/liter" name="liter" abrv="L">8</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/2BD1DEBE-0A85-40CB-6054-F3558F8176B9">2BD1DEBE-0A85-40CB-6054-F3558F8176B9</oc:propid>
+          <oc:var_label type="decimal">Sample volume (liters)</oc:var_label>
+          <oc:show_val>8</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C49C817A-BD99-4015-77E3-6A77468CF5E3</arch:variableID>
+          <arch:decimal href="http://en.wikipedia.org/wiki/Count_per_Liter" name="number density (count / liter)" abrv="count / li">2.25</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/A4B034D0-2B0F-40EF-B0D1-1A98B40C2507">A4B034D0-2B0F-40EF-B0D1-1A98B40C2507</oc:propid>
+          <oc:var_label type="decimal">Ceramic Count Density</oc:var_label>
+          <oc:show_val>2.25</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>81970609-AFE8-4610-2001-F85C47D1DBBF</arch:variableID>
+          <arch:decimal href="http://sw.opencyc.org/2008/06/10/concept/Mx4rHs7hMuxiQdaeRI29oZztbw" name="density (grams per liter)" abrv="grams per ">0.23925</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/77489740-2E67-4BC9-C783-F517028819F3">77489740-2E67-4BC9-C783-F517028819F3</oc:propid>
+          <oc:var_label type="decimal">Ceramic Weight Density</oc:var_label>
+          <oc:show_val>0.23925</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>4D16C0BF-A7CD-4052-32C8-ABFA53125939</arch:variableID>
+          <arch:decimal href="http://en.wikipedia.org/wiki/Count_per_Liter" name="number density (count / liter)" abrv="count / li">0.25</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/AB39485F-9906-4175-F217-6F5A050204A5">AB39485F-9906-4175-F217-6F5A050204A5</oc:propid>
+          <oc:var_label type="decimal">Fine Fabric Count Density</oc:var_label>
+          <oc:show_val>0.25</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>155E05EC-3F9D-477B-D075-9092E581A8FA</arch:variableID>
+          <arch:decimal href="http://sw.opencyc.org/2008/06/10/concept/Mx4rHs7hMuxiQdaeRI29oZztbw" name="density (grams per liter)" abrv="grams per ">0.007</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/C5F63493-5909-44DA-9E83-E22A17D37C56">C5F63493-5909-44DA-9E83-E22A17D37C56</oc:propid>
+          <oc:var_label type="decimal">Fine Fabric Weight Density</oc:var_label>
+          <oc:show_val>0.007</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B7829B7A-1873-4A34-F15D-5770F1441C8D</arch:variableID>
+          <arch:decimal href="http://en.wikipedia.org/wiki/Count_per_Liter" name="number density (count / liter)" abrv="count / li">1.125</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/D1E2E6E6-27D3-4144-7591-3987F8981272">D1E2E6E6-27D3-4144-7591-3987F8981272</oc:propid>
+          <oc:var_label type="decimal">Medium Fabric Count Density</oc:var_label>
+          <oc:show_val>1.125</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>22C589D2-E487-45CC-3EB8-F325D75ED688</arch:variableID>
+          <arch:decimal href="http://sw.opencyc.org/2008/06/10/concept/Mx4rHs7hMuxiQdaeRI29oZztbw" name="density (grams per liter)" abrv="grams per ">0.02475</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/05E8BA0F-FF45-4F7E-E44D-70F9E4A93460">05E8BA0F-FF45-4F7E-E44D-70F9E4A93460</oc:propid>
+          <oc:var_label type="decimal">Medium Fabric Weight Density</oc:var_label>
+          <oc:show_val>0.02475</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>4F0BC68B-06B7-421E-FB97-EE80999F11FD</arch:variableID>
+          <arch:decimal href="http://en.wikipedia.org/wiki/Count_per_Liter" name="number density (count / liter)" abrv="count / li">0.25</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/7C6C5940-18A1-403F-BBBA-DAD2F609ED38">7C6C5940-18A1-403F-BBBA-DAD2F609ED38</oc:propid>
+          <oc:var_label type="decimal">Coarse Fabric Count Density</oc:var_label>
+          <oc:show_val>0.25</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>EBA5A41E-991C-44F0-BA8A-27A99393D0B5</arch:variableID>
+          <arch:decimal href="http://sw.opencyc.org/2008/06/10/concept/Mx4rHs7hMuxiQdaeRI29oZztbw" name="density (grams per liter)" abrv="grams per ">0.05875</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/3B3C7BED-4821-4CEB-E9F8-B5824DDBBF25">3B3C7BED-4821-4CEB-E9F8-B5824DDBBF25</oc:propid>
+          <oc:var_label type="decimal">Coarse Fabric Weight Density</oc:var_label>
+          <oc:show_val>0.05875</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9AF57B91-CC76-46DA-5CD8-B98DC63C8AAB</arch:variableID>
+          <arch:decimal href="http://en.wikipedia.org/wiki/Count_per_Liter" name="number density (count / liter)" abrv="count / li">46.5</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/B5CC4E32-2D67-4997-7582-8949ECD81C4B">B5CC4E32-2D67-4997-7582-8949ECD81C4B</oc:propid>
+          <oc:var_label type="decimal">Chert Count Density</oc:var_label>
+          <oc:show_val>46.5</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F679E832-165D-4D8B-5FDA-64A96F60F557</arch:variableID>
+          <arch:decimal href="http://sw.opencyc.org/2008/06/10/concept/Mx4rHs7hMuxiQdaeRI29oZztbw" name="density (grams per liter)" abrv="grams per ">1.01375</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/A6B71120-E124-4426-6399-96969EEA1B11">A6B71120-E124-4426-6399-96969EEA1B11</oc:propid>
+          <oc:var_label type="decimal">Chert Weight Density</oc:var_label>
+          <oc:show_val>1.01375</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>BBF96B94-5680-4D60-FE4E-CD14339DF346</arch:variableID>
+          <arch:decimal href="http://en.wikipedia.org/wiki/Count_per_Liter" name="number density (count / liter)" abrv="count / li">6</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/19E0D0CC-E133-465B-4EFC-38CD3E1014CD">19E0D0CC-E133-465B-4EFC-38CD3E1014CD</oc:propid>
+          <oc:var_label type="decimal">Light Gray Chert Count Density</oc:var_label>
+          <oc:show_val>6</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>1A257B19-041C-4D33-794B-5B1674A9567F</arch:variableID>
+          <arch:decimal href="http://sw.opencyc.org/2008/06/10/concept/Mx4rHs7hMuxiQdaeRI29oZztbw" name="density (grams per liter)" abrv="grams per ">0.17075</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/25AE1857-94A4-4358-3E36-22E7660BEFA4">25AE1857-94A4-4358-3E36-22E7660BEFA4</oc:propid>
+          <oc:var_label type="decimal">Light Gray Chert Weight Density</oc:var_label>
+          <oc:show_val>0.17075</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>665C3663-6CCF-46E5-0948-21D1C19D1677</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/number_density" name="number density (count / liter)" abrv="count per ">15.75</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/A482125E-1F80-4C92-4428-1C74C7600B8B">A482125E-1F80-4C92-4428-1C74C7600B8B</oc:propid>
+          <oc:var_label type="decimal">Dark Gray Chert Count Density</oc:var_label>
+          <oc:show_val>15.75</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B6674523-9D56-4B80-4CC3-3A3E2C6AFE06</arch:variableID>
+          <arch:decimal href="http://sw.opencyc.org/2008/06/10/concept/Mx4rHs7hMuxiQdaeRI29oZztbw" name="density (grams per liter)" abrv="grams per ">0.4475</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/BC26ABDD-068C-41B2-024B-DD58B2E85A94">BC26ABDD-068C-41B2-024B-DD58B2E85A94</oc:propid>
+          <oc:var_label type="decimal">Dark Gray Chert Weight Density</oc:var_label>
+          <oc:show_val>0.4475</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>554C4A2F-9D09-4BEB-1414-73E3AFD297E6</arch:variableID>
+          <arch:decimal href="http://en.wikipedia.org/wiki/Count_per_Liter" name="number density (count / liter)" abrv="count / li">7</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/157573DE-B372-47D9-9348-E432B94A562C">157573DE-B372-47D9-9348-E432B94A562C</oc:propid>
+          <oc:var_label type="decimal">Dark Brown Chert Count Density</oc:var_label>
+          <oc:show_val>7</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>FBD7631D-E930-46D6-9917-A4E4ABBFB748</arch:variableID>
+          <arch:decimal href="http://sw.opencyc.org/2008/06/10/concept/Mx4rHs7hMuxiQdaeRI29oZztbw" name="density (grams per liter)" abrv="grams per ">0.14975</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/37623CE2-DD03-45DB-9F2D-0CCD5405531F">37623CE2-DD03-45DB-9F2D-0CCD5405531F</oc:propid>
+          <oc:var_label type="decimal">Dark Brown Chert Weight Density</oc:var_label>
+          <oc:show_val>0.14975</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>201B734A-3F74-4F17-26FB-3F5BAE645AA9</arch:variableID>
+          <arch:decimal href="http://en.wikipedia.org/wiki/Count_per_Liter" name="number density (count / liter)" abrv="count / li">17.75</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/CE186E20-DBCF-4737-94D7-EF4F56C5B310">CE186E20-DBCF-4737-94D7-EF4F56C5B310</oc:propid>
+          <oc:var_label type="decimal">Reddish-brown Chert Count Density</oc:var_label>
+          <oc:show_val>17.75</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B895B702-6C4A-46F3-419D-9ED82DA2E083</arch:variableID>
+          <arch:decimal href="http://sw.opencyc.org/2008/06/10/concept/Mx4rHs7hMuxiQdaeRI29oZztbw" name="density (grams per liter)" abrv="grams per ">0.24575</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/9AA2AF9C-A9ED-44E6-C6E4-AD674ACFFE12">9AA2AF9C-A9ED-44E6-C6E4-AD674ACFFE12</oc:propid>
+          <oc:var_label type="decimal">Reddish-brown Chert Weight Density</oc:var_label>
+          <oc:show_val>0.24575</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>84B3FBCF-29E6-455F-AB73-950FAC2CF409</arch:variableID>
+          <arch:decimal href="http://en.wikipedia.org/wiki/Count_per_Liter" name="number density (count / liter)" abrv="count / li">0.375</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/11A0036B-C7CA-4300-3A78-F2925DD01A6D">11A0036B-C7CA-4300-3A78-F2925DD01A6D</oc:propid>
+          <oc:var_label type="decimal">Obsidian Count Density</oc:var_label>
+          <oc:show_val>0.375</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>4501D182-7C38-4A59-135A-38C7CA6CE113</arch:variableID>
+          <arch:decimal href="http://sw.opencyc.org/2008/06/10/concept/Mx4rHs7hMuxiQdaeRI29oZztbw" name="density (grams per liter)" abrv="grams per ">0.0045</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/272F92A7-F0FE-40E7-F5C5-6BE398CEEE39">272F92A7-F0FE-40E7-F5C5-6BE398CEEE39</oc:propid>
+          <oc:var_label type="decimal">Obsidian Weight Density</oc:var_label>
+          <oc:show_val>0.0045</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D5A885B1-7247-4405-ED57-FF79676D1CD5</arch:variableID>
+          <arch:decimal>0.375</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/49095E38-0E13-4E2E-87AD-15D91E76AF67">49095E38-0E13-4E2E-87AD-15D91E76AF67</oc:propid>
+          <oc:var_label type="decimal">Black Obsidian Count Density</oc:var_label>
+          <oc:show_val>0.375</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7EB73578-C412-4D3D-0E0C-8B5018E6D265</arch:variableID>
+          <arch:decimal href="http://sw.opencyc.org/2008/06/10/concept/Mx4rHs7hMuxiQdaeRI29oZztbw" name="density (grams per liter)" abrv="grams per ">0.0045</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/9EB215A4-ACB2-4FDF-6233-3FF440DC5F34">9EB215A4-ACB2-4FDF-6233-3FF440DC5F34</oc:propid>
+          <oc:var_label type="decimal">Black Obsidian Weight Density</oc:var_label>
+          <oc:show_val>0.0045</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>53125AD0-AECF-4FE2-FC52-16133591C6ED</arch:variableID>
+          <arch:decimal href="http://en.wikipedia.org/wiki/Count_per_Liter" name="number density (count / liter)" abrv="count / li">0</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/27DF1710-26F4-49A8-6455-E768A090ADFE">27DF1710-26F4-49A8-6455-E768A090ADFE</oc:propid>
+          <oc:var_label type="decimal">Green Obsidian Count Density</oc:var_label>
+          <oc:show_val>0</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>1ED30030-852A-472A-270D-A744F167FA9E</arch:variableID>
+          <arch:decimal href="http://sw.opencyc.org/2008/06/10/concept/Mx4rHs7hMuxiQdaeRI29oZztbw" name="density (grams per liter)" abrv="grams per ">0</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/513A6518-7032-4F85-E83A-81B391C3FA9A">513A6518-7032-4F85-E83A-81B391C3FA9A</oc:propid>
+          <oc:var_label type="decimal">Green Obsidian Weight Density</oc:var_label>
+          <oc:show_val>0</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>E19948ED-BD18-4AE6-81DF-82CBADF91856</arch:variableID>
+          <arch:decimal href="http://en.wikipedia.org/wiki/Count_per_Liter" name="number density (count / liter)" abrv="count / li">46.875</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/CC6ECBAE-0E4E-46AB-B113-11708FC5CE18">CC6ECBAE-0E4E-46AB-B113-11708FC5CE18</oc:propid>
+          <oc:var_label type="decimal">Total Lithic Count Density</oc:var_label>
+          <oc:show_val>46.875</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>68590B35-2869-461C-3C10-8A0026526703</arch:variableID>
+          <arch:decimal href="http://sw.opencyc.org/2008/06/10/concept/Mx4rHs7hMuxiQdaeRI29oZztbw" name="density (grams per liter)" abrv="grams per ">1.01825</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/ACE1210B-37D8-4506-27E8-5500576AC5C7">ACE1210B-37D8-4506-27E8-5500576AC5C7</oc:propid>
+          <oc:var_label type="decimal">Total Lithic Weight Density</oc:var_label>
+          <oc:show_val>1.01825</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>90BD98FF-B8E7-4D25-DBB1-BD5BBCBD67DE</arch:variableID>
+          <arch:decimal href="http://en.wikipedia.org/wiki/Count_per_Liter" name="number density (count / liter)" abrv="count / li">23.5</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/B4CD7A18-FAB9-4C5D-A241-E57B76436634">B4CD7A18-FAB9-4C5D-A241-E57B76436634</oc:propid>
+          <oc:var_label type="decimal">Bone Count Density</oc:var_label>
+          <oc:show_val>23.5</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D2A05738-C0FA-42FF-7B3F-8CEA3916F6F6</arch:variableID>
+          <arch:decimal href="http://sw.opencyc.org/2008/06/10/concept/Mx4rHs7hMuxiQdaeRI29oZztbw" name="density (grams per liter)" abrv="grams per ">0.33125</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/02177A54-A68F-4914-CBF3-39FAE0CA0AD0">02177A54-A68F-4914-CBF3-39FAE0CA0AD0</oc:propid>
+          <oc:var_label type="decimal">Bone Weight Density</oc:var_label>
+          <oc:show_val>0.33125</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>02320DF1-ABFA-46B6-C5E6-A6FBA7C2E4CD</arch:variableID>
+          <arch:decimal href="http://en.wikipedia.org/wiki/Count_per_Liter" name="number density (count / liter)" abrv="count / li">3.625</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/C20C9853-350F-4ED5-B9BD-E0302B29275A">C20C9853-350F-4ED5-B9BD-E0302B29275A</oc:propid>
+          <oc:var_label type="decimal">Burnt Bone Count Density</oc:var_label>
+          <oc:show_val>3.625</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9633A540-20BE-42FF-222D-CDDD1C76D4E9</arch:variableID>
+          <arch:decimal href="http://sw.opencyc.org/2008/06/10/concept/Mx4rHs7hMuxiQdaeRI29oZztbw" name="density (grams per liter)" abrv="grams per ">0.113</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/2D2D207C-EBC3-40DC-B17A-D67E35C0C30C">2D2D207C-EBC3-40DC-B17A-D67E35C0C30C</oc:propid>
+          <oc:var_label type="decimal">Burnt Bone Weight Density</oc:var_label>
+          <oc:show_val>0.113</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>25624F49-BF95-4E80-D8A0-DC040285DC01</arch:variableID>
+          <arch:decimal href="http://en.wikipedia.org/wiki/Count_per_Liter" name="number density (count / liter)" abrv="count / li">0</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/82F399C8-5A20-445D-91C8-0593000A64F1">82F399C8-5A20-445D-91C8-0593000A64F1</oc:propid>
+          <oc:var_label type="decimal">Unburnt Bone Count Density</oc:var_label>
+          <oc:show_val>0</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>22CAB0D9-ED80-430A-703E-A68C9D9A6517</arch:variableID>
+          <arch:decimal href="http://sw.opencyc.org/2008/06/10/concept/Mx4rHs7hMuxiQdaeRI29oZztbw" name="density (grams per liter)" abrv="grams per ">0</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/4A4794B6-075B-4A91-506C-D82059B8474D">4A4794B6-075B-4A91-506C-D82059B8474D</oc:propid>
+          <oc:var_label type="decimal">Unburnt Bone Weight Density (per liter)</oc:var_label>
+          <oc:show_val>0</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7FEC4A46-30F7-4A7F-CEBD-C1EE38275CC7</arch:variableID>
+          <arch:decimal href="http://en.wikipedia.org/wiki/Count_per_Liter" name="number density (count / liter)" abrv="count / li">1.25</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/164E42A9-45AA-48AD-D395-FB4BC859201B">164E42A9-45AA-48AD-D395-FB4BC859201B</oc:propid>
+          <oc:var_label type="decimal">Shell Count Density</oc:var_label>
+          <oc:show_val>1.25</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>5162D22E-B3AC-4373-31D0-632F8B5894EE</arch:variableID>
+          <arch:decimal href="http://sw.opencyc.org/2008/06/10/concept/Mx4rHs7hMuxiQdaeRI29oZztbw" name="density (grams per liter)" abrv="grams per ">0.00275</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/EE406F38-6B30-4C94-6BF8-EBF6E45D3161">EE406F38-6B30-4C94-6BF8-EBF6E45D3161</oc:propid>
+          <oc:var_label type="decimal">Shell Weight Density</oc:var_label>
+          <oc:show_val>0.00275</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>6C53B12F-A097-407A-25FE-E09905CB9C53</arch:variableID>
+          <arch:decimal href="http://en.wikipedia.org/wiki/Count_per_Liter" name="number density (count / liter)" abrv="count / li">0</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/F7348611-B06D-4A4F-B143-5CAE4232BE8A">F7348611-B06D-4A4F-B143-5CAE4232BE8A</oc:propid>
+          <oc:var_label type="decimal">Seed Count Density</oc:var_label>
+          <oc:show_val>0</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>3D38A7E9-5DB7-4CA9-E43D-341634D4B25D</arch:variableID>
+          <arch:decimal href="http://sw.opencyc.org/2008/06/10/concept/Mx4rHs7hMuxiQdaeRI29oZztbw" name="density (grams per liter)" abrv="grams per ">0</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/ECAA0509-93AC-41AE-338A-B92AB342E094">ECAA0509-93AC-41AE-338A-B92AB342E094</oc:propid>
+          <oc:var_label type="decimal">Seed weight density</oc:var_label>
+          <oc:show_val>0</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B5D1E097-060B-446A-F8BF-ADA7CDB1CB53</arch:variableID>
+          <arch:valueID>D25DB33D-6D98-4427-A51B-79B91433C149</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/E67EA757-D276-4C05-1B62-35141797B317">E67EA757-D276-4C05-1B62-35141797B317</oc:propid>
+          <oc:var_label type="nominal">Sample Type</oc:var_label>
+          <oc:show_val>Micro archaeology sample</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="resource" info="link">DDD2CFE6-0F7C-46FD-EDB3-9CFF2C3C1356</arch:docID>
+        <arch:docID type="person" info="Principle Author / Analyst">4499C94B-8EB5-4E30-07CC-DD3A98561FB6</arch:docID>
+        <arch:docID type="person" info="analyst">24397670-1776-4769-47BA-B192CF043B88</arch:docID>
+        <arch:docID type="person" info="analyst">4499C94B-8EB5-4E30-07CC-DD3A98561FB6</arch:docID>
+        <arch:docID type="person" info="analyzed by">982BC76C-2D84-469F-CAE8-9E521103BEBF</arch:docID>
+        <arch:docID type="person" info="analyzed by">A248C239-4CF0-48B8-A683-ECCC0AE2D664</arch:docID>
+        <oc:media_links>
+          <oc:link href="http://opencontext.org/media/DDD2CFE6-0F7C-46FD-EDB3-9CFF2C3C1356">
+            <oc:name>A_8_21_4_1_P_1.JPG</oc:name>
+            <oc:id>DDD2CFE6-0F7C-46FD-EDB3-9CFF2C3C1356</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/kenantepe/thumbs/Findsphotos2/AreaA/A8/A_8_21_4_1_P_1.JPG</oc:thumbnailURI>
+          </oc:link>
+        </oc:media_links>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/4499C94B-8EB5-4E30-07CC-DD3A98561FB6" cite="contributor">
+            <oc:name>Bradley J. Parker</oc:name>
+            <oc:id>4499C94B-8EB5-4E30-07CC-DD3A98561FB6</oc:id>
+            <oc:relation>Principle Author / Analyst</oc:relation>
+          </oc:link>
+          <oc:link href="http://opencontext.org/persons/24397670-1776-4769-47BA-B192CF043B88" cite="contributor">
+            <oc:name>Jennifer Henecke</oc:name>
+            <oc:id>24397670-1776-4769-47BA-B192CF043B88</oc:id>
+            <oc:relation>analyst</oc:relation>
+          </oc:link>
+          <oc:link href="http://opencontext.org/persons/4499C94B-8EB5-4E30-07CC-DD3A98561FB6" cite="contributor">
+            <oc:name>Bradley J. Parker</oc:name>
+            <oc:id>4499C94B-8EB5-4E30-07CC-DD3A98561FB6</oc:id>
+            <oc:relation>analyst</oc:relation>
+          </oc:link>
+          <oc:link href="http://opencontext.org/persons/982BC76C-2D84-469F-CAE8-9E521103BEBF">
+            <oc:name>JP</oc:name>
+            <oc:id>982BC76C-2D84-469F-CAE8-9E521103BEBF</oc:id>
+            <oc:relation>analyzed by</oc:relation>
+          </oc:link>
+          <oc:link href="http://opencontext.org/persons/A248C239-4CF0-48B8-A683-ECCC0AE2D664">
+            <oc:name>My Ra</oc:name>
+            <oc:id>A248C239-4CF0-48B8-A683-ECCC0AE2D664</oc:id>
+            <oc:relation>analyzed by</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string>Microarchaeology is the collection and analysis of minute pieces of stone, bone, ceramics and other artifacts that are embedded within the sediment matrix of archaeological loci. At Kenan Tepe, microartifacts are classified as any cultural object less than 1 centimeter, but greater than 1 millimeter, in size. Our assumption is that, due to their small size, microartifacts are less affected by the natural and cultural formation processes of the archaeological record that determine the presence, patterning, and preservation of other traditional artifacts. The microarchaeological sampling procedure at Kenan Tepe is known as the Household Archaeology Protocol (or “HAP"). Using this methodology, sediment samples were judgmentally collected from a variety of contexts in a 50 by 50 cm square that is sectioned off then excavated down to the base of the feature (to the depth of the floor not including the subfloor, for example). The sediment obtained from these HAP samples was not screened, but collected in toto. Microartifacts were recovered from the HAP samples through a flotation process using a standard Siraf-type flotation machine. While the majority of features where microdebris samples were taken using the HAP procedure are surfaces, flotation samples were also collected from ovens, hearths, pits and middens. Though not collected using the HAP protocol, the heavy fractions from these samples were processed and analyzed the same way as HAP samples.</arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+        <oc:name>Turkey</oc:name>
+        <oc:id>1_Global_Spatial</oc:id>
+        <oc:level>6</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/5D6B6454-017A-43C1-9F15-6DFE36C3558F">
+        <oc:name>Kenan Tepe</oc:name>
+        <oc:id>5D6B6454-017A-43C1-9F15-6DFE36C3558F</oc:id>
+        <oc:level>5</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/F40478A6-1844-4650-2080-905040836D59">
+        <oc:name>Area A</oc:name>
+        <oc:id>F40478A6-1844-4650-2080-905040836D59</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Area</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/2C51B8CE-4BC7-40BA-57C7-889B19D476AC">
+        <oc:name>Trench 8</oc:name>
+        <oc:id>2C51B8CE-4BC7-40BA-57C7-889B19D476AC</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/E53C01A5-EF7B-4CA1-3FD0-E8BA9F446524">
+        <oc:name>Locus 21</oc:name>
+        <oc:id>E53C01A5-EF7B-4CA1-3FD0-E8BA9F446524</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Locus</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/C55CF03D-E244-4DE3-9A6A-A98CBA54BDA7">
+        <oc:name>Finds Bag 4</oc:name>
+        <oc:id>C55CF03D-E244-4DE3-9A6A-A98CBA54BDA7</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Kenan Tepe: Area A / Trench 8 / Locus 21 / Finds Bag 4 / MicroArch  1 (Sample)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2012-03-28</dc:date>
+    <dc:subject>Ubaid Period</dc:subject>
+    <dc:subject>Late Chalcolithic Period</dc:subject>
+    <dc:subject>Anatolia</dc:subject>
+    <dc:subject>Northern Mesopotamia</dc:subject>
+    <dc:subject>Middle Bronze Age</dc:subject>
+    <dc:subject>Early Iron Age</dc:subject>
+    <dc:subject>Tigris River</dc:subject>
+    <dc:subject>Archaeology</dc:subject>
+    <dc:contributor href="http://opencontext.org/persons/4499C94B-8EB5-4E30-07CC-DD3A98561FB6">Bradley J. Parker</dc:contributor>
+    <dc:contributor href="http://opencontext.org/persons/24397670-1776-4769-47BA-B192CF043B88">Jennifer Henecke</dc:contributor>
+    <dc:creator href="http://opencontext.org/persons/21_DT_Person">Bradley Parker</dc:creator>
+    <dc:creator href="http://opencontext.org/persons/3BDBEC0E-8D0F-484F-DBD9-985F3D0915F6">Peter Cobb</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/C9ECAB2D-B33D-46DA-C9AD-0B9F33808849</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/3DE4CD9C-259E-4C14-9B03-8B10454BA66E">Kenan Tepe</oc:project_name>
+    <oc:pub_date>2012-03-28T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Kenan+Tepe%3A+Area+A+%2F+Trench+8+%2F+Locus+21+%2F+Finds+Bag+4+%2F+MicroArch++1+%28Sample%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Ubaid+Period&amp;rft.subject=Late+Chalcolithic+Period&amp;rft.subject=Anatolia&amp;rft.subject=Northern+Mesopotamia&amp;rft.subject=Middle+Bronze+Age&amp;rft.subject=Early+Iron+Age&amp;rft.subject=Tigris+River&amp;rft.subject=Archaeology&amp;rft.contributor=Bradley+J.+Parker&amp;rft.contributor=Jennifer+Henecke&amp;rft.creator=Bradley+Parker&amp;rft.creator=Peter+Cobb&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FC9ECAB2D-B33D-46DA-C9AD-0B9F33808849</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>37.830826</oc:geo_lat>
+      <oc:geo_long>40.813347</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/2C51B8CE-4BC7-40BA-57C7-889B19D476AC">
+        <oc:source_name>Trench 8</oc:source_name>
+        <oc:source_id>2C51B8CE-4BC7-40BA-57C7-889B19D476AC</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2012-06-26T09:20:25-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2012/06/26 09:20:25</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags/>
+  </oc:social_usage>
+</arch:spatialUnit>
