@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="E9B39C92-2796-44E3-7281-C60823F9832C" ownedBy="295B5BF4-0F44-4698-80CD-7A39CB6F133D">
+  <arch:name>
+    <arch:string>Gurcam Kale</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Area</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_3_e493807dc</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>2EE3E670-E526-4B9E-D14A-6D780ED8FB2D</arch:variableID>
+          <arch:valueID>61146ED8-8B5D-455C-9D36-F664C4F45292</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/44DCD2B4-CAF3-44C6-217B-F8F3DCB8A13E">44DCD2B4-CAF3-44C6-217B-F8F3DCB8A13E</oc:propid>
+          <oc:var_label type="alphanumeric">Likely Gazetteer Reference</oc:var_label>
+          <oc:show_val>Bilhos</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="2EE3E670-E526-4B9E-D14A-6D780ED8FB2D" href="http://purl.org/dc/terms/references">
+              <oc:vocabulary href="http://concordia.atlantides.org/">Concordia</oc:vocabulary>
+              <oc:label>References</oc:label>
+              <oc:targetLink localType="property" localID="44DCD2B4-CAF3-44C6-217B-F8F3DCB8A13E" localURI="http://opencontext.org/properties/44DCD2B4-CAF3-44C6-217B-F8F3DCB8A13E" href="http://www.geonames.org/321105">
+                <oc:vocabulary href="http://www.geonames.org/">GeoNames</oc:vocabulary>
+                <oc:label>Bilhos</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Director">11C2C2EE-6994-433C-D4C3-0AF5153AB801</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/11C2C2EE-6994-433C-D4C3-0AF5153AB801" cite="creator">
+            <oc:name>Nicholas K. Rauh</oc:name>
+            <oc:id>11C2C2EE-6994-433C-D4C3-0AF5153AB801</oc:id>
+            <oc:relation>Director</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string>&lt;div&gt;&#13;
+&lt;p&gt;This denotes an area around a specific ancient or modern place. Each survey area may contain different ancient settlements and archaeological features.&lt;/p&gt;&#13;
+&lt;p&gt;This is a preliminary draft release of archaeological survey results from research conducted in Cilicia. Additional documentation is forthcoming.&#13;
+&lt;/p&gt;&#13;
+&lt;/div&gt;</arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+        <oc:name>Turkey</oc:name>
+        <oc:id>1_Global_Spatial</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/1B7C1650-07B8-4B8F-2EE6-10615A2C3092">
+        <oc:name>Tomb: Gurcam Kale-1</oc:name>
+        <oc:id>1B7C1650-07B8-4B8F-2EE6-10615A2C3092</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A4E8468D-8B15-4827-299B-DFAD445389C9">
+        <oc:name>Tomb: Gurcam Kale-2</oc:name>
+        <oc:id>A4E8468D-8B15-4827-299B-DFAD445389C9</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Rough Cilicia: Turkey / Gurcam Kale (Area)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2012-04-28</dc:date>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Romanization</dc:subject>
+    <dc:subject>Cilicia</dc:subject>
+    <dc:subject>Anatolia</dc:subject>
+    <dc:subject>Asia Minor</dc:subject>
+    <dc:subject>Archaeological Survey</dc:subject>
+    <dc:subject>Acculturation</dc:subject>
+    <dc:subject>Pastoralism</dc:subject>
+    <dc:subject>Mortuary Archaeology</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/11C2C2EE-6994-433C-D4C3-0AF5153AB801">Nicholas K. Rauh</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/E9B39C92-2796-44E3-7281-C60823F9832C</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/295B5BF4-0F44-4698-80CD-7A39CB6F133D">Rough Cilicia</oc:project_name>
+    <oc:pub_date>2012-04-28T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Rough+Cilicia%3A+Turkey+%2F+Gurcam+Kale+%28Area%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Roman&amp;rft.subject=Romanization&amp;rft.subject=Cilicia&amp;rft.subject=Anatolia&amp;rft.subject=Asia+Minor&amp;rft.subject=Archaeological+Survey&amp;rft.subject=Acculturation&amp;rft.subject=Pastoralism&amp;rft.subject=Mortuary+Archaeology&amp;rft.creator=Nicholas+K.+Rauh&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FE9B39C92-2796-44E3-7281-C60823F9832C</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>36.210526435</oc:geo_lat>
+      <oc:geo_long>32.48970844</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/E9B39C92-2796-44E3-7281-C60823F9832C">
+        <oc:source_name>Gurcam Kale</oc:source_name>
+        <oc:source_id>E9B39C92-2796-44E3-7281-C60823F9832C</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2012-04-28T16:35:47-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2012/04/28 16:35:47</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags/>
+  </oc:social_usage>
+</arch:spatialUnit>

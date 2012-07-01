@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="EFEA6977-B1A1-4899-9D0F-BE0F7782113B" ownedBy="295B5BF4-0F44-4698-80CD-7A39CB6F133D">
+  <arch:name>
+    <arch:string>Iotape</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Area</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_3_e493807dc</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>2EE3E670-E526-4B9E-D14A-6D780ED8FB2D</arch:variableID>
+          <arch:valueID>E8F2B03B-E6F9-466F-145C-5B6CCC08D1D8</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/456CA1E8-DE3B-4BD1-D4CB-A2238B8AF37B">456CA1E8-DE3B-4BD1-D4CB-A2238B8AF37B</oc:propid>
+          <oc:var_label type="alphanumeric">Likely Gazetteer Reference</oc:var_label>
+          <oc:show_val>Iotape</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="2EE3E670-E526-4B9E-D14A-6D780ED8FB2D" href="http://purl.org/dc/terms/references">
+              <oc:vocabulary href="http://concordia.atlantides.org/">Concordia</oc:vocabulary>
+              <oc:label>References</oc:label>
+              <oc:targetLink localType="property" localID="456CA1E8-DE3B-4BD1-D4CB-A2238B8AF37B" localURI="http://opencontext.org/properties/456CA1E8-DE3B-4BD1-D4CB-A2238B8AF37B" href="http://pleiades.stoa.org/places/648650">
+                <oc:vocabulary href="http://pleiades.stoa.org/">Pleiades</oc:vocabulary>
+                <oc:label>Iotape</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Director">11C2C2EE-6994-433C-D4C3-0AF5153AB801</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/11C2C2EE-6994-433C-D4C3-0AF5153AB801" cite="creator">
+            <oc:name>Nicholas K. Rauh</oc:name>
+            <oc:id>11C2C2EE-6994-433C-D4C3-0AF5153AB801</oc:id>
+            <oc:relation>Director</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string>&lt;div&gt;&#13;
+&lt;p&gt;This denotes an area around a specific ancient or modern place. Each survey area may contain different ancient settlements and archaeological features.&lt;/p&gt;&#13;
+&lt;p&gt;This is a preliminary draft release of archaeological survey results from research conducted in Cilicia. Additional documentation is forthcoming.&#13;
+&lt;/p&gt;&#13;
+&lt;/div&gt;</arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+        <oc:name>Turkey</oc:name>
+        <oc:id>1_Global_Spatial</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/2C534617-E376-4376-0A78-4A39802DD105">
+        <oc:name>Tomb: Iotape-1</oc:name>
+        <oc:id>2C534617-E376-4376-0A78-4A39802DD105</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E67BDF72-AECB-49B4-C1AB-7C1ABE1A6BC6">
+        <oc:name>Tomb: Iotape-2</oc:name>
+        <oc:id>E67BDF72-AECB-49B4-C1AB-7C1ABE1A6BC6</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/CFC2A602-A9AD-4F7B-6972-0B24C466FB85">
+        <oc:name>Tomb: Iotape-3</oc:name>
+        <oc:id>CFC2A602-A9AD-4F7B-6972-0B24C466FB85</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2AF84F4F-F5BE-422F-A4E6-0E48712031A5">
+        <oc:name>Tomb: Iotape-4</oc:name>
+        <oc:id>2AF84F4F-F5BE-422F-A4E6-0E48712031A5</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/41342A28-18CD-4752-90DD-654FD45E1AD9">
+        <oc:name>Tomb: Iotape-5</oc:name>
+        <oc:id>41342A28-18CD-4752-90DD-654FD45E1AD9</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A7A2315E-C37F-485F-86FC-2B53A0C09738">
+        <oc:name>Tomb: Iotape-6</oc:name>
+        <oc:id>A7A2315E-C37F-485F-86FC-2B53A0C09738</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/14288F8F-FFA8-4801-608F-E2EB2E0B3BFF">
+        <oc:name>Tomb: Iotape-7</oc:name>
+        <oc:id>14288F8F-FFA8-4801-608F-E2EB2E0B3BFF</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/415EB573-FBF6-49AE-C15E-5564B2511D4C">
+        <oc:name>Tomb: Iotape-8</oc:name>
+        <oc:id>415EB573-FBF6-49AE-C15E-5564B2511D4C</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/21B95963-22E0-49D5-CDD5-0739A3ADB61E">
+        <oc:name>Tomb: Iotape-9</oc:name>
+        <oc:id>21B95963-22E0-49D5-CDD5-0739A3ADB61E</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/92C7E8F5-8699-4812-6FCD-73A1DBD139D2">
+        <oc:name>Tomb: Iotape-10</oc:name>
+        <oc:id>92C7E8F5-8699-4812-6FCD-73A1DBD139D2</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/7A13E4BB-1123-40BC-2FBA-5B14D8967A41">
+        <oc:name>Tomb: Iotape-11</oc:name>
+        <oc:id>7A13E4BB-1123-40BC-2FBA-5B14D8967A41</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2E89E289-5CE5-4D18-7D3B-9ED879026656">
+        <oc:name>Tomb: Iotape-12</oc:name>
+        <oc:id>2E89E289-5CE5-4D18-7D3B-9ED879026656</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4C1A202E-0FD0-4F9A-3A8D-6EF9A8AD6C7E">
+        <oc:name>Tomb: Iotape-13</oc:name>
+        <oc:id>4C1A202E-0FD0-4F9A-3A8D-6EF9A8AD6C7E</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/88AE2AD3-10B7-4DC0-95D5-452BA844EA52">
+        <oc:name>Tomb: Iotape-14</oc:name>
+        <oc:id>88AE2AD3-10B7-4DC0-95D5-452BA844EA52</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6E09E87C-497D-4205-60A9-7EA584BAFF81">
+        <oc:name>Tomb: Iotape-15</oc:name>
+        <oc:id>6E09E87C-497D-4205-60A9-7EA584BAFF81</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/DD58C2F7-E06E-485F-A11E-CA91658B4C77">
+        <oc:name>Tomb: Iotape-16</oc:name>
+        <oc:id>DD58C2F7-E06E-485F-A11E-CA91658B4C77</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/0AF124C0-28E2-4C88-57A0-1D03EBD3FC83">
+        <oc:name>Tomb: Iotape-17</oc:name>
+        <oc:id>0AF124C0-28E2-4C88-57A0-1D03EBD3FC83</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/CBE15E7D-AFDC-43FB-369D-A12434FB9DC2">
+        <oc:name>Tomb: Iotape-18</oc:name>
+        <oc:id>CBE15E7D-AFDC-43FB-369D-A12434FB9DC2</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/86B1C7BC-676D-4031-6B5D-25B00C499323">
+        <oc:name>Tomb: Iotape-19</oc:name>
+        <oc:id>86B1C7BC-676D-4031-6B5D-25B00C499323</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/072A5818-139E-43E7-3394-9AC04F74F047">
+        <oc:name>Tomb: Iotape-20</oc:name>
+        <oc:id>072A5818-139E-43E7-3394-9AC04F74F047</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/39D50DF4-BCA2-4376-CC87-E2D1168B6528">
+        <oc:name>Tomb: Iotape-21</oc:name>
+        <oc:id>39D50DF4-BCA2-4376-CC87-E2D1168B6528</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C754C7F9-23F0-4535-E865-DEEB5993A6B5">
+        <oc:name>Tomb: Iotape-22</oc:name>
+        <oc:id>C754C7F9-23F0-4535-E865-DEEB5993A6B5</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E169F997-D65A-4EB4-E61E-25FB874053F5">
+        <oc:name>Tomb: Iotape-23</oc:name>
+        <oc:id>E169F997-D65A-4EB4-E61E-25FB874053F5</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/839E754E-0568-4890-C95A-8C0B09E2B7B0">
+        <oc:name>Tomb: Iotape-24</oc:name>
+        <oc:id>839E754E-0568-4890-C95A-8C0B09E2B7B0</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C3B314F5-4D43-4997-C9B3-520B8C0A34F6">
+        <oc:name>Tomb: Iotape-25</oc:name>
+        <oc:id>C3B314F5-4D43-4997-C9B3-520B8C0A34F6</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/75A83804-E8BC-465F-79FD-BB235786BF07">
+        <oc:name>Tomb: Iotape-26</oc:name>
+        <oc:id>75A83804-E8BC-465F-79FD-BB235786BF07</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4A619B81-DECA-4FEE-781B-4CED7A0AB028">
+        <oc:name>Tomb: Iotape-27</oc:name>
+        <oc:id>4A619B81-DECA-4FEE-781B-4CED7A0AB028</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F16796F2-A495-4480-9584-175442113521">
+        <oc:name>Tomb: Iotape-28</oc:name>
+        <oc:id>F16796F2-A495-4480-9584-175442113521</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4BC22C83-185C-4199-5658-F901CA7DBD80">
+        <oc:name>Tomb: Iotape-29</oc:name>
+        <oc:id>4BC22C83-185C-4199-5658-F901CA7DBD80</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/91103CE2-EB8E-4DB3-3127-43A9EDCC3838">
+        <oc:name>Tomb: Iotape-30</oc:name>
+        <oc:id>91103CE2-EB8E-4DB3-3127-43A9EDCC3838</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/26A3987C-0A36-43D3-64E0-3A72991E4A3E">
+        <oc:name>Tomb: Iotape-31</oc:name>
+        <oc:id>26A3987C-0A36-43D3-64E0-3A72991E4A3E</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/47DACB69-9594-442E-8F91-789049BA2DE5">
+        <oc:name>Tomb: Iotape-32</oc:name>
+        <oc:id>47DACB69-9594-442E-8F91-789049BA2DE5</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B29EA957-83B7-4FF8-8188-01E3E9FB17C4">
+        <oc:name>Tomb: Iotape-33</oc:name>
+        <oc:id>B29EA957-83B7-4FF8-8188-01E3E9FB17C4</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6F886104-11B9-49EC-742F-33BEEA0CBFF5">
+        <oc:name>Tomb: Iotape-34</oc:name>
+        <oc:id>6F886104-11B9-49EC-742F-33BEEA0CBFF5</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/7F676B4E-E6B2-4758-4A7F-DF26CBEC05AC">
+        <oc:name>Tomb: Iotape-35</oc:name>
+        <oc:id>7F676B4E-E6B2-4758-4A7F-DF26CBEC05AC</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E43718B4-A29C-48F4-3AF8-5325E312B09E">
+        <oc:name>Tomb: Iotape-36</oc:name>
+        <oc:id>E43718B4-A29C-48F4-3AF8-5325E312B09E</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/CC89B95C-3A69-43CC-3F95-56A1561E9659">
+        <oc:name>Tomb: Iotape-37</oc:name>
+        <oc:id>CC89B95C-3A69-43CC-3F95-56A1561E9659</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B6AD40D2-DA58-4134-40B3-05226AA6952C">
+        <oc:name>Tomb: Iotape-38</oc:name>
+        <oc:id>B6AD40D2-DA58-4134-40B3-05226AA6952C</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Rough Cilicia: Turkey / Iotape (Area)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2012-04-28</dc:date>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Romanization</dc:subject>
+    <dc:subject>Cilicia</dc:subject>
+    <dc:subject>Anatolia</dc:subject>
+    <dc:subject>Asia Minor</dc:subject>
+    <dc:subject>Archaeological Survey</dc:subject>
+    <dc:subject>Acculturation</dc:subject>
+    <dc:subject>Pastoralism</dc:subject>
+    <dc:subject>Mortuary Archaeology</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/11C2C2EE-6994-433C-D4C3-0AF5153AB801">Nicholas K. Rauh</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/EFEA6977-B1A1-4899-9D0F-BE0F7782113B</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/295B5BF4-0F44-4698-80CD-7A39CB6F133D">Rough Cilicia</oc:project_name>
+    <oc:pub_date>2012-04-28T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Rough+Cilicia%3A+Turkey+%2F+Iotape+%28Area%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Roman&amp;rft.subject=Romanization&amp;rft.subject=Cilicia&amp;rft.subject=Anatolia&amp;rft.subject=Asia+Minor&amp;rft.subject=Archaeological+Survey&amp;rft.subject=Acculturation&amp;rft.subject=Pastoralism&amp;rft.subject=Mortuary+Archaeology&amp;rft.creator=Nicholas+K.+Rauh&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FEFEA6977-B1A1-4899-9D0F-BE0F7782113B</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>36.3212090886842</oc:geo_lat>
+      <oc:geo_long>32.2386878565789</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/EFEA6977-B1A1-4899-9D0F-BE0F7782113B">
+        <oc:source_name>Iotape</oc:source_name>
+        <oc:source_id>EFEA6977-B1A1-4899-9D0F-BE0F7782113B</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2012-04-28T16:38:16-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2012/04/28 16:38:16</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags/>
+  </oc:social_usage>
+</arch:spatialUnit>

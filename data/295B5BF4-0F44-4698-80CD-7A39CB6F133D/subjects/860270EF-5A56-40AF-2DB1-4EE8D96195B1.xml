@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="860270EF-5A56-40AF-2DB1-4EE8D96195B1" ownedBy="295B5BF4-0F44-4698-80CD-7A39CB6F133D">
+  <arch:name>
+    <arch:string>Selinus</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Area</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_3_e493807dc</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>2EE3E670-E526-4B9E-D14A-6D780ED8FB2D</arch:variableID>
+          <arch:valueID>B8B9A968-31DC-4C25-BD81-01FEDCDAEAA2</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/9CC947DD-94AB-41E3-A8A1-898F5E861375">9CC947DD-94AB-41E3-A8A1-898F5E861375</oc:propid>
+          <oc:var_label type="alphanumeric">Likely Gazetteer Reference</oc:var_label>
+          <oc:show_val>Selinous/Traianopolis</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="2EE3E670-E526-4B9E-D14A-6D780ED8FB2D" href="http://purl.org/dc/terms/references">
+              <oc:vocabulary href="http://concordia.atlantides.org/">Concordia</oc:vocabulary>
+              <oc:label>References</oc:label>
+              <oc:targetLink localType="property" localID="9CC947DD-94AB-41E3-A8A1-898F5E861375" localURI="http://opencontext.org/properties/9CC947DD-94AB-41E3-A8A1-898F5E861375" href="http://pleiades.stoa.org/places/648772">
+                <oc:vocabulary href="http://pleiades.stoa.org/">Pleiades</oc:vocabulary>
+                <oc:label>Selinous/Traianopolis</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Director">11C2C2EE-6994-433C-D4C3-0AF5153AB801</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/11C2C2EE-6994-433C-D4C3-0AF5153AB801" cite="creator">
+            <oc:name>Nicholas K. Rauh</oc:name>
+            <oc:id>11C2C2EE-6994-433C-D4C3-0AF5153AB801</oc:id>
+            <oc:relation>Director</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string>&lt;div&gt;&#13;
+&lt;p&gt;This denotes an area around a specific ancient or modern place. Each survey area may contain different ancient settlements and archaeological features.&lt;/p&gt;&#13;
+&lt;p&gt;This is a preliminary draft release of archaeological survey results from research conducted in Cilicia. Additional documentation is forthcoming.&#13;
+&lt;/p&gt;&#13;
+&lt;/div&gt;</arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+        <oc:name>Turkey</oc:name>
+        <oc:id>1_Global_Spatial</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/CC7A95D7-661D-4BBD-DA8A-0B7406E11328">
+        <oc:name>Tomb: Selinus-1</oc:name>
+        <oc:id>CC7A95D7-661D-4BBD-DA8A-0B7406E11328</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4E73107F-19B9-4189-80B3-9A294EDD7670">
+        <oc:name>Tomb: Selinus-2</oc:name>
+        <oc:id>4E73107F-19B9-4189-80B3-9A294EDD7670</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3F25D3E0-DBD3-4110-09DF-7DCFE30E16AF">
+        <oc:name>Tomb: Selinus-3</oc:name>
+        <oc:id>3F25D3E0-DBD3-4110-09DF-7DCFE30E16AF</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D6B1A744-3DCB-43C5-B35D-411EAA7B0994">
+        <oc:name>Tomb: Selinus-4</oc:name>
+        <oc:id>D6B1A744-3DCB-43C5-B35D-411EAA7B0994</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1FD7C417-F369-4434-C9BE-2D544BEFA280">
+        <oc:name>Tomb: Selinus-5</oc:name>
+        <oc:id>1FD7C417-F369-4434-C9BE-2D544BEFA280</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C71691AE-82E6-4AE1-9817-663645551629">
+        <oc:name>Tomb: Selinus-6</oc:name>
+        <oc:id>C71691AE-82E6-4AE1-9817-663645551629</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C2280D01-D42D-4BB3-48C8-EC0443CD5B6A">
+        <oc:name>Tomb: Selinus-7</oc:name>
+        <oc:id>C2280D01-D42D-4BB3-48C8-EC0443CD5B6A</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/044D9840-218E-42D2-7FD0-24B52C9957CB">
+        <oc:name>Tomb: Selinus-8</oc:name>
+        <oc:id>044D9840-218E-42D2-7FD0-24B52C9957CB</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/49CBD60E-DC1F-4A60-2EA2-D233332F3C50">
+        <oc:name>Tomb: Selinus-9</oc:name>
+        <oc:id>49CBD60E-DC1F-4A60-2EA2-D233332F3C50</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/0EBC6560-976E-4C67-3CE4-0AB2E0A0B8FB">
+        <oc:name>Tomb: Selinus-10</oc:name>
+        <oc:id>0EBC6560-976E-4C67-3CE4-0AB2E0A0B8FB</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/08B077A1-796F-490A-F840-1813471B7A15">
+        <oc:name>Tomb: Selinus-11</oc:name>
+        <oc:id>08B077A1-796F-490A-F840-1813471B7A15</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/47587E8A-ADCE-4AF0-3AC2-665C5EDBA752">
+        <oc:name>Tomb: Selinus-12</oc:name>
+        <oc:id>47587E8A-ADCE-4AF0-3AC2-665C5EDBA752</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4C696BE2-B655-4E5B-7093-DAB7F41C8556">
+        <oc:name>Tomb: Selinus-13</oc:name>
+        <oc:id>4C696BE2-B655-4E5B-7093-DAB7F41C8556</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/8EF06447-343C-4D4A-8889-32E0FC45BBC3">
+        <oc:name>Tomb: Selinus-14</oc:name>
+        <oc:id>8EF06447-343C-4D4A-8889-32E0FC45BBC3</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/54983E1B-74F5-409E-2460-A6088EA829F3">
+        <oc:name>Tomb: Selinus-15</oc:name>
+        <oc:id>54983E1B-74F5-409E-2460-A6088EA829F3</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/45367439-B97A-4AD9-5581-902B1B7E5FC7">
+        <oc:name>Tomb: Selinus-16</oc:name>
+        <oc:id>45367439-B97A-4AD9-5581-902B1B7E5FC7</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/EC65DF53-923E-40CA-5116-B0009010FBE4">
+        <oc:name>Tomb: Selinus-17</oc:name>
+        <oc:id>EC65DF53-923E-40CA-5116-B0009010FBE4</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D43D5B8E-20C8-4067-BD5B-7A94204AA7E7">
+        <oc:name>Tomb: Selinus-18</oc:name>
+        <oc:id>D43D5B8E-20C8-4067-BD5B-7A94204AA7E7</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D3B8E378-4DC0-4416-2574-4B0C612B461D">
+        <oc:name>Tomb: Selinus-19</oc:name>
+        <oc:id>D3B8E378-4DC0-4416-2574-4B0C612B461D</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/EEA27D67-216F-4807-93C8-EAF7DAD53F39">
+        <oc:name>Tomb: Selinus-20</oc:name>
+        <oc:id>EEA27D67-216F-4807-93C8-EAF7DAD53F39</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/7FE49B3D-4BF9-428A-9787-7DB426C38155">
+        <oc:name>Tomb: Selinus-21</oc:name>
+        <oc:id>7FE49B3D-4BF9-428A-9787-7DB426C38155</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F6ACA18B-42FC-4E82-98F1-9F71A22749BA">
+        <oc:name>Tomb: Selinus-22</oc:name>
+        <oc:id>F6ACA18B-42FC-4E82-98F1-9F71A22749BA</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5E98548D-D8C6-4992-9FDB-D9B5F9CA6F7B">
+        <oc:name>Tomb: Selinus-23</oc:name>
+        <oc:id>5E98548D-D8C6-4992-9FDB-D9B5F9CA6F7B</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5413A4B2-881C-4AB6-0D2E-7A3644B0808F">
+        <oc:name>Tomb: Selinus-24</oc:name>
+        <oc:id>5413A4B2-881C-4AB6-0D2E-7A3644B0808F</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B9D85D5A-02C6-49B9-944B-ABC9F77DC4D1">
+        <oc:name>Tomb: Selinus-25</oc:name>
+        <oc:id>B9D85D5A-02C6-49B9-944B-ABC9F77DC4D1</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C783082B-E716-48F4-EAFB-33A853B0A194">
+        <oc:name>Tomb: Selinus-26</oc:name>
+        <oc:id>C783082B-E716-48F4-EAFB-33A853B0A194</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F7413BFB-C3D3-4EE2-11E6-31CCCE1507F1">
+        <oc:name>Tomb: Selinus-27</oc:name>
+        <oc:id>F7413BFB-C3D3-4EE2-11E6-31CCCE1507F1</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/0CC46D41-A953-4B92-8A82-D5FC14E59014">
+        <oc:name>Tomb: Selinus-28</oc:name>
+        <oc:id>0CC46D41-A953-4B92-8A82-D5FC14E59014</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D68AC288-8FC0-4DE4-2A36-BF42CEFA1765">
+        <oc:name>Tomb: Selinus-29</oc:name>
+        <oc:id>D68AC288-8FC0-4DE4-2A36-BF42CEFA1765</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/60785520-EC0A-49F4-20B5-0A831B088641">
+        <oc:name>Tomb: Selinus-30</oc:name>
+        <oc:id>60785520-EC0A-49F4-20B5-0A831B088641</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/42652394-78AF-46A2-6D7D-1F78CCCFA71B">
+        <oc:name>Tomb: Selinus-31</oc:name>
+        <oc:id>42652394-78AF-46A2-6D7D-1F78CCCFA71B</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E1516CC3-78D7-42D4-E518-FE0522591AEF">
+        <oc:name>Tomb: Selinus-32</oc:name>
+        <oc:id>E1516CC3-78D7-42D4-E518-FE0522591AEF</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6640884C-8D69-44D0-1A41-884C454854CB">
+        <oc:name>Tomb: Selinus-33</oc:name>
+        <oc:id>6640884C-8D69-44D0-1A41-884C454854CB</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6A78D88F-0BBF-41B6-8BAF-3CB277CF923B">
+        <oc:name>Tomb: Selinus-34</oc:name>
+        <oc:id>6A78D88F-0BBF-41B6-8BAF-3CB277CF923B</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/69952FEF-36E9-42A8-10B5-E78716C8B31A">
+        <oc:name>Tomb: selinus-35</oc:name>
+        <oc:id>69952FEF-36E9-42A8-10B5-E78716C8B31A</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Rough Cilicia: Turkey / Selinus (Area)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2012-04-28</dc:date>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Romanization</dc:subject>
+    <dc:subject>Cilicia</dc:subject>
+    <dc:subject>Anatolia</dc:subject>
+    <dc:subject>Asia Minor</dc:subject>
+    <dc:subject>Archaeological Survey</dc:subject>
+    <dc:subject>Acculturation</dc:subject>
+    <dc:subject>Pastoralism</dc:subject>
+    <dc:subject>Mortuary Archaeology</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/11C2C2EE-6994-433C-D4C3-0AF5153AB801">Nicholas K. Rauh</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/860270EF-5A56-40AF-2DB1-4EE8D96195B1</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/295B5BF4-0F44-4698-80CD-7A39CB6F133D">Rough Cilicia</oc:project_name>
+    <oc:pub_date>2012-04-28T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Rough+Cilicia%3A+Turkey+%2F+Selinus+%28Area%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Roman&amp;rft.subject=Romanization&amp;rft.subject=Cilicia&amp;rft.subject=Anatolia&amp;rft.subject=Asia+Minor&amp;rft.subject=Archaeological+Survey&amp;rft.subject=Acculturation&amp;rft.subject=Pastoralism&amp;rft.subject=Mortuary+Archaeology&amp;rft.creator=Nicholas+K.+Rauh&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F860270EF-5A56-40AF-2DB1-4EE8D96195B1</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>36.2598927657143</oc:geo_lat>
+      <oc:geo_long>32.2851519982857</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/860270EF-5A56-40AF-2DB1-4EE8D96195B1">
+        <oc:source_name>Selinus</oc:source_name>
+        <oc:source_id>860270EF-5A56-40AF-2DB1-4EE8D96195B1</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2012-04-28T16:51:29-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2012/04/28 16:51:29</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags/>
+  </oc:social_usage>
+</arch:spatialUnit>

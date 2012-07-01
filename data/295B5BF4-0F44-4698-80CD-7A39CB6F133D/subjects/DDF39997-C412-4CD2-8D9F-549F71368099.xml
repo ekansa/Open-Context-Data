@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="DDF39997-C412-4CD2-8D9F-549F71368099" ownedBy="295B5BF4-0F44-4698-80CD-7A39CB6F133D">
+  <arch:name>
+    <arch:string>Nephelion</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Area</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_3_e493807dc</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>2EE3E670-E526-4B9E-D14A-6D780ED8FB2D</arch:variableID>
+          <arch:valueID>E29C3D03-6F53-41AD-49F2-24980EF673F2</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/97A5C074-9013-4549-CE87-A8855375FF65">97A5C074-9013-4549-CE87-A8855375FF65</oc:propid>
+          <oc:var_label type="alphanumeric">Likely Gazetteer Reference</oc:var_label>
+          <oc:show_val>Nephelis?</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="2EE3E670-E526-4B9E-D14A-6D780ED8FB2D" href="http://purl.org/dc/terms/references">
+              <oc:vocabulary href="http://concordia.atlantides.org/">Concordia</oc:vocabulary>
+              <oc:label>References</oc:label>
+              <oc:targetLink localType="property" localID="97A5C074-9013-4549-CE87-A8855375FF65" localURI="http://opencontext.org/properties/97A5C074-9013-4549-CE87-A8855375FF65" href="http://pleiades.stoa.org/places/648720">
+                <oc:vocabulary href="http://pleiades.stoa.org/">Pleiades</oc:vocabulary>
+                <oc:label>Nephelis?</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Director">11C2C2EE-6994-433C-D4C3-0AF5153AB801</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/11C2C2EE-6994-433C-D4C3-0AF5153AB801" cite="creator">
+            <oc:name>Nicholas K. Rauh</oc:name>
+            <oc:id>11C2C2EE-6994-433C-D4C3-0AF5153AB801</oc:id>
+            <oc:relation>Director</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string>&lt;div&gt;&#13;
+&lt;p&gt;This denotes an area around a specific ancient or modern place. Each survey area may contain different ancient settlements and archaeological features.&lt;/p&gt;&#13;
+&lt;p&gt;This is a preliminary draft release of archaeological survey results from research conducted in Cilicia. Additional documentation is forthcoming.&#13;
+&lt;/p&gt;&#13;
+&lt;/div&gt;</arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+        <oc:name>Turkey</oc:name>
+        <oc:id>1_Global_Spatial</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/93D22F4C-BB67-419E-790B-CC489E20694C">
+        <oc:name>Tomb: Nephelion-1</oc:name>
+        <oc:id>93D22F4C-BB67-419E-790B-CC489E20694C</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/35B37885-66C2-4B5A-AAA9-65343577C159">
+        <oc:name>Tomb: Nephelion-2</oc:name>
+        <oc:id>35B37885-66C2-4B5A-AAA9-65343577C159</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A3A781C0-CEC4-419C-FAB0-5EFD356066DE">
+        <oc:name>Tomb: Nephelion-3</oc:name>
+        <oc:id>A3A781C0-CEC4-419C-FAB0-5EFD356066DE</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/93412968-5AF9-4B84-9CF3-230F69C5F66E">
+        <oc:name>Tomb: Nephelion-4</oc:name>
+        <oc:id>93412968-5AF9-4B84-9CF3-230F69C5F66E</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/DBAAE9AD-84EB-498B-B8B3-D588A7156C6D">
+        <oc:name>Tomb: Nephelion-5</oc:name>
+        <oc:id>DBAAE9AD-84EB-498B-B8B3-D588A7156C6D</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/207DDA8F-1330-48C3-11B2-B9A3669B55BB">
+        <oc:name>Tomb: Nephelion-6</oc:name>
+        <oc:id>207DDA8F-1330-48C3-11B2-B9A3669B55BB</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/64D696D7-0BF2-4B8C-AFBD-1EF22BCB12DB">
+        <oc:name>Tomb: Nephelion-7</oc:name>
+        <oc:id>64D696D7-0BF2-4B8C-AFBD-1EF22BCB12DB</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B9E53C0E-512A-4FAC-E7ED-F6EF10B0EDCD">
+        <oc:name>Tomb: Nephelion-8</oc:name>
+        <oc:id>B9E53C0E-512A-4FAC-E7ED-F6EF10B0EDCD</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/146F2D00-AC52-4A3D-EBDF-6168FC87B853">
+        <oc:name>Tomb: Nephelion-9</oc:name>
+        <oc:id>146F2D00-AC52-4A3D-EBDF-6168FC87B853</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/38C82210-4E19-4C75-DA75-75D57C53AE69">
+        <oc:name>Tomb: Nephelion-10</oc:name>
+        <oc:id>38C82210-4E19-4C75-DA75-75D57C53AE69</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6FCEA17F-FC05-489A-ACCC-B3F3A766C6E4">
+        <oc:name>Tomb: Nephelion-11</oc:name>
+        <oc:id>6FCEA17F-FC05-489A-ACCC-B3F3A766C6E4</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/132D6F85-7907-4686-B156-B338ACC49BBB">
+        <oc:name>Tomb: Nephelion-12</oc:name>
+        <oc:id>132D6F85-7907-4686-B156-B338ACC49BBB</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/DF8BBEB9-ACB9-41C9-0E5A-592776BDC6DC">
+        <oc:name>Tomb: Nephelion-13</oc:name>
+        <oc:id>DF8BBEB9-ACB9-41C9-0E5A-592776BDC6DC</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/88019195-01D7-4A42-0067-C2CBA7DEB434">
+        <oc:name>Tomb: Nephelion-14</oc:name>
+        <oc:id>88019195-01D7-4A42-0067-C2CBA7DEB434</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E488F3FB-969D-4DAC-A768-1AC686AD775D">
+        <oc:name>Tomb: Nephelion-15</oc:name>
+        <oc:id>E488F3FB-969D-4DAC-A768-1AC686AD775D</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/63DE1996-0DA7-4D15-0676-BAC2FF8A2348">
+        <oc:name>Tomb: Nephelion-16</oc:name>
+        <oc:id>63DE1996-0DA7-4D15-0676-BAC2FF8A2348</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A6BEB6A2-098B-4008-4041-3011D221D3CD">
+        <oc:name>Tomb: Nephelion-17</oc:name>
+        <oc:id>A6BEB6A2-098B-4008-4041-3011D221D3CD</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/113ED69C-CB3F-4CA5-98E9-710E372A427B">
+        <oc:name>Tomb: Nephelion-18</oc:name>
+        <oc:id>113ED69C-CB3F-4CA5-98E9-710E372A427B</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Rough Cilicia: Turkey / Nephelion (Area)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2012-04-28</dc:date>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Romanization</dc:subject>
+    <dc:subject>Cilicia</dc:subject>
+    <dc:subject>Anatolia</dc:subject>
+    <dc:subject>Asia Minor</dc:subject>
+    <dc:subject>Archaeological Survey</dc:subject>
+    <dc:subject>Acculturation</dc:subject>
+    <dc:subject>Pastoralism</dc:subject>
+    <dc:subject>Mortuary Archaeology</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/11C2C2EE-6994-433C-D4C3-0AF5153AB801">Nicholas K. Rauh</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/DDF39997-C412-4CD2-8D9F-549F71368099</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/295B5BF4-0F44-4698-80CD-7A39CB6F133D">Rough Cilicia</oc:project_name>
+    <oc:pub_date>2012-04-28T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Rough+Cilicia%3A+Turkey+%2F+Nephelion+%28Area%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Roman&amp;rft.subject=Romanization&amp;rft.subject=Cilicia&amp;rft.subject=Anatolia&amp;rft.subject=Asia+Minor&amp;rft.subject=Archaeological+Survey&amp;rft.subject=Acculturation&amp;rft.subject=Pastoralism&amp;rft.subject=Mortuary+Archaeology&amp;rft.creator=Nicholas+K.+Rauh&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FDDF39997-C412-4CD2-8D9F-549F71368099</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>36.1768230827778</oc:geo_lat>
+      <oc:geo_long>32.382113515</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/DDF39997-C412-4CD2-8D9F-549F71368099">
+        <oc:source_name>Nephelion</oc:source_name>
+        <oc:source_id>DDF39997-C412-4CD2-8D9F-549F71368099</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2012-04-28T16:49:19-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2012/04/28 16:49:19</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags/>
+  </oc:social_usage>
+</arch:spatialUnit>

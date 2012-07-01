@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="9A067E37-E45F-45F8-B3C8-5495FD0556A7" ownedBy="295B5BF4-0F44-4698-80CD-7A39CB6F133D">
+  <arch:name>
+    <arch:string>Hisar</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Area</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_3_e493807dc</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>2EE3E670-E526-4B9E-D14A-6D780ED8FB2D</arch:variableID>
+          <arch:valueID>5E18CE9A-CB7B-48D4-828A-F13081295FDB</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/7C1F9719-D23C-42A1-2A40-DCAE5B5CB28F">7C1F9719-D23C-42A1-2A40-DCAE5B5CB28F</oc:propid>
+          <oc:var_label type="alphanumeric">Likely Gazetteer Reference</oc:var_label>
+          <oc:show_val>Otkinler</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="2EE3E670-E526-4B9E-D14A-6D780ED8FB2D" href="http://purl.org/dc/terms/references">
+              <oc:vocabulary href="http://concordia.atlantides.org/">Concordia</oc:vocabulary>
+              <oc:label>References</oc:label>
+              <oc:targetLink localType="property" localID="7C1F9719-D23C-42A1-2A40-DCAE5B5CB28F" localURI="http://opencontext.org/properties/7C1F9719-D23C-42A1-2A40-DCAE5B5CB28F" href="http://www.geonames.org/315732">
+                <oc:vocabulary href="http://www.geonames.org/">GeoNames</oc:vocabulary>
+                <oc:label>Otkinler</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Director">11C2C2EE-6994-433C-D4C3-0AF5153AB801</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/11C2C2EE-6994-433C-D4C3-0AF5153AB801" cite="creator">
+            <oc:name>Nicholas K. Rauh</oc:name>
+            <oc:id>11C2C2EE-6994-433C-D4C3-0AF5153AB801</oc:id>
+            <oc:relation>Director</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string>&lt;div&gt;&#13;
+&lt;p&gt;This denotes an area around a specific ancient or modern place. Each survey area may contain different ancient settlements and archaeological features.&lt;/p&gt;&#13;
+&lt;p&gt;This is a preliminary draft release of archaeological survey results from research conducted in Cilicia. Additional documentation is forthcoming.&#13;
+&lt;/p&gt;&#13;
+&lt;/div&gt;</arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+        <oc:name>Turkey</oc:name>
+        <oc:id>1_Global_Spatial</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/177D4594-EE31-476D-CEED-4F29C3DFA4BA">
+        <oc:name>Tomb: Hisar-1</oc:name>
+        <oc:id>177D4594-EE31-476D-CEED-4F29C3DFA4BA</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A6985668-F0EE-49B4-C7F8-12B62703A44D">
+        <oc:name>Tomb: Hisar-2</oc:name>
+        <oc:id>A6985668-F0EE-49B4-C7F8-12B62703A44D</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/53E47AD7-A6AC-4830-867E-C715C4E1BAC7">
+        <oc:name>Tomb: Hisar-3</oc:name>
+        <oc:id>53E47AD7-A6AC-4830-867E-C715C4E1BAC7</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A75268B3-91A4-4FD7-2856-7EDC939B1E7A">
+        <oc:name>Tomb: Hisar-4</oc:name>
+        <oc:id>A75268B3-91A4-4FD7-2856-7EDC939B1E7A</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/916E3838-0C6F-4358-AAA4-73C0B258D57E">
+        <oc:name>Tomb: Hisar-5</oc:name>
+        <oc:id>916E3838-0C6F-4358-AAA4-73C0B258D57E</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/59A1ACCD-E534-4D2D-2B66-C04F216F67D7">
+        <oc:name>Tomb: Hisar-6</oc:name>
+        <oc:id>59A1ACCD-E534-4D2D-2B66-C04F216F67D7</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/FFA7EA00-899F-4048-F30E-738A53BE021C">
+        <oc:name>Tomb: Hisar-7</oc:name>
+        <oc:id>FFA7EA00-899F-4048-F30E-738A53BE021C</oc:id>
+        <oc:item_class>
+          <oc:name>Feature</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/feature_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Rough Cilicia: Turkey / Hisar (Area)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2012-04-28</dc:date>
+    <dc:subject>Roman</dc:subject>
+    <dc:subject>Romanization</dc:subject>
+    <dc:subject>Cilicia</dc:subject>
+    <dc:subject>Anatolia</dc:subject>
+    <dc:subject>Asia Minor</dc:subject>
+    <dc:subject>Archaeological Survey</dc:subject>
+    <dc:subject>Acculturation</dc:subject>
+    <dc:subject>Pastoralism</dc:subject>
+    <dc:subject>Mortuary Archaeology</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/11C2C2EE-6994-433C-D4C3-0AF5153AB801">Nicholas K. Rauh</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/9A067E37-E45F-45F8-B3C8-5495FD0556A7</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/295B5BF4-0F44-4698-80CD-7A39CB6F133D">Rough Cilicia</oc:project_name>
+    <oc:pub_date>2012-04-28T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Rough+Cilicia%3A+Turkey+%2F+Hisar+%28Area%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Roman&amp;rft.subject=Romanization&amp;rft.subject=Cilicia&amp;rft.subject=Anatolia&amp;rft.subject=Asia+Minor&amp;rft.subject=Archaeological+Survey&amp;rft.subject=Acculturation&amp;rft.subject=Pastoralism&amp;rft.subject=Mortuary+Archaeology&amp;rft.creator=Nicholas+K.+Rauh&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F9A067E37-E45F-45F8-B3C8-5495FD0556A7</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>36.18838106</oc:geo_lat>
+      <oc:geo_long>32.5926936442857</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/9A067E37-E45F-45F8-B3C8-5495FD0556A7">
+        <oc:source_name>Hisar</oc:source_name>
+        <oc:source_id>9A067E37-E45F-45F8-B3C8-5495FD0556A7</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2012-04-28T16:36:08-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2012/04/28 16:36:08</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags/>
+  </oc:social_usage>
+</arch:spatialUnit>
