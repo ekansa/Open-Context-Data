@@ -10,24 +10,22 @@
   <arch:observations>
     <arch:observation obsNumber="1">
       <oc:obs_metadata>
-        <oc:source>z_1_f1171314d</oc:source>
-        <oc:name>Finds Description</oc:name>
-        <oc:type/>
+        <oc:source>z_1_f1171314d_2</oc:source>
       </oc:obs_metadata>
       <arch:properties>
-        <arch:property>
-          <arch:variableID>9ED499E4-5B88-4BA4-7BE2-647A027C12D0</arch:variableID>
-          <arch:valueID>26188D38-8067-48D8-05E6-DB8B475A6565</arch:valueID>
-          <oc:propid href="http://opencontext.org/properties/662BFF18-151D-4BBA-028A-2648E03A0653">662BFF18-151D-4BBA-028A-2648E03A0653</oc:propid>
-          <oc:var_label type="calendric">Date</oc:var_label>
-          <oc:show_val>2002-07-20</oc:show_val>
-        </arch:property>
         <arch:property>
           <arch:variableID>7DD2B84F-9000-4DD7-B476-29ABD219BC43</arch:variableID>
           <arch:valueID>54163C5F-2616-490E-9A15-57DC5CA14D4F</arch:valueID>
           <oc:propid href="http://opencontext.org/properties/D018982F-BFE6-4CD8-968B-7575E0B9A3CE">D018982F-BFE6-4CD8-968B-7575E0B9A3CE</oc:propid>
           <oc:var_label type="nominal">Material</oc:var_label>
           <oc:show_val>Ceramic</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9ED499E4-5B88-4BA4-7BE2-647A027C12D0</arch:variableID>
+          <arch:valueID>26188D38-8067-48D8-05E6-DB8B475A6565</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/662BFF18-151D-4BBA-028A-2648E03A0653">662BFF18-151D-4BBA-028A-2648E03A0653</oc:propid>
+          <oc:var_label type="calendric">Date</oc:var_label>
+          <oc:show_val>2002-07-20</oc:show_val>
         </arch:property>
         <arch:property>
           <arch:variableID>67407D29-C22D-48C2-7B8B-1E7E93DA3293</arch:variableID>
@@ -43,26 +41,67 @@
           <oc:var_label type="decimal">Low elevation</oc:var_label>
           <oc:show_val>569.52</oc:show_val>
         </arch:property>
+        <arch:property>
+          <arch:variableID>8FCB621F-4414-4E1A-FF5F-5AE534959361</arch:variableID>
+          <arch:valueID>98A25D3F-0CB9-49C9-7269-A752BA22A3BC</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/AA6E5905-A26B-49FD-8074-33E6DDD62822">AA6E5905-A26B-49FD-8074-33E6DDD62822</oc:propid>
+          <oc:var_label type="calendric">Date read</oc:var_label>
+          <oc:show_val>2003-06-30</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>75DCC72C-F7B5-4335-A18E-32259BA67B6D</arch:variableID>
+          <arch:integer>1</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/879B05D0-AB12-4A9A-F967-164ED3103333">879B05D0-AB12-4A9A-F967-164ED3103333</oc:propid>
+          <oc:var_label type="integer">Diagnostics amount</oc:var_label>
+          <oc:show_val>1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>31756930-0CAA-4D86-73EA-43553030C355</arch:variableID>
+          <arch:decimal>0.005</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/053B4FAA-9369-4846-1B54-0C2D4B1900DC">053B4FAA-9369-4846-1B54-0C2D4B1900DC</oc:propid>
+          <oc:var_label type="decimal">Diagnostics weight</oc:var_label>
+          <oc:show_val>0.005</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C96161C5-F741-4BA8-D32A-DDD1897976F6</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/gram" name="gram" abrv="g">0.65</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/C9AD9E7C-9346-4C21-E9D7-621085D83315">C9AD9E7C-9346-4C21-E9D7-621085D83315</oc:propid>
+          <oc:var_label type="decimal">Total weight</oc:var_label>
+          <oc:show_val>0.65</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>555DD1D8-61EB-428A-FFFA-2F30F1DA22F3</arch:variableID>
+          <arch:valueID>56AFF845-7130-4258-6C11-C31248507F8B</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/7E42FE95-1B99-4BE8-3D4F-8C9ABAF8ADFB">7E42FE95-1B99-4BE8-3D4F-8C9ABAF8ADFB</oc:propid>
+          <oc:var_label type="alphanumeric">Remarks</oc:var_label>
+          <oc:show_val>14  Non-Diagnostics</oc:show_val>
+        </arch:property>
       </arch:properties>
       <arch:links>
-        <arch:docID type="person" info="Director">4499C94B-8EB5-4E30-07CC-DD3A98561FB6</arch:docID>
         <arch:docID type="person" info="Recorded by">18218BEF-3C7A-4BAB-4D9E-58C2670489FB</arch:docID>
+        <arch:docID type="person" info="Director">4499C94B-8EB5-4E30-07CC-DD3A98561FB6</arch:docID>
         <arch:docID type="person" info="Area supervisor">9C80BF6B-7BDE-4295-E7D9-695845A44846</arch:docID>
+        <arch:docID type="person" info="Recorded by">9C80BF6B-7BDE-4295-E7D9-695845A44846</arch:docID>
         <oc:person_links>
-          <oc:link href="http://opencontext.org/persons/4499C94B-8EB5-4E30-07CC-DD3A98561FB6" cite="creator">
-            <oc:name>Bradley J. Parker</oc:name>
-            <oc:id>4499C94B-8EB5-4E30-07CC-DD3A98561FB6</oc:id>
-            <oc:relation>Director</oc:relation>
-          </oc:link>
           <oc:link href="http://opencontext.org/persons/18218BEF-3C7A-4BAB-4D9E-58C2670489FB" cite="contributor">
             <oc:name>Marco Baldi</oc:name>
             <oc:id>18218BEF-3C7A-4BAB-4D9E-58C2670489FB</oc:id>
             <oc:relation>Recorded by</oc:relation>
           </oc:link>
+          <oc:link href="http://opencontext.org/persons/4499C94B-8EB5-4E30-07CC-DD3A98561FB6" cite="creator">
+            <oc:name>Bradley J. Parker</oc:name>
+            <oc:id>4499C94B-8EB5-4E30-07CC-DD3A98561FB6</oc:id>
+            <oc:relation>Director</oc:relation>
+          </oc:link>
           <oc:link href="http://opencontext.org/persons/9C80BF6B-7BDE-4295-E7D9-695845A44846" cite="contributor">
             <oc:name>Andrew Creekmore</oc:name>
             <oc:id>9C80BF6B-7BDE-4295-E7D9-695845A44846</oc:id>
             <oc:relation>Area supervisor</oc:relation>
+          </oc:link>
+          <oc:link href="http://opencontext.org/persons/9C80BF6B-7BDE-4295-E7D9-695845A44846" cite="contributor">
+            <oc:name>Andrew Creekmore</oc:name>
+            <oc:id>9C80BF6B-7BDE-4295-E7D9-695845A44846</oc:id>
+            <oc:relation>Recorded by</oc:relation>
           </oc:link>
         </oc:person_links>
       </arch:links>
@@ -125,7 +164,7 @@
   <oc:metadata>
     <dc:title>Kenan Tepe: Area F / Trench 13 / Locus 8 / Finds Bag 11 (Sample)</dc:title>
     <dc:publisher>Open Context</dc:publisher>
-    <dc:date>2012-02-28</dc:date>
+    <dc:date>2012-03-28</dc:date>
     <dc:subject>Ubaid Period</dc:subject>
     <dc:subject>Late Chalcolithic Period</dc:subject>
     <dc:subject>Anatolia</dc:subject>
@@ -140,7 +179,7 @@
     <dc:creator href="http://opencontext.org/persons/3BDBEC0E-8D0F-484F-DBD9-985F3D0915F6">Peter Cobb</dc:creator>
     <dc:identifier>http://opencontext.org/subjects/06225F25-86BA-4831-876E-A4DC83CEAA3B</dc:identifier>
     <oc:project_name href="http://opencontext.org/projects/3DE4CD9C-259E-4C14-9B03-8B10454BA66E">Kenan Tepe</oc:project_name>
-    <oc:pub_date>2012-02-28T00:00:00-07:00</oc:pub_date>
+    <oc:pub_date>2012-03-28T00:00:00-07:00</oc:pub_date>
     <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Kenan+Tepe%3A+Area+F+%2F+Trench+13+%2F+Locus+8+%2F+Finds+Bag+11+%28Sample%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Ubaid+Period&amp;rft.subject=Late+Chalcolithic+Period&amp;rft.subject=Anatolia&amp;rft.subject=Northern+Mesopotamia&amp;rft.subject=Middle+Bronze+Age&amp;rft.subject=Early+Iron+Age&amp;rft.subject=Tigris+River&amp;rft.subject=Archaeology&amp;rft.contributor=Marco+Baldi&amp;rft.contributor=Andrew+Creekmore&amp;rft.creator=Bradley+Parker&amp;rft.creator=Peter+Cobb&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F06225F25-86BA-4831-876E-A4DC83CEAA3B</oc:coins>
     <oc:geo_reference>
       <oc:geo_lat>37.8314565</oc:geo_lat>
@@ -158,10 +197,10 @@
     </oc:copyright_lic>
   </oc:metadata>
   <oc:social_usage>
-    <oc:last_updated>2012-03-19T08:01:51-07:00</oc:last_updated>
+    <oc:last_updated>2012-06-30T05:02:35-07:00</oc:last_updated>
     <oc:item_views>
       <oc:count>1</oc:count>
-      <oc:view_time>2012/03/19 08:01:51</oc:view_time>
+      <oc:view_time>2012/06/30 05:02:35</oc:view_time>
     </oc:item_views>
     <oc:user_tags>
       <oc:tag type="chronological" status="public">
@@ -178,7 +217,7 @@
           <oc:creator_name>Open Context Editors</oc:creator_name>
           <oc:set_label>Default set</oc:set_label>
           <oc:set_id>Default set</oc:set_id>
-          <oc:set_date>2012-03-16T13:57:51-07:00</oc:set_date>
+          <oc:set_date>2012-06-23T17:17:16-07:00</oc:set_date>
         </oc:tag_creator>
       </oc:tag>
     </oc:user_tags>

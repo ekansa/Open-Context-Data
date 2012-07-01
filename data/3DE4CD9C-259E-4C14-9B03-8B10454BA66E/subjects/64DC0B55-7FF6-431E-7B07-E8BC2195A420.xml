@@ -14,13 +14,6 @@
       </oc:obs_metadata>
       <arch:properties>
         <arch:property>
-          <arch:variableID>09E1A5FA-A6CB-4F13-D27A-197E624AEF96</arch:variableID>
-          <arch:valueID>13975FC7-F96F-4D99-4BC9-21C5D7848532</arch:valueID>
-          <oc:propid href="http://opencontext.org/properties/DCD76874-E60C-415E-948A-07ADF4BAD181">DCD76874-E60C-415E-948A-07ADF4BAD181</oc:propid>
-          <oc:var_label type="nominal">Tentative Dating</oc:var_label>
-          <oc:show_val>Early Bronze Age I</oc:show_val>
-        </arch:property>
-        <arch:property>
           <arch:variableID>7DAA1496-5ACD-42ED-D93E-EE92AD8E0B60</arch:variableID>
           <arch:decimal>2000</arch:decimal>
           <oc:propid href="http://opencontext.org/properties/B3E1C88B-36A0-4669-2543-9C78D5A06455">B3E1C88B-36A0-4669-2543-9C78D5A06455</oc:propid>
@@ -48,13 +41,21 @@
           <oc:var_label type="alphanumeric">Trench Description</oc:var_label>
           <oc:show_val>Trench F3, a 5 by 5 meter unit, was begun during the first season of excavation at Kenan Tepe in 2000.  For various reasons the trench was later renamed trench F9.</oc:show_val>
         </arch:property>
+        <arch:property>
+          <arch:variableID>09E1A5FA-A6CB-4F13-D27A-197E624AEF96</arch:variableID>
+          <arch:valueID>13975FC7-F96F-4D99-4BC9-21C5D7848532</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DCD76874-E60C-415E-948A-07ADF4BAD181">DCD76874-E60C-415E-948A-07ADF4BAD181</oc:propid>
+          <oc:var_label type="nominal">Tentative Dating</oc:var_label>
+          <oc:show_val>Early Bronze Age I</oc:show_val>
+        </arch:property>
       </arch:properties>
       <arch:links>
         <arch:docID type="resource" info="link">FFDBB690-9A68-49CC-47B6-03F85F2903B5</arch:docID>
         <arch:docID type="resource" info="link">39DCE877-2F36-4DF2-D0DE-989CEE6CF5CF</arch:docID>
         <arch:docID type="resource" info="link">956CB14B-C1EB-4BF9-9434-395EE0847EF1</arch:docID>
-        <arch:docID type="person" info="Director">4499C94B-8EB5-4E30-07CC-DD3A98561FB6</arch:docID>
+        <arch:docID type="resource" info="link">4E051A31-CBE4-43F5-6518-AD21D7D1EE1C</arch:docID>
         <arch:docID type="person" info="Area supervisor">9C80BF6B-7BDE-4295-E7D9-695845A44846</arch:docID>
+        <arch:docID type="person" info="Director">4499C94B-8EB5-4E30-07CC-DD3A98561FB6</arch:docID>
         <arch:docID type="resource" info="link">7E899231-3E56-41DC-1932-39A56DB33C57</arch:docID>
         <arch:docID type="resource" info="link">4681C0F4-F0BF-42D5-B3D0-852CEE369B2A</arch:docID>
         <arch:docID type="resource" info="link">4029B0B0-C917-443B-7B9B-4646751A44EC</arch:docID>
@@ -84,6 +85,13 @@
             <oc:thumbnailURI>http://artiraq.org/static/opencontext/kenantepe/thumbs/Dayplans/2000/F3DP08102000A.JPG</oc:thumbnailURI>
             <oc:descriptor>2000-08-10</oc:descriptor>
           </oc:link>
+          <oc:link href="http://opencontext.org/media/4E051A31-CBE4-43F5-6518-AD21D7D1EE1C">
+            <oc:name>F3 Figure 1</oc:name>
+            <oc:id>4E051A31-CBE4-43F5-6518-AD21D7D1EE1C</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/kenantepe/thumbs/overview-field-photos/Area-F-Trenches/F3/F3%20Figure%201.JPG</oc:thumbnailURI>
+          </oc:link>
         </oc:media_links>
         <oc:diary_links>
           <oc:link href="http://opencontext.org/documents/7E899231-3E56-41DC-1932-39A56DB33C57">
@@ -108,15 +116,15 @@
           </oc:link>
         </oc:diary_links>
         <oc:person_links>
-          <oc:link href="http://opencontext.org/persons/4499C94B-8EB5-4E30-07CC-DD3A98561FB6" cite="creator">
-            <oc:name>Bradley J. Parker</oc:name>
-            <oc:id>4499C94B-8EB5-4E30-07CC-DD3A98561FB6</oc:id>
-            <oc:relation>Director</oc:relation>
-          </oc:link>
           <oc:link href="http://opencontext.org/persons/9C80BF6B-7BDE-4295-E7D9-695845A44846" cite="contributor">
             <oc:name>Andrew Creekmore</oc:name>
             <oc:id>9C80BF6B-7BDE-4295-E7D9-695845A44846</oc:id>
             <oc:relation>Area supervisor</oc:relation>
+          </oc:link>
+          <oc:link href="http://opencontext.org/persons/4499C94B-8EB5-4E30-07CC-DD3A98561FB6" cite="creator">
+            <oc:name>Bradley J. Parker</oc:name>
+            <oc:id>4499C94B-8EB5-4E30-07CC-DD3A98561FB6</oc:id>
+            <oc:relation>Director</oc:relation>
           </oc:link>
         </oc:person_links>
       </arch:links>
@@ -256,7 +264,7 @@
   <oc:metadata>
     <dc:title>Kenan Tepe: Area F / Trench 3 (Trench)</dc:title>
     <dc:publisher>Open Context</dc:publisher>
-    <dc:date>2012-02-28</dc:date>
+    <dc:date>2012-03-28</dc:date>
     <dc:subject>Ubaid Period</dc:subject>
     <dc:subject>Late Chalcolithic Period</dc:subject>
     <dc:subject>Anatolia</dc:subject>
@@ -270,7 +278,7 @@
     <dc:creator href="http://opencontext.org/persons/3BDBEC0E-8D0F-484F-DBD9-985F3D0915F6">Peter Cobb</dc:creator>
     <dc:identifier>http://opencontext.org/subjects/64DC0B55-7FF6-431E-7B07-E8BC2195A420</dc:identifier>
     <oc:project_name href="http://opencontext.org/projects/3DE4CD9C-259E-4C14-9B03-8B10454BA66E">Kenan Tepe</oc:project_name>
-    <oc:pub_date>2012-02-28T00:00:00-07:00</oc:pub_date>
+    <oc:pub_date>2012-03-28T00:00:00-07:00</oc:pub_date>
     <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Kenan+Tepe%3A+Area+F+%2F+Trench+3+%28Trench%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Ubaid+Period&amp;rft.subject=Late+Chalcolithic+Period&amp;rft.subject=Anatolia&amp;rft.subject=Northern+Mesopotamia&amp;rft.subject=Middle+Bronze+Age&amp;rft.subject=Early+Iron+Age&amp;rft.subject=Tigris+River&amp;rft.subject=Archaeology&amp;rft.contributor=Andrew+Creekmore&amp;rft.creator=Bradley+Parker&amp;rft.creator=Peter+Cobb&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F64DC0B55-7FF6-431E-7B07-E8BC2195A420</oc:coins>
     <oc:geo_reference>
       <oc:geo_lat>37.831475</oc:geo_lat>
@@ -288,10 +296,10 @@
     </oc:copyright_lic>
   </oc:metadata>
   <oc:social_usage>
-    <oc:last_updated>2012-03-18T22:29:22-07:00</oc:last_updated>
+    <oc:last_updated>2012-06-30T04:58:45-07:00</oc:last_updated>
     <oc:item_views>
       <oc:count>1</oc:count>
-      <oc:view_time>2012/03/18 22:29:22</oc:view_time>
+      <oc:view_time>2012/06/30 04:58:45</oc:view_time>
     </oc:item_views>
     <oc:user_tags>
       <oc:tag type="chronological" status="public">

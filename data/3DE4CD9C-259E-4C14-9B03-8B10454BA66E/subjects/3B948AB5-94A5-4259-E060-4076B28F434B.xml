@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="3B948AB5-94A5-4259-E060-4076B28F434B" ownedBy="3DE4CD9C-259E-4C14-9B03-8B10454BA66E">
+  <arch:name>
+    <arch:string>Bone 1082_200</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Animal Bone</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_1_c52257ab5</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>2120E57F-3EF2-452F-B927-880D873FE896</arch:variableID>
+          <arch:integer>2000</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/96327361-0673-4AF7-DD8B-CBAE26377D89">96327361-0673-4AF7-DD8B-CBAE26377D89</oc:propid>
+          <oc:var_label type="integer">Year</oc:var_label>
+          <oc:show_val>2000</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>BC13A961-42EE-42B5-3BFC-C0C9B314DE4F</arch:variableID>
+          <arch:integer>200</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/4F43ADFD-408C-4B2E-767A-9FBABBC98CF8">4F43ADFD-408C-4B2E-767A-9FBABBC98CF8</oc:propid>
+          <oc:var_label type="integer">Item number</oc:var_label>
+          <oc:show_val>200</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>505E423A-043C-45A9-AA62-F844B31F4E5A</arch:variableID>
+          <arch:valueID>2BB7B870-ED6E-4B11-9F09-1046224FADE7</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/EC95CA02-99D0-4CB6-DEA8-84BD78B63525">EC95CA02-99D0-4CB6-DEA8-84BD78B63525</oc:propid>
+          <oc:var_label type="nominal">Taxon</oc:var_label>
+          <oc:show_val>Bos taurus</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="505E423A-043C-45A9-AA62-F844B31F4E5A" href="http://purl.org/NET/biol/ns#term_hasTaxonomy">
+              <oc:vocabulary href="http://purl.org/NET/biol/ns#">Biological Taxonomy Vocabulary</oc:vocabulary>
+              <oc:label>Has Biological Taxonomy</oc:label>
+              <oc:targetLink localType="property" localID="EC95CA02-99D0-4CB6-DEA8-84BD78B63525" localURI="http://opencontext.org/properties/EC95CA02-99D0-4CB6-DEA8-84BD78B63525" href="http://eol.org/pages/328699">
+                <oc:vocabulary href="http://eol.org/">Encyclopedia of Life</oc:vocabulary>
+                <oc:label>Bos taurus Linnaeus, 1758</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8DF515F3-B7FB-4E37-4132-80489004023E</arch:variableID>
+          <arch:valueID>F25F4D1B-6731-428C-B4FA-0EA6E7BDE706</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/6492FBE5-06D8-4FF3-4CFE-3E6D979B2E5C">6492FBE5-06D8-4FF3-4CFE-3E6D979B2E5C</oc:propid>
+          <oc:var_label type="nominal">Common Name</oc:var_label>
+          <oc:show_val>Cattle</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7D343D78-6C9E-4CED-2E11-CD90EFD18A06</arch:variableID>
+          <arch:valueID>B4EAD7C7-11AC-4FCE-C2F5-80792DC9E618</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/71B08729-EF66-43E5-0CE8-B9C48F65D751">71B08729-EF66-43E5-0CE8-B9C48F65D751</oc:propid>
+          <oc:var_label type="nominal">Element</oc:var_label>
+          <oc:show_val>Femur</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>98F9E992-55A6-4420-EE28-9DA253736564</arch:variableID>
+          <arch:integer>1</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/286B3614-5D5A-4263-8D23-D33939C724DE">286B3614-5D5A-4263-8D23-D33939C724DE</oc:propid>
+          <oc:var_label type="integer">Total # Of Specimens</oc:var_label>
+          <oc:show_val>1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C66CF89E-8A27-40A4-27D3-72042F5DCA49</arch:variableID>
+          <arch:valueID>8D4B33C1-D5F5-4FF0-8D88-B9E9E6AE8450</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/C289CFD1-D649-47C1-8EED-8F92BA48F4F5">C289CFD1-D649-47C1-8EED-8F92BA48F4F5</oc:propid>
+          <oc:var_label type="nominal">Part</oc:var_label>
+          <oc:show_val>Diaphysis</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>575455CB-EB54-460D-C376-C0B6B933BBB6</arch:variableID>
+          <arch:valueID>27730AB6-D0AE-4010-B562-BC42D6BE13DF</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/F6B19A2D-26D8-4AF0-5456-BB2BB7D6810A">F6B19A2D-26D8-4AF0-5456-BB2BB7D6810A</oc:propid>
+          <oc:var_label type="nominal">Percent Complete</oc:var_label>
+          <oc:show_val>1/4 of bone present</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>555DD1D8-61EB-428A-FFFA-2F30F1DA22F3</arch:variableID>
+          <arch:valueID>60C8EC01-5368-4577-5EB7-B7B9C5F986E1</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/8E5CFB66-7E89-4821-2291-7D616A1BF6F6">8E5CFB66-7E89-4821-2291-7D616A1BF6F6</oc:propid>
+          <oc:var_label type="alphanumeric">Remarks</oc:var_label>
+          <oc:show_val>FOSSA</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Principle Author / Analyst">F5499DD7-D9C6-4906-E9C2-7B3F5F0600E1</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/F5499DD7-D9C6-4906-E9C2-7B3F5F0600E1" cite="contributor">
+            <oc:name>Chiara Cavallo</oc:name>
+            <oc:id>F5499DD7-D9C6-4906-E9C2-7B3F5F0600E1</oc:id>
+            <oc:relation>Principle Author / Analyst</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string>An Item (Object) is a single object contained within a finds bag. Item numbers are assigned to finds that have been removed from a finds bag for further analysis. For example, a ceramic sherd that was removed from a finds bag to be drawn and/or photographed was given an item number. Similarly, a particular bone or lithic that was removed from a finds bag for further analysis was given an item number and was subsequently identified by that item number.  Most small finds were assigned item number "1," since they were usually the only item in their finds bag.</arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+        <oc:name>Turkey</oc:name>
+        <oc:id>1_Global_Spatial</oc:id>
+        <oc:level>6</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/5D6B6454-017A-43C1-9F15-6DFE36C3558F">
+        <oc:name>Kenan Tepe</oc:name>
+        <oc:id>5D6B6454-017A-43C1-9F15-6DFE36C3558F</oc:id>
+        <oc:level>5</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/CC3DDA1A-1C78-41EA-E05A-9BBC248C8B23">
+        <oc:name>Area B</oc:name>
+        <oc:id>CC3DDA1A-1C78-41EA-E05A-9BBC248C8B23</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Area</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/F4221B6E-0099-4AA3-8266-90010E253776">
+        <oc:name>Trench 1</oc:name>
+        <oc:id>F4221B6E-0099-4AA3-8266-90010E253776</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/01DC8B16-1A13-4D52-E51B-5A540B3734E0">
+        <oc:name>Locus 1013</oc:name>
+        <oc:id>01DC8B16-1A13-4D52-E51B-5A540B3734E0</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Locus</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/9EADB447-3D54-4FE4-C199-E84C74A88FEF">
+        <oc:name>Finds Bag 1082</oc:name>
+        <oc:id>9EADB447-3D54-4FE4-C199-E84C74A88FEF</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Kenan Tepe: Area B / Trench 1 / Locus 1013 / Finds Bag 1082 / Bone 1082_200 (Animal Bone)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2012-03-28</dc:date>
+    <dc:subject>Ubaid Period</dc:subject>
+    <dc:subject>Late Chalcolithic Period</dc:subject>
+    <dc:subject>Anatolia</dc:subject>
+    <dc:subject>Northern Mesopotamia</dc:subject>
+    <dc:subject>Middle Bronze Age</dc:subject>
+    <dc:subject>Early Iron Age</dc:subject>
+    <dc:subject>Tigris River</dc:subject>
+    <dc:subject>Archaeology</dc:subject>
+    <dc:contributor href="http://opencontext.org/persons/F5499DD7-D9C6-4906-E9C2-7B3F5F0600E1">Chiara Cavallo</dc:contributor>
+    <dc:creator href="http://opencontext.org/persons/21_DT_Person">Bradley Parker</dc:creator>
+    <dc:creator href="http://opencontext.org/persons/3BDBEC0E-8D0F-484F-DBD9-985F3D0915F6">Peter Cobb</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/3B948AB5-94A5-4259-E060-4076B28F434B</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/3DE4CD9C-259E-4C14-9B03-8B10454BA66E">Kenan Tepe</oc:project_name>
+    <oc:pub_date>2012-03-28T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Kenan+Tepe%3A+Area+B+%2F+Trench+1+%2F+Locus+1013+%2F+Finds+Bag+1082+%2F+Bone+1082_200+%28Animal+Bone%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Ubaid+Period&amp;rft.subject=Late+Chalcolithic+Period&amp;rft.subject=Anatolia&amp;rft.subject=Northern+Mesopotamia&amp;rft.subject=Middle+Bronze+Age&amp;rft.subject=Early+Iron+Age&amp;rft.subject=Tigris+River&amp;rft.subject=Archaeology&amp;rft.contributor=Chiara+Cavallo&amp;rft.creator=Bradley+Parker&amp;rft.creator=Peter+Cobb&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F3B948AB5-94A5-4259-E060-4076B28F434B</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>37.830582</oc:geo_lat>
+      <oc:geo_long>40.812856</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/F4221B6E-0099-4AA3-8266-90010E253776">
+        <oc:source_name>Trench 1</oc:source_name>
+        <oc:source_id>F4221B6E-0099-4AA3-8266-90010E253776</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2012-06-27T14:10:57-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2012/06/27 14:10:57</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(1,050 BCE - 900 BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-1050</oc:time_start>
+          <oc:time_finish>-900</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/01DC8B16-1A13-4D52-E51B-5A540B3734E0">
+            <oc:source_name>Locus 1013</oc:source_name>
+            <oc:source_id>01DC8B16-1A13-4D52-E51B-5A540B3734E0</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2012-06-23T17:07:59-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

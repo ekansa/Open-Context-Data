@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="FE5D0F70-8A35-4881-A516-16E96BDD737C" ownedBy="3DE4CD9C-259E-4C14-9B03-8B10454BA66E">
+  <arch:name>
+    <arch:string>Locus 16</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Locus</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>manual</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>9589A976-A9C0-4651-9027-9735985BF9E7</arch:variableID>
+          <arch:valueID>435EED92-F177-4DF3-D624-384C8BEBC7A0</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/D3DFD75D-2F34-4F43-629E-7E04CBDADF54">D3DFD75D-2F34-4F43-629E-7E04CBDADF54</oc:propid>
+          <oc:var_label type="nominal">Designator</oc:var_label>
+          <oc:show_val>Feature</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>57291FD5-30AE-4D7D-EEAF-CB5836659464</arch:variableID>
+          <arch:valueID>1B2E6979-BDBB-4E36-8797-B1341BEE33B4</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/81022756-F626-4A44-8D2E-D3F67039F531">81022756-F626-4A44-8D2E-D3F67039F531</oc:propid>
+          <oc:var_label type="nominal">Context rating</oc:var_label>
+          <oc:show_val>Tertiary</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>399DFFB7-05F9-4895-F8CB-F05CD087C48D</arch:variableID>
+          <oc:propid href="http://opencontext.org/properties/BD0033B5-B9A1-40D8-1015-936083A4F0E6">BD0033B5-B9A1-40D8-1015-936083A4F0E6</oc:propid>
+          <oc:var_label type="alphanumeric">Strat below</oc:var_label>
+          <oc:show_val>5</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>663AC80E-13FC-48F1-6075-D7EF8A361800</arch:variableID>
+          <oc:propid href="http://opencontext.org/properties/0A01C4E8-250A-4A5F-A1BA-98D10D24725A">0A01C4E8-250A-4A5F-A1BA-98D10D24725A</oc:propid>
+          <oc:var_label type="alphanumeric">Strat above</oc:var_label>
+          <oc:show_val>49</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>E866B0B0-379A-4600-21C9-DA4AADE31EA3</arch:variableID>
+          <oc:propid href="http://opencontext.org/properties/4DFC89FC-DBDB-4937-06D1-A7DC3B42666E">4DFC89FC-DBDB-4937-06D1-A7DC3B42666E</oc:propid>
+          <oc:var_label type="alphanumeric">Strat within</oc:var_label>
+          <oc:show_val>12</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>354DCD23-980F-4BEC-FBE8-B511B089E661</arch:variableID>
+          <arch:decimal href="http://www.w3.org/2003/01/geo/wgs84_pos#alt" name="altitude (WGS84)" abrv="alt (m)">588.33</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/73C054B0-6258-4BAF-9725-6C7137593E95">73C054B0-6258-4BAF-9725-6C7137593E95</oc:propid>
+          <oc:var_label type="decimal">Top depth center</oc:var_label>
+          <oc:show_val>588.33</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8246DCBA-E180-487C-22DD-2FE84B5BF9AE</arch:variableID>
+          <arch:decimal href="http://www.w3.org/2003/01/geo/wgs84_pos#alt" name="altitude (WGS84)" abrv="alt (m)">588.19</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/4F57747A-A97C-4F8E-0CA8-35CAB9F7153A">4F57747A-A97C-4F8E-0CA8-35CAB9F7153A</oc:propid>
+          <oc:var_label type="decimal">Bottom depth center</oc:var_label>
+          <oc:show_val>588.19</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>0D8E47BC-66F3-412B-07E0-C39878E577FA</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/meter" name="meter" abrv="m">1.5</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/78BA9AE9-5E80-4843-25F9-500EA53BD3F5">78BA9AE9-5E80-4843-25F9-500EA53BD3F5</oc:propid>
+          <oc:var_label type="decimal">Dimension length</oc:var_label>
+          <oc:show_val>1.5</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>255542F8-77B3-4143-DFE4-DBF44CD6FBBC</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/meter" name="meter" abrv="m">1</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/9B9B7367-5F29-41F1-7922-11D942E63F1A">9B9B7367-5F29-41F1-7922-11D942E63F1A</oc:propid>
+          <oc:var_label type="decimal">Dimension width</oc:var_label>
+          <oc:show_val>1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>667B68A9-7283-4DA5-86CB-2742586DB672</arch:variableID>
+          <arch:valueID>A00D32B9-C79A-42CC-8F37-33286D7E1ECC</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/AB6D97E5-1041-46DB-161F-0CE15B3397CB">AB6D97E5-1041-46DB-161F-0CE15B3397CB</oc:propid>
+          <oc:var_label type="calendric">Start date</oc:var_label>
+          <oc:show_val>2004-07-11</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F63A8CB7-1F50-4F45-4D8D-E23462DA4755</arch:variableID>
+          <arch:valueID>773733FC-EFC2-4A8F-2C4A-5966EEA96116</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/FFA9616A-55F9-4BB8-063D-8FDA5645C080">FFA9616A-55F9-4BB8-063D-8FDA5645C080</oc:propid>
+          <oc:var_label type="calendric">End date</oc:var_label>
+          <oc:show_val>2004-07-22</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>4240BB4A-E688-494C-E936-AF96E0ED0CD0</arch:variableID>
+          <arch:valueID>D5797F48-01A9-43E6-9A4D-6C9D2E99C52E</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/3E2E8785-8DC3-4ADE-312B-1B998BC7E9C1">3E2E8785-8DC3-4ADE-312B-1B998BC7E9C1</oc:propid>
+          <oc:var_label type="alphanumeric">Composition</oc:var_label>
+          <oc:show_val>Lage rocks 3-40cm and soil. some large pieces of pottery</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>CD39AC4B-27AE-4F10-69E1-4BD87412BE0C</arch:variableID>
+          <arch:valueID>0FE2E038-1233-4170-E98E-1BEC888C5CE6</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/8C0BDE6B-2A75-4257-F822-6FA7DB3F0CF0">8C0BDE6B-2A75-4257-F822-6FA7DB3F0CF0</oc:propid>
+          <oc:var_label type="nominal">Tentative Date</oc:var_label>
+          <oc:show_val>Middle Bronze Age</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="spatialUnit" info="Below (stratigraphy)">DE972B3E-7E05-4B70-A26A-5B68D908787D</arch:docID>
+        <arch:docID type="spatialUnit" info="Within (stratigraphy)">604178F6-C7B5-4FC6-ADDC-6332182DFB1A</arch:docID>
+        <arch:docID type="spatialUnit" info="Above (stratigraphy)">BE8DC1C2-5D77-4DB9-6015-40F69AA3AF11</arch:docID>
+        <arch:docID type="resource" info="link">BD1FC81B-589B-477A-49B8-9DC73CABA27A</arch:docID>
+        <arch:docID type="resource" info="link">34B848C1-E29C-4060-A3FF-D5F5A44650EB</arch:docID>
+        <arch:docID type="resource" info="link">F1B536F8-3578-483E-FE65-1053433591C5</arch:docID>
+        <arch:docID type="resource" info="link">4571E774-77AA-40F4-BA77-4129F5DEF85F</arch:docID>
+        <arch:docID type="resource" info="link">9DB9376F-CC60-4D31-B914-F35E72A69A3A</arch:docID>
+        <arch:docID type="resource" info="link">CDA9699E-172D-449B-DD71-6F41497A6EED</arch:docID>
+        <arch:docID type="resource" info="link">ECA70D41-3E91-4FA8-422F-519C603990EA</arch:docID>
+        <arch:docID type="resource" info="link">C7B0BE18-B62D-48B0-57E2-2B42488AAF33</arch:docID>
+        <arch:docID type="resource" info="link">1E1348A1-E4A7-4D19-92D1-B3E980D31E91</arch:docID>
+        <arch:docID type="resource" info="link">A8A1F17C-647F-464A-755C-0076037E000D</arch:docID>
+        <arch:docID type="resource" info="link">7FB83B17-168E-4CD4-FD85-EEB3C6F59FE1</arch:docID>
+        <arch:docID type="resource" info="link">50831E66-C551-4D56-6E63-3EB0E82A2D71</arch:docID>
+        <arch:docID type="person" info="Recorded by">C2C809FB-E548-4CCB-E658-07444E04CA98</arch:docID>
+        <arch:docID type="person" info="Director">4499C94B-8EB5-4E30-07CC-DD3A98561FB6</arch:docID>
+        <arch:docID type="resource" info="link">43F09258-70B4-451B-1349-EC482528FAE3</arch:docID>
+        <arch:docID type="resource" info="link">7C4380AF-7E98-461B-3B28-71D6424D118E</arch:docID>
+        <arch:docID type="resource" info="link">C1D0499C-905E-453D-BC63-97D405F020B8</arch:docID>
+        <arch:docID type="resource" info="link">F08AB793-7801-4814-3D80-E72341ED4688</arch:docID>
+        <arch:docID type="resource" info="link">95DEBB18-1443-480C-A717-3584EE733A9A</arch:docID>
+        <arch:docID type="resource" info="link">29053A67-86D4-4788-3765-51B708B7F2A7</arch:docID>
+        <arch:docID type="resource" info="link">0F2C7117-587A-4244-95F1-138269CF11D3</arch:docID>
+        <arch:docID type="resource" info="link">0F235CD2-F2EB-4FA0-A71A-60E3F5321B6D</arch:docID>
+        <oc:space_links>
+          <oc:link href="http://opencontext.org/subjects/DE972B3E-7E05-4B70-A26A-5B68D908787D">
+            <oc:name>Locus 5</oc:name>
+            <oc:id>DE972B3E-7E05-4B70-A26A-5B68D908787D</oc:id>
+            <oc:relation>Below (stratigraphy)</oc:relation>
+            <oc:item_class>
+              <oc:name>Locus</oc:name>
+              <oc:iconURI>locus_lot_30x30.jpg</oc:iconURI>
+            </oc:item_class>
+            <oc:context>
+              <oc:tree id="default">
+                <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+                  <oc:name>Turkey</oc:name>
+                  <oc:id>1_Global_Spatial</oc:id>
+                  <oc:level>4</oc:level>
+                  <oc:item_class>
+                    <oc:name>Region</oc:name>
+                    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+                  </oc:item_class>
+                </oc:parent>
+                <oc:parent href="http://opencontext.org/subjects/5D6B6454-017A-43C1-9F15-6DFE36C3558F">
+                  <oc:name>Kenan Tepe</oc:name>
+                  <oc:id>5D6B6454-017A-43C1-9F15-6DFE36C3558F</oc:id>
+                  <oc:level>3</oc:level>
+                  <oc:item_class>
+                    <oc:name>Site</oc:name>
+                    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+                  </oc:item_class>
+                </oc:parent>
+                <oc:parent href="http://opencontext.org/subjects/64E926FA-087A-4873-DF43-FFEE0E1EBE61">
+                  <oc:name>Area D</oc:name>
+                  <oc:id>64E926FA-087A-4873-DF43-FFEE0E1EBE61</oc:id>
+                  <oc:level>2</oc:level>
+                  <oc:item_class>
+                    <oc:name>Area</oc:name>
+                    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_30x30.jpg</oc:iconURI>
+                  </oc:item_class>
+                </oc:parent>
+                <oc:parent href="http://opencontext.org/subjects/A887ED68-9819-42EF-0C0D-7756F42212EB">
+                  <oc:name>Trench 8</oc:name>
+                  <oc:id>A887ED68-9819-42EF-0C0D-7756F42212EB</oc:id>
+                  <oc:level>1</oc:level>
+                  <oc:item_class>
+                    <oc:name>Trench</oc:name>
+                    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+                  </oc:item_class>
+                </oc:parent>
+              </oc:tree>
+            </oc:context>
+          </oc:link>
+          <oc:link href="http://opencontext.org/subjects/604178F6-C7B5-4FC6-ADDC-6332182DFB1A">
+            <oc:name>Locus 12</oc:name>
+            <oc:id>604178F6-C7B5-4FC6-ADDC-6332182DFB1A</oc:id>
+            <oc:relation>Within (stratigraphy)</oc:relation>
+            <oc:item_class>
+              <oc:name>Locus</oc:name>
+              <oc:iconURI>locus_lot_30x30.jpg</oc:iconURI>
+            </oc:item_class>
+            <oc:context>
+              <oc:tree id="default">
+                <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+                  <oc:name>Turkey</oc:name>
+                  <oc:id>1_Global_Spatial</oc:id>
+                  <oc:level>4</oc:level>
+                  <oc:item_class>
+                    <oc:name>Region</oc:name>
+                    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+                  </oc:item_class>
+                </oc:parent>
+                <oc:parent href="http://opencontext.org/subjects/5D6B6454-017A-43C1-9F15-6DFE36C3558F">
+                  <oc:name>Kenan Tepe</oc:name>
+                  <oc:id>5D6B6454-017A-43C1-9F15-6DFE36C3558F</oc:id>
+                  <oc:level>3</oc:level>
+                  <oc:item_class>
+                    <oc:name>Site</oc:name>
+                    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+                  </oc:item_class>
+                </oc:parent>
+                <oc:parent href="http://opencontext.org/subjects/64E926FA-087A-4873-DF43-FFEE0E1EBE61">
+                  <oc:name>Area D</oc:name>
+                  <oc:id>64E926FA-087A-4873-DF43-FFEE0E1EBE61</oc:id>
+                  <oc:level>2</oc:level>
+                  <oc:item_class>
+                    <oc:name>Area</oc:name>
+                    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_30x30.jpg</oc:iconURI>
+                  </oc:item_class>
+                </oc:parent>
+                <oc:parent href="http://opencontext.org/subjects/A887ED68-9819-42EF-0C0D-7756F42212EB">
+                  <oc:name>Trench 8</oc:name>
+                  <oc:id>A887ED68-9819-42EF-0C0D-7756F42212EB</oc:id>
+                  <oc:level>1</oc:level>
+                  <oc:item_class>
+                    <oc:name>Trench</oc:name>
+                    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+                  </oc:item_class>
+                </oc:parent>
+              </oc:tree>
+            </oc:context>
+          </oc:link>
+          <oc:link href="http://opencontext.org/subjects/BE8DC1C2-5D77-4DB9-6015-40F69AA3AF11">
+            <oc:name>Locus 49</oc:name>
+            <oc:id>BE8DC1C2-5D77-4DB9-6015-40F69AA3AF11</oc:id>
+            <oc:relation>Above (stratigraphy)</oc:relation>
+            <oc:item_class>
+              <oc:name>Locus</oc:name>
+              <oc:iconURI>locus_lot_30x30.jpg</oc:iconURI>
+            </oc:item_class>
+            <oc:context>
+              <oc:tree id="default">
+                <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+                  <oc:name>Turkey</oc:name>
+                  <oc:id>1_Global_Spatial</oc:id>
+                  <oc:level>4</oc:level>
+                  <oc:item_class>
+                    <oc:name>Region</oc:name>
+                    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+                  </oc:item_class>
+                </oc:parent>
+                <oc:parent href="http://opencontext.org/subjects/5D6B6454-017A-43C1-9F15-6DFE36C3558F">
+                  <oc:name>Kenan Tepe</oc:name>
+                  <oc:id>5D6B6454-017A-43C1-9F15-6DFE36C3558F</oc:id>
+                  <oc:level>3</oc:level>
+                  <oc:item_class>
+                    <oc:name>Site</oc:name>
+                    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+                  </oc:item_class>
+                </oc:parent>
+                <oc:parent href="http://opencontext.org/subjects/64E926FA-087A-4873-DF43-FFEE0E1EBE61">
+                  <oc:name>Area D</oc:name>
+                  <oc:id>64E926FA-087A-4873-DF43-FFEE0E1EBE61</oc:id>
+                  <oc:level>2</oc:level>
+                  <oc:item_class>
+                    <oc:name>Area</oc:name>
+                    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_30x30.jpg</oc:iconURI>
+                  </oc:item_class>
+                </oc:parent>
+                <oc:parent href="http://opencontext.org/subjects/A887ED68-9819-42EF-0C0D-7756F42212EB">
+                  <oc:name>Trench 8</oc:name>
+                  <oc:id>A887ED68-9819-42EF-0C0D-7756F42212EB</oc:id>
+                  <oc:level>1</oc:level>
+                  <oc:item_class>
+                    <oc:name>Trench</oc:name>
+                    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+                  </oc:item_class>
+                </oc:parent>
+              </oc:tree>
+            </oc:context>
+          </oc:link>
+        </oc:space_links>
+        <oc:media_links>
+          <oc:link href="http://opencontext.org/media/BD1FC81B-589B-477A-49B8-9DC73CABA27A">
+            <oc:name>D-8-2004-07-20-Locus-D38</oc:name>
+            <oc:id>BD1FC81B-589B-477A-49B8-9DC73CABA27A</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/kenantepe/thumbs/Fieldphotos/2004/AreaD/D8L07204D38.JPG</oc:thumbnailURI>
+            <oc:descriptor>2004-07-20</oc:descriptor>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/34B848C1-E29C-4060-A3FF-D5F5A44650EB">
+            <oc:name>D-8-2004-07-20-Locus-D40</oc:name>
+            <oc:id>34B848C1-E29C-4060-A3FF-D5F5A44650EB</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/kenantepe/thumbs/Fieldphotos/2004/AreaD/D8L07204D40.JPG</oc:thumbnailURI>
+            <oc:descriptor>2004-07-20</oc:descriptor>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/F1B536F8-3578-483E-FE65-1053433591C5">
+            <oc:name>D-8-2004-07-22-Locus-G41</oc:name>
+            <oc:id>F1B536F8-3578-483E-FE65-1053433591C5</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/kenantepe/thumbs/Fieldphotos/2004/AreaD/D8L07224G41.JPG</oc:thumbnailURI>
+            <oc:descriptor>2004-07-22</oc:descriptor>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/4571E774-77AA-40F4-BA77-4129F5DEF85F">
+            <oc:name>Dayplan-D-8-2004-07-11-A</oc:name>
+            <oc:id>4571E774-77AA-40F4-BA77-4129F5DEF85F</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/kenantepe/thumbs/Dayplans/2004/D8DP07112004A.jpg</oc:thumbnailURI>
+            <oc:descriptor>2004-07-11</oc:descriptor>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/9DB9376F-CC60-4D31-B914-F35E72A69A3A">
+            <oc:name>Dayplan-D-8-2004-07-12-A</oc:name>
+            <oc:id>9DB9376F-CC60-4D31-B914-F35E72A69A3A</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/kenantepe/thumbs/Dayplans/2004/D8DP07122004A.jpg</oc:thumbnailURI>
+            <oc:descriptor>2004-07-12</oc:descriptor>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/CDA9699E-172D-449B-DD71-6F41497A6EED">
+            <oc:name>Dayplan-D-8-2004-07-15-B</oc:name>
+            <oc:id>CDA9699E-172D-449B-DD71-6F41497A6EED</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/kenantepe/thumbs/Dayplans/2004/D8DP07152004B.jpg</oc:thumbnailURI>
+            <oc:descriptor>2004-07-15</oc:descriptor>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/ECA70D41-3E91-4FA8-422F-519C603990EA">
+            <oc:name>Dayplan-D-8-2004-07-17-A</oc:name>
+            <oc:id>ECA70D41-3E91-4FA8-422F-519C603990EA</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/kenantepe/thumbs/Dayplans/2004/D8DP07172004A.jpg</oc:thumbnailURI>
+            <oc:descriptor>2004-07-17</oc:descriptor>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/C7B0BE18-B62D-48B0-57E2-2B42488AAF33">
+            <oc:name>Dayplan-D-8-2004-07-18-A</oc:name>
+            <oc:id>C7B0BE18-B62D-48B0-57E2-2B42488AAF33</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/kenantepe/thumbs/Dayplans/2004/D8DP07182004A.jpg</oc:thumbnailURI>
+            <oc:descriptor>2004-07-18</oc:descriptor>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/1E1348A1-E4A7-4D19-92D1-B3E980D31E91">
+            <oc:name>Dayplan-D-8-2004-07-19-A</oc:name>
+            <oc:id>1E1348A1-E4A7-4D19-92D1-B3E980D31E91</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/kenantepe/thumbs/Dayplans/2004/D8DP07192004A.jpg</oc:thumbnailURI>
+            <oc:descriptor>2004-07-19</oc:descriptor>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/A8A1F17C-647F-464A-755C-0076037E000D">
+            <oc:name>Dayplan-D-8-2004-07-20-B</oc:name>
+            <oc:id>A8A1F17C-647F-464A-755C-0076037E000D</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/kenantepe/thumbs/Dayplans/2004/D8DP07202004B.jpg</oc:thumbnailURI>
+            <oc:descriptor>2004-07-20</oc:descriptor>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/7FB83B17-168E-4CD4-FD85-EEB3C6F59FE1">
+            <oc:name>Dayplan-D-8-2004-07-21-A</oc:name>
+            <oc:id>7FB83B17-168E-4CD4-FD85-EEB3C6F59FE1</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/kenantepe/thumbs/Dayplans/2004/D8DP07212004A.jpg</oc:thumbnailURI>
+            <oc:descriptor>2004-07-21</oc:descriptor>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/50831E66-C551-4D56-6E63-3EB0E82A2D71">
+            <oc:name>Dayplan-D-8-2004-07-22-B</oc:name>
+            <oc:id>50831E66-C551-4D56-6E63-3EB0E82A2D71</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/kenantepe/thumbs/Dayplans/2004/D8DP07222004B.jpg</oc:thumbnailURI>
+            <oc:descriptor>2004-07-22</oc:descriptor>
+          </oc:link>
+        </oc:media_links>
+        <oc:diary_links>
+          <oc:link href="http://opencontext.org/documents/43F09258-70B4-451B-1349-EC482528FAE3">
+            <oc:name>D-8-2004-07-11</oc:name>
+            <oc:id>43F09258-70B4-451B-1349-EC482528FAE3</oc:id>
+            <oc:relation>link</oc:relation>
+          </oc:link>
+          <oc:link href="http://opencontext.org/documents/7C4380AF-7E98-461B-3B28-71D6424D118E">
+            <oc:name>D-8-2004-07-12</oc:name>
+            <oc:id>7C4380AF-7E98-461B-3B28-71D6424D118E</oc:id>
+            <oc:relation>link</oc:relation>
+          </oc:link>
+          <oc:link href="http://opencontext.org/documents/C1D0499C-905E-453D-BC63-97D405F020B8">
+            <oc:name>D-8-2004-07-15</oc:name>
+            <oc:id>C1D0499C-905E-453D-BC63-97D405F020B8</oc:id>
+            <oc:relation>link</oc:relation>
+          </oc:link>
+          <oc:link href="http://opencontext.org/documents/F08AB793-7801-4814-3D80-E72341ED4688">
+            <oc:name>D-8-2004-07-17</oc:name>
+            <oc:id>F08AB793-7801-4814-3D80-E72341ED4688</oc:id>
+            <oc:relation>link</oc:relation>
+          </oc:link>
+          <oc:link href="http://opencontext.org/documents/95DEBB18-1443-480C-A717-3584EE733A9A">
+            <oc:name>D-8-2004-07-18</oc:name>
+            <oc:id>95DEBB18-1443-480C-A717-3584EE733A9A</oc:id>
+            <oc:relation>link</oc:relation>
+          </oc:link>
+          <oc:link href="http://opencontext.org/documents/29053A67-86D4-4788-3765-51B708B7F2A7">
+            <oc:name>D-8-2004-07-19</oc:name>
+            <oc:id>29053A67-86D4-4788-3765-51B708B7F2A7</oc:id>
+            <oc:relation>link</oc:relation>
+          </oc:link>
+          <oc:link href="http://opencontext.org/documents/0F2C7117-587A-4244-95F1-138269CF11D3">
+            <oc:name>D-8-2004-07-20</oc:name>
+            <oc:id>0F2C7117-587A-4244-95F1-138269CF11D3</oc:id>
+            <oc:relation>link</oc:relation>
+          </oc:link>
+          <oc:link href="http://opencontext.org/documents/0F235CD2-F2EB-4FA0-A71A-60E3F5321B6D">
+            <oc:name>D-8-2004-07-21</oc:name>
+            <oc:id>0F235CD2-F2EB-4FA0-A71A-60E3F5321B6D</oc:id>
+            <oc:relation>link</oc:relation>
+          </oc:link>
+        </oc:diary_links>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/C2C809FB-E548-4CCB-E658-07444E04CA98" cite="contributor">
+            <oc:name>Emily Ogle</oc:name>
+            <oc:id>C2C809FB-E548-4CCB-E658-07444E04CA98</oc:id>
+            <oc:relation>Recorded by</oc:relation>
+          </oc:link>
+          <oc:link href="http://opencontext.org/persons/4499C94B-8EB5-4E30-07CC-DD3A98561FB6" cite="creator">
+            <oc:name>Bradley J. Parker</oc:name>
+            <oc:id>4499C94B-8EB5-4E30-07CC-DD3A98561FB6</oc:id>
+            <oc:relation>Director</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string>Contexts excavated in trenches were recorded using the "locus system." A locus is any discrete three-dimensional entity excavated in a trench. The key to the locus system is the recognition that a locus is any one thing. Differences in soil composition or texture are therefore as important as, for example, the difference between a pit and a wall. If two entities were distinct, they were considered separate loci and were therefore assigned separate locus numbers. It should also be noted that every context excavated in a trench was given a locus number and thus the trench itself is made up completely of excavated loci.</arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+        <oc:name>Turkey</oc:name>
+        <oc:id>1_Global_Spatial</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/5D6B6454-017A-43C1-9F15-6DFE36C3558F">
+        <oc:name>Kenan Tepe</oc:name>
+        <oc:id>5D6B6454-017A-43C1-9F15-6DFE36C3558F</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/64E926FA-087A-4873-DF43-FFEE0E1EBE61">
+        <oc:name>Area D</oc:name>
+        <oc:id>64E926FA-087A-4873-DF43-FFEE0E1EBE61</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Area</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/A887ED68-9819-42EF-0C0D-7756F42212EB">
+        <oc:name>Trench 8</oc:name>
+        <oc:id>A887ED68-9819-42EF-0C0D-7756F42212EB</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/FD1560FE-27A6-47D6-9A52-2217C571D593">
+        <oc:name>Finds Bag 1</oc:name>
+        <oc:id>FD1560FE-27A6-47D6-9A52-2217C571D593</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Ceramic</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/039CCC0B-C9CE-4D93-C55E-45C4561BB543">
+        <oc:name>Finds Bag 2</oc:name>
+        <oc:id>039CCC0B-C9CE-4D93-C55E-45C4561BB543</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Lithics</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A8CC94E8-7D4A-4360-6DF4-C0500621704D">
+        <oc:name>Finds Bag 3</oc:name>
+        <oc:id>A8CC94E8-7D4A-4360-6DF4-C0500621704D</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Bone - Animal</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E2C39172-E373-4B9D-98E4-86AD7053F3B6">
+        <oc:name>Finds Bag 4</oc:name>
+        <oc:id>E2C39172-E373-4B9D-98E4-86AD7053F3B6</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Stone</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C718DBFD-52C8-4C42-A2E7-CF4B0DD21668">
+        <oc:name>Finds Bag 5</oc:name>
+        <oc:id>C718DBFD-52C8-4C42-A2E7-CF4B0DD21668</oc:id>
+        <oc:item_class>
+          <oc:name>Sample</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Stone</oc:descriptor>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Kenan Tepe: Area D / Trench 8 / Locus 16 (Locus)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2012-03-28</dc:date>
+    <dc:subject>Ubaid Period</dc:subject>
+    <dc:subject>Late Chalcolithic Period</dc:subject>
+    <dc:subject>Anatolia</dc:subject>
+    <dc:subject>Northern Mesopotamia</dc:subject>
+    <dc:subject>Middle Bronze Age</dc:subject>
+    <dc:subject>Early Iron Age</dc:subject>
+    <dc:subject>Tigris River</dc:subject>
+    <dc:subject>Archaeology</dc:subject>
+    <dc:contributor href="http://opencontext.org/persons/C2C809FB-E548-4CCB-E658-07444E04CA98">Emily Ogle</dc:contributor>
+    <dc:creator href="http://opencontext.org/persons/21_DT_Person">Bradley Parker</dc:creator>
+    <dc:creator href="http://opencontext.org/persons/3BDBEC0E-8D0F-484F-DBD9-985F3D0915F6">Peter Cobb</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/FE5D0F70-8A35-4881-A516-16E96BDD737C</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/3DE4CD9C-259E-4C14-9B03-8B10454BA66E">Kenan Tepe</oc:project_name>
+    <oc:pub_date>2012-03-28T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Kenan+Tepe%3A+Area+D+%2F+Trench+8+%2F+Locus+16+%28Locus%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Ubaid+Period&amp;rft.subject=Late+Chalcolithic+Period&amp;rft.subject=Anatolia&amp;rft.subject=Northern+Mesopotamia&amp;rft.subject=Middle+Bronze+Age&amp;rft.subject=Early+Iron+Age&amp;rft.subject=Tigris+River&amp;rft.subject=Archaeology&amp;rft.contributor=Emily+Ogle&amp;rft.creator=Bradley+Parker&amp;rft.creator=Peter+Cobb&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FFE5D0F70-8A35-4881-A516-16E96BDD737C</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>37.830596</oc:geo_lat>
+      <oc:geo_long>40.813717</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/A887ED68-9819-42EF-0C0D-7756F42212EB">
+        <oc:source_name>Trench 8</oc:source_name>
+        <oc:source_id>A887ED68-9819-42EF-0C0D-7756F42212EB</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2012-06-29T22:26:34-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2012/06/29 22:26:34</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(1,900 BCE - 1,700 BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-1900</oc:time_start>
+          <oc:time_finish>-1700</oc:time_finish>
+          <oc:metasource ref_type="self" href="http://opencontext.org/subjects/FE5D0F70-8A35-4881-A516-16E96BDD737C">
+            <oc:source_name>Locus 16</oc:source_name>
+            <oc:source_id>FE5D0F70-8A35-4881-A516-16E96BDD737C</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2012-06-23T17:11:09-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

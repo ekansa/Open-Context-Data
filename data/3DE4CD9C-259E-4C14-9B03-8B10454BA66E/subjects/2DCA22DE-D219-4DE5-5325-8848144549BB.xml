@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="2DCA22DE-D219-4DE5-5325-8848144549BB" ownedBy="3DE4CD9C-259E-4C14-9B03-8B10454BA66E">
+  <arch:name>
+    <arch:string>Finds Bag 1</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Sample</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/sample_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_1_f1171314d_2</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>7DD2B84F-9000-4DD7-B476-29ABD219BC43</arch:variableID>
+          <arch:valueID>54163C5F-2616-490E-9A15-57DC5CA14D4F</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/D018982F-BFE6-4CD8-968B-7575E0B9A3CE">D018982F-BFE6-4CD8-968B-7575E0B9A3CE</oc:propid>
+          <oc:var_label type="nominal">Material</oc:var_label>
+          <oc:show_val>Ceramic</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9ED499E4-5B88-4BA4-7BE2-647A027C12D0</arch:variableID>
+          <arch:valueID>47EF4C27-9F00-42A8-0D29-BEFBF14EED36</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/13E3889B-ED00-41D8-84B2-D993A2922E4A">13E3889B-ED00-41D8-84B2-D993A2922E4A</oc:propid>
+          <oc:var_label type="calendric">Date</oc:var_label>
+          <oc:show_val>2004-07-20</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>67407D29-C22D-48C2-7B8B-1E7E93DA3293</arch:variableID>
+          <arch:decimal>578.37</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/80D747D5-1902-4E4F-DB33-BCB83E9C3C9E">80D747D5-1902-4E4F-DB33-BCB83E9C3C9E</oc:propid>
+          <oc:var_label type="decimal">High elevation</oc:var_label>
+          <oc:show_val>578.37</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C3A29795-D71A-4E96-6E67-43CA3EA3E2EE</arch:variableID>
+          <arch:decimal>578.32</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/DF3A878C-76B3-40E6-066F-7D778975A6E6">DF3A878C-76B3-40E6-066F-7D778975A6E6</oc:propid>
+          <oc:var_label type="decimal">Low elevation</oc:var_label>
+          <oc:show_val>578.32</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Director">4499C94B-8EB5-4E30-07CC-DD3A98561FB6</arch:docID>
+        <arch:docID type="person" info="Recorded by">48708E75-BD2B-43D2-348D-E4D9E5A68400</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/4499C94B-8EB5-4E30-07CC-DD3A98561FB6" cite="creator">
+            <oc:name>Bradley J. Parker</oc:name>
+            <oc:id>4499C94B-8EB5-4E30-07CC-DD3A98561FB6</oc:id>
+            <oc:relation>Director</oc:relation>
+          </oc:link>
+          <oc:link href="http://opencontext.org/persons/48708E75-BD2B-43D2-348D-E4D9E5A68400" cite="contributor">
+            <oc:name>Barış Uzel</oc:name>
+            <oc:id>48708E75-BD2B-43D2-348D-E4D9E5A68400</oc:id>
+            <oc:relation>Recorded by</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string>Finds Bags, or KT bags, are groups of artifacts of the same material composition excavated from a locus. Each finds bag may contain a number of finds but finds are always separated by material. Thus, ceramics, bones and lithics excavated from the same locus were given separate numbers and were collected in separate bags. A special category is the "small find," which could be of any material. Small finds are generally speaking rare or exceptional finds such as figurines, loom weights, andirons or worked bone tools. Small finds are given separate numbers and are bagged separately. Finds bags could consist of only one plastic bag of material and could only be excavated on a single day.</arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+        <oc:name>Turkey</oc:name>
+        <oc:id>1_Global_Spatial</oc:id>
+        <oc:level>5</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/5D6B6454-017A-43C1-9F15-6DFE36C3558F">
+        <oc:name>Kenan Tepe</oc:name>
+        <oc:id>5D6B6454-017A-43C1-9F15-6DFE36C3558F</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/CB5EB7DE-B106-48D5-CA00-EDBDF7D93BB6">
+        <oc:name>Area G</oc:name>
+        <oc:id>CB5EB7DE-B106-48D5-CA00-EDBDF7D93BB6</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Area</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/577C7A45-CD4A-425F-1633-2A324209C0B5">
+        <oc:name>Trench 7</oc:name>
+        <oc:id>577C7A45-CD4A-425F-1633-2A324209C0B5</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/A93C4D22-37B7-4EB2-2610-7D4F059134BD">
+        <oc:name>Locus 13</oc:name>
+        <oc:id>A93C4D22-37B7-4EB2-2610-7D4F059134BD</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Locus</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/909E2803-9574-4643-9BD0-2D00C8E42EE4">
+        <oc:name>Ceramic ID 1</oc:name>
+        <oc:id>909E2803-9574-4643-9BD0-2D00C8E42EE4</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/AB22B2FB-39A6-4760-7D62-BBA31FD4B1EF">
+        <oc:name>Ceramic ID 2</oc:name>
+        <oc:id>AB22B2FB-39A6-4760-7D62-BBA31FD4B1EF</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/16C1C10E-5242-45D6-45E8-4975A544C7FB">
+        <oc:name>Ceramic ID 3</oc:name>
+        <oc:id>16C1C10E-5242-45D6-45E8-4975A544C7FB</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/7DA8717C-86C8-4948-B10E-73AC520FDD90">
+        <oc:name>Ceramic ID 4</oc:name>
+        <oc:id>7DA8717C-86C8-4948-B10E-73AC520FDD90</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A3F99437-87CA-4FA7-FF0E-BE618837EAB9">
+        <oc:name>Ceramic ID 5</oc:name>
+        <oc:id>A3F99437-87CA-4FA7-FF0E-BE618837EAB9</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/60247006-5717-4267-0D5B-6F20B11C862D">
+        <oc:name>Ceramic ID 6</oc:name>
+        <oc:id>60247006-5717-4267-0D5B-6F20B11C862D</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/80AE20CE-A884-41DE-C6E8-63A5ECAE451C">
+        <oc:name>Ceramic ID 7</oc:name>
+        <oc:id>80AE20CE-A884-41DE-C6E8-63A5ECAE451C</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4007C086-8222-43D4-31D0-853E7885C825">
+        <oc:name>Ceramic ID 8</oc:name>
+        <oc:id>4007C086-8222-43D4-31D0-853E7885C825</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5950FB57-E8E6-4D18-3ACB-DD75F62EB461">
+        <oc:name>Ceramic ID 9</oc:name>
+        <oc:id>5950FB57-E8E6-4D18-3ACB-DD75F62EB461</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/89D15892-06EF-455B-0165-E8706D3458C7">
+        <oc:name>Ceramic ID 10</oc:name>
+        <oc:id>89D15892-06EF-455B-0165-E8706D3458C7</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D5EE843F-066C-4A29-B196-EA54DF67769F">
+        <oc:name>Ceramic ID 11</oc:name>
+        <oc:id>D5EE843F-066C-4A29-B196-EA54DF67769F</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/59AA06F6-8D36-44FC-5EFC-F2A6A687CE66">
+        <oc:name>Ceramic ID 12</oc:name>
+        <oc:id>59AA06F6-8D36-44FC-5EFC-F2A6A687CE66</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/57B4E452-C061-47E1-BDF6-2E73CA5F9B8E">
+        <oc:name>Ceramic ID 13</oc:name>
+        <oc:id>57B4E452-C061-47E1-BDF6-2E73CA5F9B8E</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A271FA37-7EED-4014-882D-79A60D1551B8">
+        <oc:name>Ceramic ID 14</oc:name>
+        <oc:id>A271FA37-7EED-4014-882D-79A60D1551B8</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/02398576-DCA1-4156-C25F-019EB07BFA54">
+        <oc:name>Ceramic ID 15</oc:name>
+        <oc:id>02398576-DCA1-4156-C25F-019EB07BFA54</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A8763CE7-BF92-47EB-4792-1C504FA45F48">
+        <oc:name>Ceramic ID 16</oc:name>
+        <oc:id>A8763CE7-BF92-47EB-4792-1C504FA45F48</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A04A1AFD-A8B5-42B5-19EF-3692A39BE4A5">
+        <oc:name>Ceramic ID 17</oc:name>
+        <oc:id>A04A1AFD-A8B5-42B5-19EF-3692A39BE4A5</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/337F4376-899E-48C8-4124-F5E424551FB0">
+        <oc:name>Ceramic ID 18</oc:name>
+        <oc:id>337F4376-899E-48C8-4124-F5E424551FB0</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/FFDFBA0F-1689-4B7C-A1A8-8AFFA67E385C">
+        <oc:name>Ceramic ID 19</oc:name>
+        <oc:id>FFDFBA0F-1689-4B7C-A1A8-8AFFA67E385C</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F2402323-A796-481C-B70E-866F0604A16A">
+        <oc:name>Ceramic ID 20</oc:name>
+        <oc:id>F2402323-A796-481C-B70E-866F0604A16A</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3339EEB2-0C4D-47FC-FF71-79AB58CD5A5C">
+        <oc:name>Ceramic ID 21</oc:name>
+        <oc:id>3339EEB2-0C4D-47FC-FF71-79AB58CD5A5C</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F5528BB1-49C3-4BDE-99EC-7DEF586DEC15">
+        <oc:name>Ceramic ID 22</oc:name>
+        <oc:id>F5528BB1-49C3-4BDE-99EC-7DEF586DEC15</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5C9CC20E-9696-4AFD-7FFF-9781DF8F985E">
+        <oc:name>Ceramic ID 23</oc:name>
+        <oc:id>5C9CC20E-9696-4AFD-7FFF-9781DF8F985E</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/9716F390-D344-46A8-5ECA-0DE054640265">
+        <oc:name>Ceramic ID 24</oc:name>
+        <oc:id>9716F390-D344-46A8-5ECA-0DE054640265</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/03BC7CDD-E9E4-4406-D5EF-FB1C4986AA94">
+        <oc:name>Ceramic ID 25</oc:name>
+        <oc:id>03BC7CDD-E9E4-4406-D5EF-FB1C4986AA94</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/FB5F9D4C-14BA-4995-2129-1D502B72935A">
+        <oc:name>Ceramic ID 26</oc:name>
+        <oc:id>FB5F9D4C-14BA-4995-2129-1D502B72935A</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/7D261543-D191-496F-319E-2796A585AA50">
+        <oc:name>Ceramic ID 27</oc:name>
+        <oc:id>7D261543-D191-496F-319E-2796A585AA50</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/EE88111D-90A7-4CA8-4B5B-C5ADB35FEF99">
+        <oc:name>Ceramic ID 28</oc:name>
+        <oc:id>EE88111D-90A7-4CA8-4B5B-C5ADB35FEF99</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6FD9EE9A-CD22-41E0-9F72-C71980417C88">
+        <oc:name>Ceramic ID 29</oc:name>
+        <oc:id>6FD9EE9A-CD22-41E0-9F72-C71980417C88</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D91014F9-DA1F-408C-707A-CD000A0B5DCB">
+        <oc:name>Ceramic ID 30</oc:name>
+        <oc:id>D91014F9-DA1F-408C-707A-CD000A0B5DCB</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/FAD87162-EAEF-4AED-E636-A0F91FAE3704">
+        <oc:name>Ceramic ID 31</oc:name>
+        <oc:id>FAD87162-EAEF-4AED-E636-A0F91FAE3704</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E43C5CD3-DA76-4040-3E15-DFDB667E8884">
+        <oc:name>Ceramic ID 32</oc:name>
+        <oc:id>E43C5CD3-DA76-4040-3E15-DFDB667E8884</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/68BAE1B3-841C-43BB-F76D-0F43E6DF8A71">
+        <oc:name>Ceramic ID 33</oc:name>
+        <oc:id>68BAE1B3-841C-43BB-F76D-0F43E6DF8A71</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/923D1A0C-3BEA-4F0B-DABB-C52A6024F0BE">
+        <oc:name>Ceramic ID 34</oc:name>
+        <oc:id>923D1A0C-3BEA-4F0B-DABB-C52A6024F0BE</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/34479318-D2EE-4241-4049-4E7C6EF86583">
+        <oc:name>Ceramic ID 35</oc:name>
+        <oc:id>34479318-D2EE-4241-4049-4E7C6EF86583</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Kenan Tepe: Area G / Trench 7 / Locus 13 / Finds Bag 1 (Sample)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2012-03-28</dc:date>
+    <dc:subject>Ubaid Period</dc:subject>
+    <dc:subject>Late Chalcolithic Period</dc:subject>
+    <dc:subject>Anatolia</dc:subject>
+    <dc:subject>Northern Mesopotamia</dc:subject>
+    <dc:subject>Middle Bronze Age</dc:subject>
+    <dc:subject>Early Iron Age</dc:subject>
+    <dc:subject>Tigris River</dc:subject>
+    <dc:subject>Archaeology</dc:subject>
+    <dc:contributor href="http://opencontext.org/persons/48708E75-BD2B-43D2-348D-E4D9E5A68400">Barış Uzel</dc:contributor>
+    <dc:creator href="http://opencontext.org/persons/21_DT_Person">Bradley Parker</dc:creator>
+    <dc:creator href="http://opencontext.org/persons/3BDBEC0E-8D0F-484F-DBD9-985F3D0915F6">Peter Cobb</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/2DCA22DE-D219-4DE5-5325-8848144549BB</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/3DE4CD9C-259E-4C14-9B03-8B10454BA66E">Kenan Tepe</oc:project_name>
+    <oc:pub_date>2012-03-28T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Kenan+Tepe%3A+Area+G+%2F+Trench+7+%2F+Locus+13+%2F+Finds+Bag+1+%28Sample%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Ubaid+Period&amp;rft.subject=Late+Chalcolithic+Period&amp;rft.subject=Anatolia&amp;rft.subject=Northern+Mesopotamia&amp;rft.subject=Middle+Bronze+Age&amp;rft.subject=Early+Iron+Age&amp;rft.subject=Tigris+River&amp;rft.subject=Archaeology&amp;rft.contributor=Bar%C4%B1%C5%9F+Uzel&amp;rft.creator=Bradley+Parker&amp;rft.creator=Peter+Cobb&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F2DCA22DE-D219-4DE5-5325-8848144549BB</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>37.831196</oc:geo_lat>
+      <oc:geo_long>40.813913</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/577C7A45-CD4A-425F-1633-2A324209C0B5">
+        <oc:source_name>Trench 7</oc:source_name>
+        <oc:source_id>577C7A45-CD4A-425F-1633-2A324209C0B5</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2012-06-30T05:38:03-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2012/06/30 05:38:03</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(3,300 BCE - 2,900 BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-3300</oc:time_start>
+          <oc:time_finish>-2900</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/A93C4D22-37B7-4EB2-2610-7D4F059134BD">
+            <oc:source_name>Locus 13</oc:source_name>
+            <oc:source_id>A93C4D22-37B7-4EB2-2610-7D4F059134BD</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2012-06-23T17:16:02-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

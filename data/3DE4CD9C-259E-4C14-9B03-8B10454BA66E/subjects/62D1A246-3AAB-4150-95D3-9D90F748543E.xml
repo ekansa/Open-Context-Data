@@ -10,22 +10,22 @@
   <arch:observations>
     <arch:observation obsNumber="1">
       <oc:obs_metadata>
-        <oc:source>elev fix</oc:source>
+        <oc:source>z_1_f1171314d_2</oc:source>
       </oc:obs_metadata>
       <arch:properties>
-        <arch:property>
-          <arch:variableID>9ED499E4-5B88-4BA4-7BE2-647A027C12D0</arch:variableID>
-          <arch:valueID>11783E6B-24DB-45FC-F488-F08E14E12EEE</arch:valueID>
-          <oc:propid href="http://opencontext.org/properties/C3C7770A-919E-4A25-EEAB-D326CFC7AB99">C3C7770A-919E-4A25-EEAB-D326CFC7AB99</oc:propid>
-          <oc:var_label type="calendric">Date</oc:var_label>
-          <oc:show_val>2001-07-26</oc:show_val>
-        </arch:property>
         <arch:property>
           <arch:variableID>7DD2B84F-9000-4DD7-B476-29ABD219BC43</arch:variableID>
           <arch:valueID>54163C5F-2616-490E-9A15-57DC5CA14D4F</arch:valueID>
           <oc:propid href="http://opencontext.org/properties/D018982F-BFE6-4CD8-968B-7575E0B9A3CE">D018982F-BFE6-4CD8-968B-7575E0B9A3CE</oc:propid>
           <oc:var_label type="nominal">Material</oc:var_label>
           <oc:show_val>Ceramic</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9ED499E4-5B88-4BA4-7BE2-647A027C12D0</arch:variableID>
+          <arch:valueID>11783E6B-24DB-45FC-F488-F08E14E12EEE</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/C3C7770A-919E-4A25-EEAB-D326CFC7AB99">C3C7770A-919E-4A25-EEAB-D326CFC7AB99</oc:propid>
+          <oc:var_label type="calendric">Date</oc:var_label>
+          <oc:show_val>2001-07-26</oc:show_val>
         </arch:property>
         <arch:property>
           <arch:variableID>67407D29-C22D-48C2-7B8B-1E7E93DA3293</arch:variableID>
@@ -50,10 +50,10 @@
         </arch:property>
         <arch:property>
           <arch:variableID>AD275043-DA14-4FCC-AD50-295468CB771F</arch:variableID>
-          <arch:valueID>90D7A33E-28C2-47D0-34F8-B694D207B2A9</arch:valueID>
-          <oc:propid href="http://opencontext.org/properties/081702E3-2F95-426A-5DEC-EE989AC8603D">081702E3-2F95-426A-5DEC-EE989AC8603D</oc:propid>
+          <arch:valueID>E2EE637C-5366-46F1-A60A-FA618BDF59DF</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/950D3C37-E488-4C9C-3DE1-9C6B67459154">950D3C37-E488-4C9C-3DE1-9C6B67459154</oc:propid>
           <oc:var_label type="nominal">Ceramic Analyst</oc:var_label>
-          <oc:show_val>Lynn Swartz Dodd, Bradley Parker</oc:show_val>
+          <oc:show_val>Lynn Swartz Dodd, Bradley Parker, Andy Creekmore</oc:show_val>
         </arch:property>
         <arch:property>
           <arch:variableID>8FCB621F-4414-4E1A-FF5F-5AE534959361</arch:variableID>
@@ -95,7 +95,7 @@
           <arch:valueID>0A5020F0-D395-4A69-8DB2-B079C418A6C3</arch:valueID>
           <oc:propid href="http://opencontext.org/properties/05F1C046-A608-4890-C389-72D67B8CD938">05F1C046-A608-4890-C389-72D67B8CD938</oc:propid>
           <oc:var_label type="alphanumeric">Remarks</oc:var_label>
-          <oc:show_val>looks mixed EB-Chalco possibilities</oc:show_val>
+          <oc:show_val>looks mixed EB-Chalco possibilities. Read again by Andrew Creekmore on 6/29/2003: 6 diagnostics, total weight: 0.97kg, 25 non-diagnostics</oc:show_val>
         </arch:property>
         <arch:property>
           <arch:variableID>F4177018-3916-415F-117A-3BDC23F6871E</arch:variableID>
@@ -106,19 +106,19 @@
         </arch:property>
       </arch:properties>
       <arch:links>
-        <arch:docID type="person" info="Director">4499C94B-8EB5-4E30-07CC-DD3A98561FB6</arch:docID>
         <arch:docID type="person" info="Recorded by">18218BEF-3C7A-4BAB-4D9E-58C2670489FB</arch:docID>
+        <arch:docID type="person" info="Director">4499C94B-8EB5-4E30-07CC-DD3A98561FB6</arch:docID>
         <arch:docID type="person" info="Area supervisor">9C80BF6B-7BDE-4295-E7D9-695845A44846</arch:docID>
         <oc:person_links>
-          <oc:link href="http://opencontext.org/persons/4499C94B-8EB5-4E30-07CC-DD3A98561FB6" cite="creator">
-            <oc:name>Bradley J. Parker</oc:name>
-            <oc:id>4499C94B-8EB5-4E30-07CC-DD3A98561FB6</oc:id>
-            <oc:relation>Director</oc:relation>
-          </oc:link>
           <oc:link href="http://opencontext.org/persons/18218BEF-3C7A-4BAB-4D9E-58C2670489FB" cite="contributor">
             <oc:name>Marco Baldi</oc:name>
             <oc:id>18218BEF-3C7A-4BAB-4D9E-58C2670489FB</oc:id>
             <oc:relation>Recorded by</oc:relation>
+          </oc:link>
+          <oc:link href="http://opencontext.org/persons/4499C94B-8EB5-4E30-07CC-DD3A98561FB6" cite="creator">
+            <oc:name>Bradley J. Parker</oc:name>
+            <oc:id>4499C94B-8EB5-4E30-07CC-DD3A98561FB6</oc:id>
+            <oc:relation>Director</oc:relation>
           </oc:link>
           <oc:link href="http://opencontext.org/persons/9C80BF6B-7BDE-4295-E7D9-695845A44846" cite="contributor">
             <oc:name>Andrew Creekmore</oc:name>
@@ -186,7 +186,7 @@
   <oc:metadata>
     <dc:title>Kenan Tepe: Area F / Trench 8 / Locus 8001 / Finds Bag 8026 (Sample)</dc:title>
     <dc:publisher>Open Context</dc:publisher>
-    <dc:date>2012-02-28</dc:date>
+    <dc:date>2012-03-28</dc:date>
     <dc:subject>Ubaid Period</dc:subject>
     <dc:subject>Late Chalcolithic Period</dc:subject>
     <dc:subject>Anatolia</dc:subject>
@@ -201,7 +201,7 @@
     <dc:creator href="http://opencontext.org/persons/3BDBEC0E-8D0F-484F-DBD9-985F3D0915F6">Peter Cobb</dc:creator>
     <dc:identifier>http://opencontext.org/subjects/62D1A246-3AAB-4150-95D3-9D90F748543E</dc:identifier>
     <oc:project_name href="http://opencontext.org/projects/3DE4CD9C-259E-4C14-9B03-8B10454BA66E">Kenan Tepe</oc:project_name>
-    <oc:pub_date>2012-02-28T00:00:00-07:00</oc:pub_date>
+    <oc:pub_date>2012-03-28T00:00:00-07:00</oc:pub_date>
     <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Kenan+Tepe%3A+Area+F+%2F+Trench+8+%2F+Locus+8001+%2F+Finds+Bag+8026+%28Sample%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Ubaid+Period&amp;rft.subject=Late+Chalcolithic+Period&amp;rft.subject=Anatolia&amp;rft.subject=Northern+Mesopotamia&amp;rft.subject=Middle+Bronze+Age&amp;rft.subject=Early+Iron+Age&amp;rft.subject=Tigris+River&amp;rft.subject=Archaeology&amp;rft.contributor=Marco+Baldi&amp;rft.contributor=Andrew+Creekmore&amp;rft.creator=Bradley+Parker&amp;rft.creator=Peter+Cobb&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F62D1A246-3AAB-4150-95D3-9D90F748543E</oc:coins>
     <oc:geo_reference>
       <oc:geo_lat>37.831447</oc:geo_lat>
@@ -219,10 +219,10 @@
     </oc:copyright_lic>
   </oc:metadata>
   <oc:social_usage>
-    <oc:last_updated>2012-03-19T06:45:25-07:00</oc:last_updated>
+    <oc:last_updated>2012-06-30T05:01:23-07:00</oc:last_updated>
     <oc:item_views>
       <oc:count>1</oc:count>
-      <oc:view_time>2012/03/19 06:45:25</oc:view_time>
+      <oc:view_time>2012/06/30 05:01:23</oc:view_time>
     </oc:item_views>
     <oc:user_tags>
       <oc:tag type="chronological" status="public">
