@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="0F62ECFF-E294-45E6-7F11-B64F2FA38CB4" ownedBy="DF043419-F23B-41DA-7E4D-EE52AF22F92F">
+  <arch:name>
+    <arch:string>PC 19760115</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Arch. Element</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/arch_element_petra_40x40.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_4_fb59791b9</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>A70236CA-1599-42F5-4A12-ACEC8C423850</arch:variableID>
+          <arch:valueID>44C4CDF0-0583-4890-B534-CD6B3C5D2B40</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/D6B9D3DF-A094-465C-81CB-6D8EC770CB77">D6B9D3DF-A094-465C-81CB-6D8EC770CB77</oc:propid>
+          <oc:var_label type="nominal">Fabric Category</oc:var_label>
+          <oc:show_val>Terracotta</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="A70236CA-1599-42F5-4A12-ACEC8C423850" href="http://www.cidoc-crm.org/rdfs/cidoc-crm#P45F.consists_of">
+              <oc:vocabulary href="http://www.cidoc-crm.org/">CIDOC-CRM</oc:vocabulary>
+              <oc:label>Consists of</oc:label>
+              <oc:targetLink localType="property" localID="D6B9D3DF-A094-465C-81CB-6D8EC770CB77" localURI="http://opencontext.org/properties/D6B9D3DF-A094-465C-81CB-6D8EC770CB77" href="http://en.wikipedia.org/wiki/Terracotta">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+                <oc:label>Terracotta</oc:label>
+              </oc:targetLink>
+              <oc:targetLink localType="property" localID="D6B9D3DF-A094-465C-81CB-6D8EC770CB77" localURI="http://opencontext.org/properties/D6B9D3DF-A094-465C-81CB-6D8EC770CB77" href="http://collection.britishmuseum.org/id/thesauri/x11836">
+                <oc:vocabulary href="http://collection.britishmuseum.org/">British Museum Thesaurus</oc:vocabulary>
+                <oc:label>terracotta</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7DB79382-7432-42A4-FBC5-EF760691905A</arch:variableID>
+          <arch:valueID>225496B4-B5FB-44EF-ED50-D311C2E49FB3</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/CA31203D-CA57-4873-6CC4-AB615306167E">CA31203D-CA57-4873-6CC4-AB615306167E</oc:propid>
+          <oc:var_label type="nominal">Object Type</oc:var_label>
+          <oc:show_val>Architectural::Cover Tile</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="7DB79382-7432-42A4-FBC5-EF760691905A" href="http://www.cidoc-crm.org/rdfs/cidoc-crm#P2.has_type">
+              <oc:vocabulary href="http://www.cidoc-crm.org/">CIDOC-CRM</oc:vocabulary>
+              <oc:label>Has type</oc:label>
+              <oc:targetLink localType="property" localID="CA31203D-CA57-4873-6CC4-AB615306167E" localURI="http://opencontext.org/properties/CA31203D-CA57-4873-6CC4-AB615306167E" href="http://collection.britishmuseum.org/id/thesauri/x8802">
+                <oc:vocabulary href="http://collection.britishmuseum.org/">British Museum Thesaurus</oc:vocabulary>
+                <oc:label>roof-tile</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F07C30BC-6C71-4C97-7893-D61FF6D0B59B</arch:variableID>
+          <arch:valueID>AD6649BF-F94A-43C8-26AC-F44E3CD82454</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/7FB8B129-5B01-4712-DCA2-C33DCB5F4C88">7FB8B129-5B01-4712-DCA2-C33DCB5F4C88</oc:propid>
+          <oc:var_label type="nominal">Decorative Technique</oc:var_label>
+          <oc:show_val>Incised</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>A68FD94C-7DAA-48A6-7142-049367FC55BA</arch:variableID>
+          <arch:valueID>207B9241-CBC3-4E0E-C58D-8204A2814C78</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/33433424-825F-4247-B18A-9E71999CC42C">33433424-825F-4247-B18A-9E71999CC42C</oc:propid>
+          <oc:var_label type="nominal">Fragment Noted</oc:var_label>
+          <oc:show_val>true</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>CCF5C80C-6973-4989-8083-0A21B9BE94EC</arch:variableID>
+          <arch:valueID>49A89DAE-3C9B-4EC6-3882-DCA50660C89E</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/E8FEF2EB-ECAE-4C64-B426-01AA0B24980F">E8FEF2EB-ECAE-4C64-B426-01AA0B24980F</oc:propid>
+          <oc:var_label type="alphanumeric">Object Type (notes)</oc:var_label>
+          <oc:show_val>Fragmentary Cover Tile</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B6D48580-AF49-409C-1172-E27CBA31F235</arch:variableID>
+          <arch:valueID>C54E53B7-29FD-4A33-9919-E2C00224CD46</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/49546264-C739-43F7-6BDC-F39EF0A7CCD1">49546264-C739-43F7-6BDC-F39EF0A7CCD1</oc:propid>
+          <oc:var_label type="alphanumeric">Size</oc:var_label>
+          <oc:show_val>Max. Pres. Length 0.276 m, Pres. Interior Width (edge to edge) 0.139 m, Mean Pres. Thickness of Edge 0.014 m</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>4909306F-3102-47A2-66A3-561C296147BB</arch:variableID>
+          <arch:valueID>8CFBF813-86AC-4CAF-B84F-FE610FAFE545</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/EEECDC03-242F-4C76-58B5-7C1B6451CDBD">EEECDC03-242F-4C76-58B5-7C1B6451CDBD</oc:propid>
+          <oc:var_label type="alphanumeric">Condition</oc:var_label>
+          <oc:show_val>Fragmentary, restored from two fragments. One longitudinal edge is preserved for ca. 0.180 m, the other for ca. 0.015 m. Complete curvature and one end also preserved.</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7DBB5CB7-599F-42D5-61EE-1955CF898990</arch:variableID>
+          <arch:valueID>859B54B4-39FA-4DE8-2A6B-7AB72FFF5635</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/5968274B-5D90-4119-CEC7-EDDE68A190AD">5968274B-5D90-4119-CEC7-EDDE68A190AD</oc:propid>
+          <oc:var_label type="alphanumeric">Description</oc:var_label>
+          <oc:show_val>Cover tile with complete curvature but not complete length preserved. At the apex of the tile on the broken end are two almost parallel incisions, one ca. 0.044 m long; the other is interrupted by the broken edge.</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>45FA26B5-DB61-48C0-551F-418F22F817B9</arch:variableID>
+          <arch:valueID>85D37062-7828-4583-A9DC-0A2FE4E503C5</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/46FD8434-E286-485F-369D-11A593383AED">46FD8434-E286-485F-369D-11A593383AED</oc:propid>
+          <oc:var_label type="alphanumeric">Fabric Description</oc:var_label>
+          <oc:show_val>Terracotta, fired orange-brown to gray. Slightly encrusted.</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="resource" info="link">B5718726-2FB6-4AF3-156B-972D613733D6</arch:docID>
+        <arch:docID type="resource" info="link">5B098D1B-008D-41E3-14FA-7FA6ABF8FC97</arch:docID>
+        <arch:docID type="person" info="Director">61D87033-881E-48B9-FF27-27337BBCDAA0</arch:docID>
+        <oc:media_links>
+          <oc:link href="http://opencontext.org/media/B5718726-2FB6-4AF3-156B-972D613733D6">
+            <oc:name>19760115-b.jpg</oc:name>
+            <oc:id>B5718726-2FB6-4AF3-156B-972D613733D6</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/poggio-civitate/thumbs/19760115-b.jpg</oc:thumbnailURI>
+          </oc:link>
+          <oc:link href="http://opencontext.org/media/5B098D1B-008D-41E3-14FA-7FA6ABF8FC97">
+            <oc:name>19760115.jpg</oc:name>
+            <oc:id>5B098D1B-008D-41E3-14FA-7FA6ABF8FC97</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/poggio-civitate/thumbs/19760115.jpg</oc:thumbnailURI>
+          </oc:link>
+        </oc:media_links>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/61D87033-881E-48B9-FF27-27337BBCDAA0" cite="creator">
+            <oc:name>Anthony Tuck</oc:name>
+            <oc:id>61D87033-881E-48B9-FF27-27337BBCDAA0</oc:id>
+            <oc:relation>Director</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <p id="link-PC1976011500">The Poggio Civitate Excavation Project website originally included this object at this address: <br/>
+<a href="http://poggiocivitate.classics.umass.edu/catalog/viewartifactcatalog.asp?fid=PC1976011500">http://poggiocivitate.classics.umass.edu/catalog/viewartifactcatalog.asp?fid=PC1976011500</a>
+</p>
+            </div>
+          </arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/B66A08F2-5D96-4DD4-1AB1-32880C9A8D9D">
+        <oc:name>Italy</oc:name>
+        <oc:id>B66A08F2-5D96-4DD4-1AB1-32880C9A8D9D</oc:id>
+        <oc:level>5</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/871B9EF8-BC68-4190-5F8A-00882C0040A4">
+        <oc:name>Poggio Civitate</oc:name>
+        <oc:id>871B9EF8-BC68-4190-5F8A-00882C0040A4</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/2DC060A8-B244-4FF0-E11E-716960D9A38F">
+        <oc:name>Tesoro Rectangle</oc:name>
+        <oc:id>2DC060A8-B244-4FF0-E11E-716960D9A38F</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Area</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/07A9F589-86A0-4297-95D1-E6565C93BA14">
+        <oc:name>Tesoro Rectangle12</oc:name>
+        <oc:id>07A9F589-86A0-4297-95D1-E6565C93BA14</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/B07D574D-336E-4FC5-B9BE-59136145193D">
+        <oc:name>Tr-ID 292</oc:name>
+        <oc:id>B07D574D-336E-4FC5-B9BE-59136145193D</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Murlo: PC 19760115 (Arch. Element)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2012-12-29</dc:date>
+    <dc:subject>Iron Age</dc:subject>
+    <dc:subject>Etruscan</dc:subject>
+    <dc:subject>Settlement</dc:subject>
+    <dc:subject>Archaeology</dc:subject>
+    <dc:subject>Architecture</dc:subject>
+    <dc:subject>Economy</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/61D87033-881E-48B9-FF27-27337BBCDAA0">Anthony Tuck</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/0F62ECFF-E294-45E6-7F11-B64F2FA38CB4</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F">Murlo</oc:project_name>
+    <oc:pub_date>2012-12-29T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Murlo%3A+PC+19760115+%28Arch.+Element%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Iron+Age&amp;rft.subject=Etruscan&amp;rft.subject=Settlement&amp;rft.subject=Archaeology&amp;rft.subject=Architecture&amp;rft.subject=Economy&amp;rft.creator=Anthony+Tuck&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F0F62ECFF-E294-45E6-7F11-B64F2FA38CB4</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>43.155830002</oc:geo_lat>
+      <oc:geo_long>11.399422836</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/B07D574D-336E-4FC5-B9BE-59136145193D">
+        <oc:source_name>Tr-ID 292</oc:source_name>
+        <oc:source_id>B07D574D-336E-4FC5-B9BE-59136145193D</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2012-12-30T16:44:52-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2012/12/30 16:44:52</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(700 BCE - 535 BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-700</oc:time_start>
+          <oc:time_finish>-535</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/871B9EF8-BC68-4190-5F8A-00882C0040A4">
+            <oc:source_name>Poggio Civitate</oc:source_name>
+            <oc:source_id>871B9EF8-BC68-4190-5F8A-00882C0040A4</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2012-12-29T17:04:29-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

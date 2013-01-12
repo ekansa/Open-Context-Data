@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="C521D66D-FC99-4B1B-4706-FFD9BEB8EFD6" ownedBy="DF043419-F23B-41DA-7E4D-EE52AF22F92F">
+  <arch:name>
+    <arch:string>Bone PC-00567</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Animal Bone</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_4_aa1c977a0</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>B77D1B9C-BFC6-4C7C-E8EE-D8606BB6CF36</arch:variableID>
+          <arch:valueID>ADFB2ED8-9402-4CAC-7281-B1862C8EEDE7</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/D3D2B087-1B2C-49E0-C7D5-1F238FC44145">D3D2B087-1B2C-49E0-C7D5-1F238FC44145</oc:propid>
+          <oc:var_label type="nominal">Taxon</oc:var_label>
+          <oc:show_val>Cervus elaphus</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="B77D1B9C-BFC6-4C7C-E8EE-D8606BB6CF36" href="http://purl.org/NET/biol/ns#term_hasTaxonomy">
+              <oc:vocabulary href="http://purl.org/NET/biol/ns#">Biological Taxonomy Vocabulary</oc:vocabulary>
+              <oc:label>Has Biological Taxonomy</oc:label>
+              <oc:targetLink localType="property" localID="D3D2B087-1B2C-49E0-C7D5-1F238FC44145" localURI="http://opencontext.org/properties/D3D2B087-1B2C-49E0-C7D5-1F238FC44145" href="http://eol.org/pages/328649">
+                <oc:vocabulary href="http://eol.org/">Encyclopedia of Life</oc:vocabulary>
+                <oc:label>Cervus elaphus Linnaeus, 1758</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DEF09F7E-4E1E-4353-AA12-BFA184B44B83</arch:variableID>
+          <arch:valueID>5FE077B8-E0EC-4711-4BA7-983B15C2B3BA</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/DE994947-B13B-4EEB-4074-9DC041905E3C">DE994947-B13B-4EEB-4074-9DC041905E3C</oc:propid>
+          <oc:var_label type="nominal">Element</oc:var_label>
+          <oc:show_val>Phalanx 2</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="DEF09F7E-4E1E-4353-AA12-BFA184B44B83" href="http://opencontext.org/vocabularies/open-context-zooarch/hasAnatomicID">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              <oc:label>Has anatomical identification</oc:label>
+              <oc:targetLink localType="property" localID="DE994947-B13B-4EEB-4074-9DC041905E3C" localURI="http://opencontext.org/properties/DE994947-B13B-4EEB-4074-9DC041905E3C" href="http://purl.obolibrary.org/obo/UBERON_0004301">
+                <oc:vocabulary href="http://uberon.org">UBERON (Uber Anatomy Ontology)</oc:vocabulary>
+                <oc:label>middle phalanx</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>33ECEFC0-6287-460D-D42D-3295C965D448</arch:variableID>
+          <arch:valueID>B41097CF-3796-4CF6-7240-F8C555C60E92</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/85E9F7E8-6A84-46F3-BB5F-3BF8ED8FA00E">85E9F7E8-6A84-46F3-BB5F-3BF8ED8FA00E</oc:propid>
+          <oc:var_label type="alphanumeric">Trench # (from Bag)</oc:var_label>
+          <oc:show_val>SF-4</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>1B298CC6-738D-41C0-BE49-2F5B5A8F40ED</arch:variableID>
+          <oc:propid href="http://opencontext.org/properties/0DE7274D-C1EA-4A66-CC47-2DFF81AB8A7A">0DE7274D-C1EA-4A66-CC47-2DFF81AB8A7A</oc:propid>
+          <oc:var_label type="alphanumeric">Locus (from Bag)</oc:var_label>
+          <oc:show_val>15</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D6EB1294-E657-4A60-564D-B23BDE9EBC2F</arch:variableID>
+          <arch:valueID>FF864F5D-E8A4-4ED4-DA9B-6DEF6BA39C4A</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/D5028DBE-6F68-4D89-7E33-AD7D485733C0">D5028DBE-6F68-4D89-7E33-AD7D485733C0</oc:propid>
+          <oc:var_label type="nominal">Name (from Bag)</oc:var_label>
+          <oc:show_val>AMA / DBB 1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>4C505739-998C-4F54-F817-9184460A1451</arch:variableID>
+          <arch:decimal/>
+          <oc:propid href="http://opencontext.org/properties/D75FE88F-5299-41BC-68BE-07630B354397">D75FE88F-5299-41BC-68BE-07630B354397</oc:propid>
+          <oc:var_label type="decimal">Year Excavated</oc:var_label>
+          <oc:show_val>no year on tag</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>3407DF5E-0A0D-4C2E-4CB9-20A3322E105E</arch:variableID>
+          <arch:valueID>0F12C35E-CD75-4DC5-030E-35AD1D45BAF3</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/1684D84D-C713-48AE-EF0C-E4B839616584">1684D84D-C713-48AE-EF0C-E4B839616584</oc:propid>
+          <oc:var_label type="calendric">Date Sorted</oc:var_label>
+          <oc:show_val>2011-07-08</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>FB3D5C59-3F4B-46D7-ACB6-622D4B512787</arch:variableID>
+          <arch:valueID>0F12C35E-CD75-4DC5-030E-35AD1D45BAF3</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/61E2459B-3369-4EF9-C463-1D7F706A4605">61E2459B-3369-4EF9-C463-1D7F706A4605</oc:propid>
+          <oc:var_label type="calendric">Date Analyzed</oc:var_label>
+          <oc:show_val>2011-07-08</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9ED900BB-915F-4BB6-FE82-E8C059A7DE43</arch:variableID>
+          <arch:valueID>9E50E64D-7069-4B1D-B0C0-78BBE80DB814</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/B853C2C6-F86D-4AE3-D953-344AF99714E5">B853C2C6-F86D-4AE3-D953-344AF99714E5</oc:propid>
+          <oc:var_label type="nominal">Context</oc:var_label>
+          <oc:show_val>Tripartite Building</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D5BFAC7E-E8A4-4FB4-2DA4-7C32F286EFA0</arch:variableID>
+          <arch:integer href="http://www.freebase.com/view/en/counting_measure" name="counting measure" abrv="count">1</arch:integer>
+          <oc:propid href="http://opencontext.org/properties/7889BCAB-C557-46FC-E02E-6C0E8C9183D9">7889BCAB-C557-46FC-E02E-6C0E8C9183D9</oc:propid>
+          <oc:var_label type="integer">NISP</oc:var_label>
+          <oc:show_val>1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>410526F4-A6AF-45FB-A2A3-D82C5DC23CEF</arch:variableID>
+          <arch:valueID>58D57B0F-A1B5-4D9E-DB7D-79079F8E9538</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/C8A3A41B-9099-4319-935A-AE3E67E2D95A">C8A3A41B-9099-4319-935A-AE3E67E2D95A</oc:propid>
+          <oc:var_label type="nominal">Common Name</oc:var_label>
+          <oc:show_val>Red deer</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>31FA6BDD-D2E6-43B8-3D43-AA4050AF0DC8</arch:variableID>
+          <arch:valueID>90D3FB90-F532-4ECE-91C6-6BBE5FC60373</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/6023A210-ADCB-4A14-62EE-864E8F83930E">6023A210-ADCB-4A14-62EE-864E8F83930E</oc:propid>
+          <oc:var_label type="nominal">Skeletal Area</oc:var_label>
+          <oc:show_val>Feet</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>403BB536-87F9-4C78-8E11-DFD0BA01581A</arch:variableID>
+          <arch:valueID>15C94ADA-7BBA-494A-766E-11F32C010214</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/453D63E6-6D0E-4059-8D82-4F76CED71134">453D63E6-6D0E-4059-8D82-4F76CED71134</oc:propid>
+          <oc:var_label type="nominal">Part</oc:var_label>
+          <oc:show_val>Complete</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D415127D-47FA-4E27-95E7-D68271599867</arch:variableID>
+          <arch:valueID>15C94ADA-7BBA-494A-766E-11F32C010214</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/0549FA68-C9BB-4EA1-EF9A-0F55DD872627">0549FA68-C9BB-4EA1-EF9A-0F55DD872627</oc:propid>
+          <oc:var_label type="nominal">% Preserved</oc:var_label>
+          <oc:show_val>Complete</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B34E46B9-0453-450E-3EA8-BDCD2592E765</arch:variableID>
+          <arch:valueID>824C89E0-B70D-4D53-2B89-04E28B2D25E4</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/7FDB2234-2498-4E27-E9C9-ADB2EA840AD3">7FDB2234-2498-4E27-E9C9-ADB2EA840AD3</oc:propid>
+          <oc:var_label type="nominal">Proximal Fused?</oc:var_label>
+          <oc:show_val>fused</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>393CF4EC-67BC-4C06-A89E-B0C35D2AD1E1</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">43.9</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/2013705C-9F1C-4827-B2C4-F3679429D9D6">2013705C-9F1C-4827-B2C4-F3679429D9D6</oc:propid>
+          <oc:var_label type="decimal">GL</oc:var_label>
+          <oc:show_val>43.9</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>13E52FE3-4203-4B70-7FCB-EB88AB2FDA65</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">16.1</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/33C408C1-96B6-4280-AD8F-05D86C27C7D1">33C408C1-96B6-4280-AD8F-05D86C27C7D1</oc:propid>
+          <oc:var_label type="decimal">SD</oc:var_label>
+          <oc:show_val>16.1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7C428A77-A194-4110-31A6-CC6CBF51BCD1</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">22.5</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/FA8CC907-BC2B-4E80-75C8-D6BE8C6B288B">FA8CC907-BC2B-4E80-75C8-D6BE8C6B288B</oc:propid>
+          <oc:var_label type="decimal">Bp</oc:var_label>
+          <oc:show_val>22.5</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>1DCDFB95-88DC-47DC-3A1D-FD2B3311B852</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">17.6</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/17F5CBFA-15EC-49D1-910E-0448D4EE395F">17F5CBFA-15EC-49D1-910E-0448D4EE395F</oc:propid>
+          <oc:var_label type="decimal">Bd</oc:var_label>
+          <oc:show_val>17.6</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Principle Author / Analyst">C1F04FDD-A829-4A04-F6B4-670AD6C580B0</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/C1F04FDD-A829-4A04-F6B4-670AD6C580B0" cite="contributor">
+            <oc:name>Sarah Whitcher Kansa</oc:name>
+            <oc:id>C1F04FDD-A829-4A04-F6B4-670AD6C580B0</oc:id>
+            <oc:relation>Principle Author / Analyst</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/B66A08F2-5D96-4DD4-1AB1-32880C9A8D9D">
+        <oc:name>Italy</oc:name>
+        <oc:id>B66A08F2-5D96-4DD4-1AB1-32880C9A8D9D</oc:id>
+        <oc:level>5</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/871B9EF8-BC68-4190-5F8A-00882C0040A4">
+        <oc:name>Poggio Civitate</oc:name>
+        <oc:id>871B9EF8-BC68-4190-5F8A-00882C0040A4</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/CB158F2E-F95A-4BA7-3EE6-1F48D661072B">
+        <oc:name>Tesoro South Flank</oc:name>
+        <oc:id>CB158F2E-F95A-4BA7-3EE6-1F48D661072B</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Area</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/289943BE-1754-4AEF-00D8-C27E63863785">
+        <oc:name>Tesoro South Flank4</oc:name>
+        <oc:id>289943BE-1754-4AEF-00D8-C27E63863785</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/03C2F519-5258-4880-C762-42673862AD9E">
+        <oc:name>Tr-ID 602</oc:name>
+        <oc:id>03C2F519-5258-4880-C762-42673862AD9E</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Excav. Unit</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Murlo: Bone PC-00567 (Animal Bone)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2012-12-29</dc:date>
+    <dc:subject>Iron Age</dc:subject>
+    <dc:subject>Etruscan</dc:subject>
+    <dc:subject>Settlement</dc:subject>
+    <dc:subject>Archaeology</dc:subject>
+    <dc:subject>Architecture</dc:subject>
+    <dc:subject>Economy</dc:subject>
+    <dc:contributor href="http://opencontext.org/persons/C1F04FDD-A829-4A04-F6B4-670AD6C580B0">Sarah Whitcher Kansa</dc:contributor>
+    <dc:creator href="http://opencontext.org/persons/61D87033-881E-48B9-FF27-27337BBCDAA0">Anthony Tuck</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/C521D66D-FC99-4B1B-4706-FFD9BEB8EFD6</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F">Murlo</oc:project_name>
+    <oc:pub_date>2012-12-29T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Murlo%3A+Bone+PC-00567+%28Animal+Bone%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Iron+Age&amp;rft.subject=Etruscan&amp;rft.subject=Settlement&amp;rft.subject=Archaeology&amp;rft.subject=Architecture&amp;rft.subject=Economy&amp;rft.contributor=Sarah+Whitcher+Kansa&amp;rft.creator=Anthony+Tuck&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FC521D66D-FC99-4B1B-4706-FFD9BEB8EFD6</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>43.1558795926</oc:geo_lat>
+      <oc:geo_long>11.399031448</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/03C2F519-5258-4880-C762-42673862AD9E">
+        <oc:source_name>Tr-ID 602</oc:source_name>
+        <oc:source_id>03C2F519-5258-4880-C762-42673862AD9E</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2012-12-31T00:31:47-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2012/12/31 00:31:47</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(700 BCE - 535 BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-700</oc:time_start>
+          <oc:time_finish>-535</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/871B9EF8-BC68-4190-5F8A-00882C0040A4">
+            <oc:source_name>Poggio Civitate</oc:source_name>
+            <oc:source_id>871B9EF8-BC68-4190-5F8A-00882C0040A4</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2012-12-29T17:04:29-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

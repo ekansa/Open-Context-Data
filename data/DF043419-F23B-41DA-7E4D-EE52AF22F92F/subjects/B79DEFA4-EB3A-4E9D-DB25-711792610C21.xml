@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="B79DEFA4-EB3A-4E9D-DB25-711792610C21" ownedBy="DF043419-F23B-41DA-7E4D-EE52AF22F92F">
+  <arch:name>
+    <arch:string>Tr-ID 355</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Excav. Unit</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_4_cdcef102c</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>2C7FE888-C431-4FBD-39F4-38B7D969A811</arch:variableID>
+          <arch:decimal>1997</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/EE1048F4-4FAF-4422-70E4-51C9C7618472">EE1048F4-4FAF-4422-70E4-51C9C7618472</oc:propid>
+          <oc:var_label type="decimal">Year</oc:var_label>
+          <oc:show_val>1997</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>EEF8F6D6-3BFC-4521-99DF-CCCE89EF21E1</arch:variableID>
+          <arch:valueID>44C0F8E8-73C2-42D3-4240-CB54019286FF</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/A7E0F1FD-D458-4C9F-A0FA-33B92CE497CF">A7E0F1FD-D458-4C9F-A0FA-33B92CE497CF</oc:propid>
+          <oc:var_label type="nominal">Grid system</oc:var_label>
+          <oc:show_val>MG</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F4D89190-EF01-480C-4627-4A309A5EB5C6</arch:variableID>
+          <arch:valueID>CF2A5C15-135E-4131-4610-F439B904B08E</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/941310A3-B3D9-4E37-2105-FBD1E55D7289">941310A3-B3D9-4E37-2105-FBD1E55D7289</oc:propid>
+          <oc:var_label type="alphanumeric">Property owner</oc:var_label>
+          <oc:show_val>T</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Director">61D87033-881E-48B9-FF27-27337BBCDAA0</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/61D87033-881E-48B9-FF27-27337BBCDAA0" cite="creator">
+            <oc:name>Anthony Tuck</oc:name>
+            <oc:id>61D87033-881E-48B9-FF27-27337BBCDAA0</oc:id>
+            <oc:relation>Director</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <p>The original Poggio Civitate Excavation Project database sometimes recorded subdivisions of excavation trenches. Each subdivision was identified with a unique key ("Trench ID"), and this key was used to relate other content to excavation trenches, even though these relationships were not made visible on the Poggio Civitate Excavation website (<a href="http://poggiocivitate.classics.umass.edu/">http://poggiocivitate.classics.umass.edu/</a>). The Open Context publication of these data makes the Trench IDs visible in case they should be analytically useful.</p>
+            </div>
+          </arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/B66A08F2-5D96-4DD4-1AB1-32880C9A8D9D">
+        <oc:name>Italy</oc:name>
+        <oc:id>B66A08F2-5D96-4DD4-1AB1-32880C9A8D9D</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/871B9EF8-BC68-4190-5F8A-00882C0040A4">
+        <oc:name>Poggio Civitate</oc:name>
+        <oc:id>871B9EF8-BC68-4190-5F8A-00882C0040A4</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/CB158F2E-F95A-4BA7-3EE6-1F48D661072B">
+        <oc:name>Tesoro South Flank</oc:name>
+        <oc:id>CB158F2E-F95A-4BA7-3EE6-1F48D661072B</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Area</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/CF9D182A-ABD0-4CB0-1564-ACEF6E30DA65">
+        <oc:name>Tesoro South Flank0</oc:name>
+        <oc:id>CF9D182A-ABD0-4CB0-1564-ACEF6E30DA65</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/D10D3BBC-BA0B-4C6F-C316-80FF499C9F94">
+        <oc:name>PC 19970010</oc:name>
+        <oc:id>D10D3BBC-BA0B-4C6F-C316-80FF499C9F94</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Production Material::Worked Stone</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C37E1012-BBE6-4564-7AF3-C1C2FFFC83FD">
+        <oc:name>PC 19970076</oc:name>
+        <oc:id>C37E1012-BBE6-4564-7AF3-C1C2FFFC83FD</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Organic (ecofact)</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/721C05E9-8436-478B-5FD3-937B6021147E">
+        <oc:name>PC 19970099</oc:name>
+        <oc:id>721C05E9-8436-478B-5FD3-937B6021147E</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Unclassified / Debris / Misc.</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F4BA056C-39AB-4D44-27C5-B8EABB960055">
+        <oc:name>PC 19970103</oc:name>
+        <oc:id>F4BA056C-39AB-4D44-27C5-B8EABB960055</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Unclassified / Debris / Misc.</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1F390F07-EA5D-447F-5F02-5DEBB2F56510">
+        <oc:name>PC 19970109</oc:name>
+        <oc:id>1F390F07-EA5D-447F-5F02-5DEBB2F56510</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Unclassified / Debris / Misc.</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4E84B552-3FFF-4A9C-C24C-61EED82BC2B6">
+        <oc:name>PC 19970133</oc:name>
+        <oc:id>4E84B552-3FFF-4A9C-C24C-61EED82BC2B6</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Textile Related::Loom Weight</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5AA79E7D-AF31-4B5C-02CD-72354AA5E043">
+        <oc:name>PC 19970007</oc:name>
+        <oc:id>5AA79E7D-AF31-4B5C-02CD-72354AA5E043</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A1C4B231-4540-4F11-7B1B-D08915322E2B">
+        <oc:name>PC 19970055</oc:name>
+        <oc:id>A1C4B231-4540-4F11-7B1B-D08915322E2B</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/7745C043-FAE6-4442-DFAF-417D84B5E102">
+        <oc:name>PC 19970087</oc:name>
+        <oc:id>7745C043-FAE6-4442-DFAF-417D84B5E102</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/507EE4CB-4680-4C92-9AD9-9FEE57FF94E4">
+        <oc:name>PC 19970088</oc:name>
+        <oc:id>507EE4CB-4680-4C92-9AD9-9FEE57FF94E4</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/85A1384A-3585-4C0C-2A13-965E97131F74">
+        <oc:name>PC 19970101</oc:name>
+        <oc:id>85A1384A-3585-4C0C-2A13-965E97131F74</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/BE7B5A23-9893-43AD-1308-BD12BBFAB9E1">
+        <oc:name>PC 19970126</oc:name>
+        <oc:id>BE7B5A23-9893-43AD-1308-BD12BBFAB9E1</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3C33A62A-0A21-4C1B-B285-B9BB5AC83053">
+        <oc:name>PC 19970127</oc:name>
+        <oc:id>3C33A62A-0A21-4C1B-B285-B9BB5AC83053</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4E0A7261-530F-48E3-1C6A-40852B96B738">
+        <oc:name>PC 19970128</oc:name>
+        <oc:id>4E0A7261-530F-48E3-1C6A-40852B96B738</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/455AF246-A158-44B5-1218-EF082A2E274A">
+        <oc:name>PC 19970129</oc:name>
+        <oc:id>455AF246-A158-44B5-1218-EF082A2E274A</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F4E178D8-AC7E-4563-79DE-D3AE3D40A769">
+        <oc:name>PC 19970151</oc:name>
+        <oc:id>F4E178D8-AC7E-4563-79DE-D3AE3D40A769</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/41EE8F3F-0158-4150-AC77-C6B0F73C896F">
+        <oc:name>PC 19970153</oc:name>
+        <oc:id>41EE8F3F-0158-4150-AC77-C6B0F73C896F</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3772A782-1A92-4DA0-AAD7-73228450AA57">
+        <oc:name>PC 19970161</oc:name>
+        <oc:id>3772A782-1A92-4DA0-AAD7-73228450AA57</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/306C92EE-E05D-4ABC-BEEA-890F8E5C5110">
+        <oc:name>PC 19970162</oc:name>
+        <oc:id>306C92EE-E05D-4ABC-BEEA-890F8E5C5110</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/40D02A97-0AE8-4F6C-5DC2-229B4E943397">
+        <oc:name>PC 19970166</oc:name>
+        <oc:id>40D02A97-0AE8-4F6C-5DC2-229B4E943397</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4848AB1C-4DCC-42CA-293E-5A9C327597C1">
+        <oc:name>PC 19970177</oc:name>
+        <oc:id>4848AB1C-4DCC-42CA-293E-5A9C327597C1</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/571B2A45-43DF-4157-821B-05DD1BA33474">
+        <oc:name>PC 19970178</oc:name>
+        <oc:id>571B2A45-43DF-4157-821B-05DD1BA33474</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4FE0004F-4C7E-4935-5BB3-1EBFC31A8E07">
+        <oc:name>PC 19970179</oc:name>
+        <oc:id>4FE0004F-4C7E-4935-5BB3-1EBFC31A8E07</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/14318F4C-133B-4193-9A60-8E81A8C4D017">
+        <oc:name>PC 19970180</oc:name>
+        <oc:id>14318F4C-133B-4193-9A60-8E81A8C4D017</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B0ED346C-D75D-4948-2278-F842A7E4F650">
+        <oc:name>PC 19970181</oc:name>
+        <oc:id>B0ED346C-D75D-4948-2278-F842A7E4F650</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/455FF6D9-DE9F-4CDA-C6FD-FCABDDD4A541">
+        <oc:name>PC 19970183</oc:name>
+        <oc:id>455FF6D9-DE9F-4CDA-C6FD-FCABDDD4A541</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Bowl</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1619B5F1-55F3-4A02-382D-3CE76C19BCAC">
+        <oc:name>PC 19970187</oc:name>
+        <oc:id>1619B5F1-55F3-4A02-382D-3CE76C19BCAC</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C03AC1EE-0300-4E6A-76A5-AEF4D00E4E8C">
+        <oc:name>PC 19970036</oc:name>
+        <oc:id>C03AC1EE-0300-4E6A-76A5-AEF4D00E4E8C</oc:id>
+        <oc:item_class>
+          <oc:name>Arch. Element</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/arch_element_petra_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Architectural::Tile (not specified)</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/7146010C-65BB-409E-ADA0-68FED0323FBC">
+        <oc:name>PC 19970037</oc:name>
+        <oc:id>7146010C-65BB-409E-ADA0-68FED0323FBC</oc:id>
+        <oc:item_class>
+          <oc:name>Arch. Element</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/arch_element_petra_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Architectural::Akroterion</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/AFF2D82C-3EF2-4746-DCE5-134C55E762E5">
+        <oc:name>PC 19970063</oc:name>
+        <oc:id>AFF2D82C-3EF2-4746-DCE5-134C55E762E5</oc:id>
+        <oc:item_class>
+          <oc:name>Arch. Element</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/arch_element_petra_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Architectural::Pan Tile</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F06551E3-0E9F-43CC-E4C0-E7B84F57C246">
+        <oc:name>PC 19970064</oc:name>
+        <oc:id>F06551E3-0E9F-43CC-E4C0-E7B84F57C246</oc:id>
+        <oc:item_class>
+          <oc:name>Arch. Element</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/arch_element_petra_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Architectural::Cover Tile</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/CFEF967A-F3D4-43D9-01BC-0C2B6E4FFD20">
+        <oc:name>PC 19970095</oc:name>
+        <oc:id>CFEF967A-F3D4-43D9-01BC-0C2B6E4FFD20</oc:id>
+        <oc:item_class>
+          <oc:name>Arch. Element</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/arch_element_petra_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Architectural::Tile (not specified)</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/63D62D1C-5136-4351-81D6-381CC2EA291F">
+        <oc:name>PC 19970176</oc:name>
+        <oc:id>63D62D1C-5136-4351-81D6-381CC2EA291F</oc:id>
+        <oc:item_class>
+          <oc:name>Arch. Element</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/arch_element_petra_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Architectural::Pan Tile</oc:descriptor>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Murlo: Tr-ID 355 (Excav. Unit)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2012-12-29</dc:date>
+    <dc:subject>Iron Age</dc:subject>
+    <dc:subject>Etruscan</dc:subject>
+    <dc:subject>Settlement</dc:subject>
+    <dc:subject>Archaeology</dc:subject>
+    <dc:subject>Architecture</dc:subject>
+    <dc:subject>Economy</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/61D87033-881E-48B9-FF27-27337BBCDAA0">Anthony Tuck</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/B79DEFA4-EB3A-4E9D-DB25-711792610C21</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F">Murlo</oc:project_name>
+    <oc:pub_date>2012-12-29T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Murlo%3A+Tr-ID+355+%28Excav.+Unit%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Iron+Age&amp;rft.subject=Etruscan&amp;rft.subject=Settlement&amp;rft.subject=Archaeology&amp;rft.subject=Architecture&amp;rft.subject=Economy&amp;rft.creator=Anthony+Tuck&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FB79DEFA4-EB3A-4E9D-DB25-711792610C21</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>43.1558704372</oc:geo_lat>
+      <oc:geo_long>11.3991374968</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/B79DEFA4-EB3A-4E9D-DB25-711792610C21">
+        <oc:source_name>Tr-ID 355</oc:source_name>
+        <oc:source_id>B79DEFA4-EB3A-4E9D-DB25-711792610C21</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2012-12-30T02:34:28-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2012/12/30 02:34:28</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(700 BCE - 535 BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-700</oc:time_start>
+          <oc:time_finish>-535</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/871B9EF8-BC68-4190-5F8A-00882C0040A4">
+            <oc:source_name>Poggio Civitate</oc:source_name>
+            <oc:source_id>871B9EF8-BC68-4190-5F8A-00882C0040A4</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2012-12-29T17:04:29-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

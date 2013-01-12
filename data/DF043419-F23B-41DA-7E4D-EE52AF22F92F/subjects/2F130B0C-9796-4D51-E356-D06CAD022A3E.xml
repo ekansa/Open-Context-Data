@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="2F130B0C-9796-4D51-E356-D06CAD022A3E" ownedBy="DF043419-F23B-41DA-7E4D-EE52AF22F92F">
+  <arch:name>
+    <arch:string>Civitate A</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Area</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_4_cdcef102c</oc:source>
+      </oc:obs_metadata>
+      <arch:links>
+        <arch:docID type="person" info="Director">61D87033-881E-48B9-FF27-27337BBCDAA0</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/61D87033-881E-48B9-FF27-27337BBCDAA0" cite="creator">
+            <oc:name>Anthony Tuck</oc:name>
+            <oc:id>61D87033-881E-48B9-FF27-27337BBCDAA0</oc:id>
+            <oc:relation>Director</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">An area is a two dimensional projection of a large, arbitrarily defined portion of the site. Area designations represent a convenient way of organizing and relating nearby excavation trenches.</div>
+          </arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/B66A08F2-5D96-4DD4-1AB1-32880C9A8D9D">
+        <oc:name>Italy</oc:name>
+        <oc:id>B66A08F2-5D96-4DD4-1AB1-32880C9A8D9D</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/871B9EF8-BC68-4190-5F8A-00882C0040A4">
+        <oc:name>Poggio Civitate</oc:name>
+        <oc:id>871B9EF8-BC68-4190-5F8A-00882C0040A4</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/3F7A3855-8112-477F-B450-A8D1B8B0F432">
+        <oc:name>A68</oc:name>
+        <oc:id>3F7A3855-8112-477F-B450-A8D1B8B0F432</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/7A144480-8E01-47CB-33F1-4EE42500E0F3">
+        <oc:name>CA61</oc:name>
+        <oc:id>7A144480-8E01-47CB-33F1-4EE42500E0F3</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1608BA8A-6245-4EE4-45B0-7489BD893E3E">
+        <oc:name>Civitate A 2D</oc:name>
+        <oc:id>1608BA8A-6245-4EE4-45B0-7489BD893E3E</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/21FB0F16-5EA7-49A6-6407-9C109F19D590">
+        <oc:name>Civitate A1</oc:name>
+        <oc:id>21FB0F16-5EA7-49A6-6407-9C109F19D590</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/33500BE7-8D11-402B-3243-A4F12C4401C4">
+        <oc:name>Civitate A10</oc:name>
+        <oc:id>33500BE7-8D11-402B-3243-A4F12C4401C4</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/31597B1E-FD8B-4474-5508-675DEE33AD8F">
+        <oc:name>Civitate A11</oc:name>
+        <oc:id>31597B1E-FD8B-4474-5508-675DEE33AD8F</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/7EB44BC0-3614-45EC-71CD-5EBC5EB01C26">
+        <oc:name>Civitate A12</oc:name>
+        <oc:id>7EB44BC0-3614-45EC-71CD-5EBC5EB01C26</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4D14CDAF-5E48-47A9-242F-A19071009B4C">
+        <oc:name>Civitate A13</oc:name>
+        <oc:id>4D14CDAF-5E48-47A9-242F-A19071009B4C</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F4E3FA9E-5271-4ED9-9D91-9AC450027AF1">
+        <oc:name>Civitate A14</oc:name>
+        <oc:id>F4E3FA9E-5271-4ED9-9D91-9AC450027AF1</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/EEA49493-7C7D-4B60-A20D-3C4467ACD4F9">
+        <oc:name>Civitate A15</oc:name>
+        <oc:id>EEA49493-7C7D-4B60-A20D-3C4467ACD4F9</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/AB6B5D8D-2554-4239-073A-BA6C5C51F1D6">
+        <oc:name>Civitate A16</oc:name>
+        <oc:id>AB6B5D8D-2554-4239-073A-BA6C5C51F1D6</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D5D4C57B-F376-41B0-1282-04A4A6F413BA">
+        <oc:name>Civitate A17</oc:name>
+        <oc:id>D5D4C57B-F376-41B0-1282-04A4A6F413BA</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/67145DF4-4B74-473E-FCBB-05D0281A5648">
+        <oc:name>Civitate A18</oc:name>
+        <oc:id>67145DF4-4B74-473E-FCBB-05D0281A5648</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B25C3C42-5A3B-4829-7035-410276DEEE51">
+        <oc:name>Civitate A19</oc:name>
+        <oc:id>B25C3C42-5A3B-4829-7035-410276DEEE51</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1C62135E-C1D0-4EEF-E640-30862635D42F">
+        <oc:name>Civitate A2</oc:name>
+        <oc:id>1C62135E-C1D0-4EEF-E640-30862635D42F</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/27C0E2D3-4776-4FB6-A0E3-106F5E94EDC3">
+        <oc:name>Civitate A20</oc:name>
+        <oc:id>27C0E2D3-4776-4FB6-A0E3-106F5E94EDC3</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/8AE34465-721F-46F1-CA73-DD2217B1E1E3">
+        <oc:name>Civitate A21</oc:name>
+        <oc:id>8AE34465-721F-46F1-CA73-DD2217B1E1E3</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/33A5B0CC-0D4F-4D7F-025E-9C2BA248403F">
+        <oc:name>Civitate A22</oc:name>
+        <oc:id>33A5B0CC-0D4F-4D7F-025E-9C2BA248403F</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/079E5C51-1348-4984-F0E0-0881D1F1F623">
+        <oc:name>Civitate A23</oc:name>
+        <oc:id>079E5C51-1348-4984-F0E0-0881D1F1F623</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/7F7545D4-F5D1-4AF6-CE89-EEB5C02F7419">
+        <oc:name>Civitate A24</oc:name>
+        <oc:id>7F7545D4-F5D1-4AF6-CE89-EEB5C02F7419</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/33BBED44-ABBB-4336-F5C9-0DE8DBFC215C">
+        <oc:name>Civitate A25</oc:name>
+        <oc:id>33BBED44-ABBB-4336-F5C9-0DE8DBFC215C</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/CD96B026-1EEE-492A-C7AF-576D5C7FD040">
+        <oc:name>Civitate A26</oc:name>
+        <oc:id>CD96B026-1EEE-492A-C7AF-576D5C7FD040</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/BBC4DC3D-54D3-47CE-34DE-15B8120DA93E">
+        <oc:name>Civitate A27</oc:name>
+        <oc:id>BBC4DC3D-54D3-47CE-34DE-15B8120DA93E</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E6C393F9-9543-431E-7AF9-3625E7C58884">
+        <oc:name>Civitate A28</oc:name>
+        <oc:id>E6C393F9-9543-431E-7AF9-3625E7C58884</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A3F262EB-52AE-46E1-CB1C-73BF33CDC0F2">
+        <oc:name>Civitate A29</oc:name>
+        <oc:id>A3F262EB-52AE-46E1-CB1C-73BF33CDC0F2</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/BE445D1C-6756-4B3B-4691-5D749A93F7FB">
+        <oc:name>Civitate A2A</oc:name>
+        <oc:id>BE445D1C-6756-4B3B-4691-5D749A93F7FB</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/16AAF69F-A83E-48CB-1E45-014B84DCEC0D">
+        <oc:name>Civitate A2B</oc:name>
+        <oc:id>16AAF69F-A83E-48CB-1E45-014B84DCEC0D</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/567C3D7C-64D1-4BE0-C3D2-715CC5BB9CBE">
+        <oc:name>Civitate A2C</oc:name>
+        <oc:id>567C3D7C-64D1-4BE0-C3D2-715CC5BB9CBE</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/7B2D173C-9F8D-4865-BB42-F81D1FBF77F1">
+        <oc:name>Civitate A2D</oc:name>
+        <oc:id>7B2D173C-9F8D-4865-BB42-F81D1FBF77F1</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A6D06E20-815E-4BDB-1D4F-164A33E9065A">
+        <oc:name>Civitate A2E</oc:name>
+        <oc:id>A6D06E20-815E-4BDB-1D4F-164A33E9065A</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B0CEA7FE-E8C0-4712-397A-31CB0C01F35B">
+        <oc:name>Civitate A2F</oc:name>
+        <oc:id>B0CEA7FE-E8C0-4712-397A-31CB0C01F35B</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F73B5A03-F6C1-4678-A78C-A9610B182459">
+        <oc:name>Civitate A2G</oc:name>
+        <oc:id>F73B5A03-F6C1-4678-A78C-A9610B182459</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/84EF9555-A65F-40F7-5E7F-F14B2C46194C">
+        <oc:name>Civitate A2H</oc:name>
+        <oc:id>84EF9555-A65F-40F7-5E7F-F14B2C46194C</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/70C79482-D139-48D9-679F-BC81251B4908">
+        <oc:name>Civitate A2I</oc:name>
+        <oc:id>70C79482-D139-48D9-679F-BC81251B4908</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/89536F2E-24E7-47C6-08B8-5D37953DA7A2">
+        <oc:name>Civitate A2J</oc:name>
+        <oc:id>89536F2E-24E7-47C6-08B8-5D37953DA7A2</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4229E876-C8F2-4B77-009E-C3E060979115">
+        <oc:name>Civitate A2K</oc:name>
+        <oc:id>4229E876-C8F2-4B77-009E-C3E060979115</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/9E89040F-9EC3-4606-2F27-168ACE569658">
+        <oc:name>Civitate A3</oc:name>
+        <oc:id>9E89040F-9EC3-4606-2F27-168ACE569658</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/BCC8CCB9-2CA7-494E-084A-80FFD21EEA24">
+        <oc:name>Civitate A30</oc:name>
+        <oc:id>BCC8CCB9-2CA7-494E-084A-80FFD21EEA24</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C59CB947-3FE5-4124-2D59-827996D8F15B">
+        <oc:name>Civitate A31</oc:name>
+        <oc:id>C59CB947-3FE5-4124-2D59-827996D8F15B</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/45925A7F-9792-4A40-380D-0239CDC36C12">
+        <oc:name>Civitate A32</oc:name>
+        <oc:id>45925A7F-9792-4A40-380D-0239CDC36C12</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/905A30A8-A71D-44DF-3181-437816B64864">
+        <oc:name>Civitate A33</oc:name>
+        <oc:id>905A30A8-A71D-44DF-3181-437816B64864</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/AA4D7F6E-007B-47DA-0E98-D0E1AFB31541">
+        <oc:name>Civitate A33Extension</oc:name>
+        <oc:id>AA4D7F6E-007B-47DA-0E98-D0E1AFB31541</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/8ADD385D-D716-41D1-E4D0-B11B4045C025">
+        <oc:name>Civitate A34</oc:name>
+        <oc:id>8ADD385D-D716-41D1-E4D0-B11B4045C025</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B8548ED4-08D3-4F98-6B11-CEB65FAA9DF9">
+        <oc:name>Civitate A35</oc:name>
+        <oc:id>B8548ED4-08D3-4F98-6B11-CEB65FAA9DF9</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C388D8DB-69CB-498E-6159-5DC0D6B33B44">
+        <oc:name>Civitate A36</oc:name>
+        <oc:id>C388D8DB-69CB-498E-6159-5DC0D6B33B44</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/0BCB4D5B-1824-4005-2DB0-7D4A8E82FF0D">
+        <oc:name>Civitate A37</oc:name>
+        <oc:id>0BCB4D5B-1824-4005-2DB0-7D4A8E82FF0D</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F9648E4B-E0D0-49BD-3F47-B137F9732FE2">
+        <oc:name>Civitate A38</oc:name>
+        <oc:id>F9648E4B-E0D0-49BD-3F47-B137F9732FE2</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/57C6798C-82E8-44E8-F416-AC3908378C56">
+        <oc:name>Civitate A39</oc:name>
+        <oc:id>57C6798C-82E8-44E8-F416-AC3908378C56</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3A1FD99F-CC70-4D27-A6BB-91F08FB29065">
+        <oc:name>Civitate A4</oc:name>
+        <oc:id>3A1FD99F-CC70-4D27-A6BB-91F08FB29065</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/BEC1D3E6-73D5-405B-68DB-4D83D7517786">
+        <oc:name>Civitate A40</oc:name>
+        <oc:id>BEC1D3E6-73D5-405B-68DB-4D83D7517786</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E9327A2B-215F-4878-26D5-DC2C1E817F93">
+        <oc:name>Civitate A41</oc:name>
+        <oc:id>E9327A2B-215F-4878-26D5-DC2C1E817F93</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E0BAB177-42EC-49E1-D4FC-25E7F2B3F31B">
+        <oc:name>Civitate A42</oc:name>
+        <oc:id>E0BAB177-42EC-49E1-D4FC-25E7F2B3F31B</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3F196667-D963-4853-A9BC-7B03DE307EEE">
+        <oc:name>Civitate A42N</oc:name>
+        <oc:id>3F196667-D963-4853-A9BC-7B03DE307EEE</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/EA9CA8C3-08E6-4CE0-4DCB-DEF7AD223E66">
+        <oc:name>Civitate A43</oc:name>
+        <oc:id>EA9CA8C3-08E6-4CE0-4DCB-DEF7AD223E66</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/646908E5-C30A-4D22-85D8-B2C4F56BE0FD">
+        <oc:name>Civitate A44</oc:name>
+        <oc:id>646908E5-C30A-4D22-85D8-B2C4F56BE0FD</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B8396EB0-68A9-45DF-25F6-323CA536C57D">
+        <oc:name>Civitate A45</oc:name>
+        <oc:id>B8396EB0-68A9-45DF-25F6-323CA536C57D</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A21B56A2-A2F2-49A7-67B6-EAEE2429D314">
+        <oc:name>Civitate A46</oc:name>
+        <oc:id>A21B56A2-A2F2-49A7-67B6-EAEE2429D314</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/AD86B33E-7D45-4072-55EC-1A7395165E11">
+        <oc:name>Civitate A47</oc:name>
+        <oc:id>AD86B33E-7D45-4072-55EC-1A7395165E11</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/7EF90575-3EEF-4237-1AF1-3F22FEA71256">
+        <oc:name>Civitate A48</oc:name>
+        <oc:id>7EF90575-3EEF-4237-1AF1-3F22FEA71256</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D9429D1B-DEC0-4173-0EB4-B295BD37B478">
+        <oc:name>Civitate A49</oc:name>
+        <oc:id>D9429D1B-DEC0-4173-0EB4-B295BD37B478</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/0CFE2AB9-1996-4F87-105E-D6750E178527">
+        <oc:name>Civitate A5</oc:name>
+        <oc:id>0CFE2AB9-1996-4F87-105E-D6750E178527</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/090349FC-D013-41A8-2A92-19463C2C38D4">
+        <oc:name>Civitate A50</oc:name>
+        <oc:id>090349FC-D013-41A8-2A92-19463C2C38D4</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F2ADA41D-4EFA-45D4-A063-4F84FAC29E7F">
+        <oc:name>Civitate A51</oc:name>
+        <oc:id>F2ADA41D-4EFA-45D4-A063-4F84FAC29E7F</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/7B0A7228-4F29-4788-BD9F-58BADDE30F94">
+        <oc:name>Civitate A52</oc:name>
+        <oc:id>7B0A7228-4F29-4788-BD9F-58BADDE30F94</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5BA78955-2817-48F9-D0C5-E3B2C438DFC7">
+        <oc:name>Civitate A54</oc:name>
+        <oc:id>5BA78955-2817-48F9-D0C5-E3B2C438DFC7</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1FCF8015-958F-4DCE-9059-B8987F244788">
+        <oc:name>Civitate A55</oc:name>
+        <oc:id>1FCF8015-958F-4DCE-9059-B8987F244788</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1A6CE9AA-746F-43B9-FE9A-EE35A97F8107">
+        <oc:name>Civitate A56</oc:name>
+        <oc:id>1A6CE9AA-746F-43B9-FE9A-EE35A97F8107</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/88B20D57-F929-4D0F-821C-02C841AB421E">
+        <oc:name>Civitate A57</oc:name>
+        <oc:id>88B20D57-F929-4D0F-821C-02C841AB421E</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C99AD294-9718-4E18-159C-1E84EFB3BA6B">
+        <oc:name>Civitate A58</oc:name>
+        <oc:id>C99AD294-9718-4E18-159C-1E84EFB3BA6B</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F0450F58-E95C-4D78-FC27-17D2CCD2A155">
+        <oc:name>Civitate A59</oc:name>
+        <oc:id>F0450F58-E95C-4D78-FC27-17D2CCD2A155</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/71A882A6-0542-4B1F-FDD5-6ED52194442B">
+        <oc:name>Civitate A6</oc:name>
+        <oc:id>71A882A6-0542-4B1F-FDD5-6ED52194442B</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A6B77EF6-3C0C-4216-582C-26089A814169">
+        <oc:name>Civitate A60</oc:name>
+        <oc:id>A6B77EF6-3C0C-4216-582C-26089A814169</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/0103A834-5679-4CFF-E1AD-A46076234DDF">
+        <oc:name>Civitate A62</oc:name>
+        <oc:id>0103A834-5679-4CFF-E1AD-A46076234DDF</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/DB64CB62-A495-4D35-96CB-335168C23B2E">
+        <oc:name>Civitate A63</oc:name>
+        <oc:id>DB64CB62-A495-4D35-96CB-335168C23B2E</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/93033F15-2A78-4231-DA39-D1D948314691">
+        <oc:name>Civitate A64</oc:name>
+        <oc:id>93033F15-2A78-4231-DA39-D1D948314691</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/BEB23DAC-DF64-442A-E072-6F87930D7E6A">
+        <oc:name>Civitate A65</oc:name>
+        <oc:id>BEB23DAC-DF64-442A-E072-6F87930D7E6A</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/67231652-875D-4FAA-10C5-6F0B8ECFD6C0">
+        <oc:name>Civitate A66</oc:name>
+        <oc:id>67231652-875D-4FAA-10C5-6F0B8ECFD6C0</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/11D4FF91-61EF-4AD7-7248-1822F8070BDD">
+        <oc:name>Civitate A67</oc:name>
+        <oc:id>11D4FF91-61EF-4AD7-7248-1822F8070BDD</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3289B7C4-B132-4744-4F8F-79787B44096F">
+        <oc:name>Civitate A69</oc:name>
+        <oc:id>3289B7C4-B132-4744-4F8F-79787B44096F</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/840137CF-4723-470F-7D32-8FDDA9C3F0CA">
+        <oc:name>Civitate A7</oc:name>
+        <oc:id>840137CF-4723-470F-7D32-8FDDA9C3F0CA</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/50D5E83E-A2F9-4D48-C149-DB52A4E5CAE6">
+        <oc:name>Civitate A70</oc:name>
+        <oc:id>50D5E83E-A2F9-4D48-C149-DB52A4E5CAE6</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/646B9229-3513-4992-BADB-38A31976FA8E">
+        <oc:name>Civitate A8</oc:name>
+        <oc:id>646B9229-3513-4992-BADB-38A31976FA8E</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/BBE0DBFA-FB4B-4087-8995-D856EB3D06E6">
+        <oc:name>Civitate A9</oc:name>
+        <oc:id>BBE0DBFA-FB4B-4087-8995-D856EB3D06E6</oc:id>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Murlo: Civitate A (Area)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2012-12-29</dc:date>
+    <dc:subject>Iron Age</dc:subject>
+    <dc:subject>Etruscan</dc:subject>
+    <dc:subject>Settlement</dc:subject>
+    <dc:subject>Archaeology</dc:subject>
+    <dc:subject>Architecture</dc:subject>
+    <dc:subject>Economy</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/61D87033-881E-48B9-FF27-27337BBCDAA0">Anthony Tuck</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/2F130B0C-9796-4D51-E356-D06CAD022A3E</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F">Murlo</oc:project_name>
+    <oc:pub_date>2012-12-29T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Murlo%3A+Civitate+A+%28Area%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Iron+Age&amp;rft.subject=Etruscan&amp;rft.subject=Settlement&amp;rft.subject=Archaeology&amp;rft.subject=Architecture&amp;rft.subject=Economy&amp;rft.creator=Anthony+Tuck&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F2F130B0C-9796-4D51-E356-D06CAD022A3E</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>43.15389707157374</oc:geo_lat>
+      <oc:geo_long>11.399785329268493</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/2F130B0C-9796-4D51-E356-D06CAD022A3E">
+        <oc:source_name>Civitate A</oc:source_name>
+        <oc:source_id>2F130B0C-9796-4D51-E356-D06CAD022A3E</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2012-12-30T01:49:18-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2012/12/30 01:49:18</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(700 BCE - 535 BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-700</oc:time_start>
+          <oc:time_finish>-535</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/871B9EF8-BC68-4190-5F8A-00882C0040A4">
+            <oc:source_name>Poggio Civitate</oc:source_name>
+            <oc:source_id>871B9EF8-BC68-4190-5F8A-00882C0040A4</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2012-12-29T17:04:29-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="3AA9E720-0371-4443-5A40-5FE6A5E1DCAE" ownedBy="DF043419-F23B-41DA-7E4D-EE52AF22F92F">
+  <arch:name>
+    <arch:string>Tr-ID 584</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Excav. Unit</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/locus_lot_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_4_cdcef102c</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>2C7FE888-C431-4FBD-39F4-38B7D969A811</arch:variableID>
+          <arch:decimal>2007</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/C1AEF52A-3304-4B28-2A3E-6AC59D8B4942">C1AEF52A-3304-4B28-2A3E-6AC59D8B4942</oc:propid>
+          <oc:var_label type="decimal">Year</oc:var_label>
+          <oc:show_val>2007</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>EEF8F6D6-3BFC-4521-99DF-CCCE89EF21E1</arch:variableID>
+          <arch:valueID>44C0F8E8-73C2-42D3-4240-CB54019286FF</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/A7E0F1FD-D458-4C9F-A0FA-33B92CE497CF">A7E0F1FD-D458-4C9F-A0FA-33B92CE497CF</oc:propid>
+          <oc:var_label type="nominal">Grid system</oc:var_label>
+          <oc:show_val>MG</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F4D89190-EF01-480C-4627-4A309A5EB5C6</arch:variableID>
+          <arch:valueID>9CF5A435-7083-417F-2873-6331D1C95984</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/1A2B26D4-9D75-4D49-5F83-4DEBE1B66063">1A2B26D4-9D75-4D49-5F83-4DEBE1B66063</oc:propid>
+          <oc:var_label type="alphanumeric">Property owner</oc:var_label>
+          <oc:show_val>M</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="person" info="Director">61D87033-881E-48B9-FF27-27337BBCDAA0</arch:docID>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/61D87033-881E-48B9-FF27-27337BBCDAA0" cite="creator">
+            <oc:name>Anthony Tuck</oc:name>
+            <oc:id>61D87033-881E-48B9-FF27-27337BBCDAA0</oc:id>
+            <oc:relation>Director</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+              <p>The original Poggio Civitate Excavation Project database sometimes recorded subdivisions of excavation trenches. Each subdivision was identified with a unique key ("Trench ID"), and this key was used to relate other content to excavation trenches, even though these relationships were not made visible on the Poggio Civitate Excavation website (<a href="http://poggiocivitate.classics.umass.edu/">http://poggiocivitate.classics.umass.edu/</a>). The Open Context publication of these data makes the Trench IDs visible in case they should be analytically useful.</p>
+            </div>
+          </arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/B66A08F2-5D96-4DD4-1AB1-32880C9A8D9D">
+        <oc:name>Italy</oc:name>
+        <oc:id>B66A08F2-5D96-4DD4-1AB1-32880C9A8D9D</oc:id>
+        <oc:level>4</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/871B9EF8-BC68-4190-5F8A-00882C0040A4">
+        <oc:name>Poggio Civitate</oc:name>
+        <oc:id>871B9EF8-BC68-4190-5F8A-00882C0040A4</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/98A310A0-BADD-4663-24D7-A359A265D778">
+        <oc:name>Tesoro</oc:name>
+        <oc:id>98A310A0-BADD-4663-24D7-A359A265D778</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Area</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/operation_area_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/DDEEF52D-E100-4E2A-C893-B025A2F68B54">
+        <oc:name>Tesoro45</oc:name>
+        <oc:id>DDEEF52D-E100-4E2A-C893-B025A2F68B54</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Trench</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ex_square_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/A7E09B41-13A7-4487-EAB7-1FC55464C3FB">
+        <oc:name>PC 20070172</oc:name>
+        <oc:id>A7E09B41-13A7-4487-EAB7-1FC55464C3FB</oc:id>
+        <oc:item_class>
+          <oc:name>Glass</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/glass_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3C1CF001-45D6-4791-7AA0-8FE683FD4D17">
+        <oc:name>Bone PC-01392</oc:name>
+        <oc:id>3C1CF001-45D6-4791-7AA0-8FE683FD4D17</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Mandible</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5C7D1910-7FAF-46DF-C000-D748766B2F51">
+        <oc:name>Bone PC-01393</oc:name>
+        <oc:id>5C7D1910-7FAF-46DF-C000-D748766B2F51</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Tibia</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/511154BC-A104-45F2-ED5C-40D3B75B9F5C">
+        <oc:name>Bone PC-01394</oc:name>
+        <oc:id>511154BC-A104-45F2-ED5C-40D3B75B9F5C</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Tibia</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D5F84C1A-36D8-4F01-880E-19801C05AF73">
+        <oc:name>Bone PC-01395</oc:name>
+        <oc:id>D5F84C1A-36D8-4F01-880E-19801C05AF73</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Phalanx 1</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/09B34F94-35AB-4601-C950-BFE4C80912EC">
+        <oc:name>Bone PC-01396</oc:name>
+        <oc:id>09B34F94-35AB-4601-C950-BFE4C80912EC</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Vertebra, sacral</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/31EBC4DE-D45D-4F64-ABCA-68C96BB2F234">
+        <oc:name>Bone PC-01397</oc:name>
+        <oc:id>31EBC4DE-D45D-4F64-ABCA-68C96BB2F234</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Phalanx 2</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/75FA0329-DCD7-419B-D67A-E7372AC97A56">
+        <oc:name>Bone PC-01398</oc:name>
+        <oc:id>75FA0329-DCD7-419B-D67A-E7372AC97A56</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Vertebra, cervical</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2B6009D4-1696-4E69-170B-084CF36B045F">
+        <oc:name>Bone PC-01399</oc:name>
+        <oc:id>2B6009D4-1696-4E69-170B-084CF36B045F</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Tibia</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3D946A0B-53D3-4A9C-74B9-1ACC81579C1A">
+        <oc:name>Bone PC-01400</oc:name>
+        <oc:id>3D946A0B-53D3-4A9C-74B9-1ACC81579C1A</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Femur</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/AF4E9048-BE95-4E4A-33BF-0E92F5AAD624">
+        <oc:name>Bone PC-01401</oc:name>
+        <oc:id>AF4E9048-BE95-4E4A-33BF-0E92F5AAD624</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Mandibular tooth</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E0D32E09-0BFF-4026-D437-8695313FFB34">
+        <oc:name>Bone PC-01402</oc:name>
+        <oc:id>E0D32E09-0BFF-4026-D437-8695313FFB34</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Vertebra, cervical</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1C0D644A-3C40-4294-8864-CA6925FFFD03">
+        <oc:name>Bone PC-01403</oc:name>
+        <oc:id>1C0D644A-3C40-4294-8864-CA6925FFFD03</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Vertebra, lumbar</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/DF02FC48-F1E7-4BA8-CCF9-135FADD29D31">
+        <oc:name>Bone PC-01404</oc:name>
+        <oc:id>DF02FC48-F1E7-4BA8-CCF9-135FADD29D31</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Rib</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/23CFA860-1E14-45C0-2032-78A573CA7AAF">
+        <oc:name>Bone PC-01405</oc:name>
+        <oc:id>23CFA860-1E14-45C0-2032-78A573CA7AAF</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Vertebra, lumbar</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/0B0C602E-0F73-4C60-7368-F7D45386EE2D">
+        <oc:name>Bone PC-01406</oc:name>
+        <oc:id>0B0C602E-0F73-4C60-7368-F7D45386EE2D</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Scapula</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/CF1C3F6C-4DCF-4C08-476A-CEA1C7BFCF29">
+        <oc:name>Bone PC-01407</oc:name>
+        <oc:id>CF1C3F6C-4DCF-4C08-476A-CEA1C7BFCF29</oc:id>
+        <oc:item_class>
+          <oc:name>Animal Bone</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/animal_bone_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Pelvis</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/885ABDA4-70EC-494B-1ABE-0C4AF49DCFE6">
+        <oc:name>PC 20070001</oc:name>
+        <oc:id>885ABDA4-70EC-494B-1ABE-0C4AF49DCFE6</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Textile Related::Spindle Whorl</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2E4B1B67-1F74-4317-A0F3-FFFE89195FF1">
+        <oc:name>PC 20070015</oc:name>
+        <oc:id>2E4B1B67-1F74-4317-A0F3-FFFE89195FF1</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Production Material::Ingot</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/ABCAE4B8-C992-4AE9-7551-D953E96E0B73">
+        <oc:name>PC 20070024</oc:name>
+        <oc:id>ABCAE4B8-C992-4AE9-7551-D953E96E0B73</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Pyrotech Related::Crucible</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/CED5051E-3311-4BC4-4758-466BC455408B">
+        <oc:name>PC 20070045</oc:name>
+        <oc:id>CED5051E-3311-4BC4-4758-466BC455408B</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Fastener::Nail / Tack</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/33B68EB6-A4CE-40B4-83AD-D82EEC757ABC">
+        <oc:name>PC 20070058</oc:name>
+        <oc:id>33B68EB6-A4CE-40B4-83AD-D82EEC757ABC</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Production Material::Worked Bone</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/15B784F0-73A5-4D63-3B8E-1CC83B639078">
+        <oc:name>PC 20070063</oc:name>
+        <oc:id>15B784F0-73A5-4D63-3B8E-1CC83B639078</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Textile Related::Spindle Whorl</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/01224181-0F8E-4D34-8A17-7958193EDAC6">
+        <oc:name>PC 20070075</oc:name>
+        <oc:id>01224181-0F8E-4D34-8A17-7958193EDAC6</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Organic (ecofact)</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F73FFDB8-C09A-46AF-52BC-E94D9B9AF0E5">
+        <oc:name>PC 20070077</oc:name>
+        <oc:id>F73FFDB8-C09A-46AF-52BC-E94D9B9AF0E5</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Production Material::Worked Bone</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/36280492-E795-4E92-F488-BBB11B8620B4">
+        <oc:name>PC 20070078</oc:name>
+        <oc:id>36280492-E795-4E92-F488-BBB11B8620B4</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Textile Related::Rocchetto</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D95E2B29-4EED-4E09-A139-69DA9BA6B529">
+        <oc:name>PC 20070081</oc:name>
+        <oc:id>D95E2B29-4EED-4E09-A139-69DA9BA6B529</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Textile Related::Rocchetto</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/8044EC10-AA58-4F2B-84C0-E5E98D9D6304">
+        <oc:name>PC 20070090</oc:name>
+        <oc:id>8044EC10-AA58-4F2B-84C0-E5E98D9D6304</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Textile Related::Loom Weight</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4F740B9C-89B8-4282-8F61-4B5FA33459FF">
+        <oc:name>PC 20070093</oc:name>
+        <oc:id>4F740B9C-89B8-4282-8F61-4B5FA33459FF</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Textile Related::Rocchetto</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/758D32BB-D047-4CF8-4E72-0B7D18807405">
+        <oc:name>PC 20070114</oc:name>
+        <oc:id>758D32BB-D047-4CF8-4E72-0B7D18807405</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Textile Related::Rocchetto</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6DCCED5E-7768-4011-33D7-8552A478F37F">
+        <oc:name>PC 20070117</oc:name>
+        <oc:id>6DCCED5E-7768-4011-33D7-8552A478F37F</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Textile Related::Rocchetto</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/31B0BD99-5BDD-4C06-7788-F862B047E614">
+        <oc:name>PC 20070118</oc:name>
+        <oc:id>31B0BD99-5BDD-4C06-7788-F862B047E614</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Textile Related::Rocchetto</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B414299B-B577-4E95-C7BA-852A20253DC3">
+        <oc:name>PC 20070140</oc:name>
+        <oc:id>B414299B-B577-4E95-C7BA-852A20253DC3</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Production Material::Worked Bone</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C6C54019-8FB3-49AA-6834-C237CB3AEB4C">
+        <oc:name>PC 20070142</oc:name>
+        <oc:id>C6C54019-8FB3-49AA-6834-C237CB3AEB4C</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Textile Related::Spindle Whorl</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C18B4E81-C936-4043-EB9A-9ED9D8F79807">
+        <oc:name>PC 20070148</oc:name>
+        <oc:id>C18B4E81-C936-4043-EB9A-9ED9D8F79807</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Shaped Object::Ribbon / Strip</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B8BDD859-A440-43B1-621D-1A0FCB2BC1BE">
+        <oc:name>PC 20070161</oc:name>
+        <oc:id>B8BDD859-A440-43B1-621D-1A0FCB2BC1BE</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Textile Related::Rocchetto</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D988CD9E-44B9-4666-9D26-A9BCFBD5A57D">
+        <oc:name>PC 20070200</oc:name>
+        <oc:id>D988CD9E-44B9-4666-9D26-A9BCFBD5A57D</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Production Material::Worked Antler</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2327420E-5DA9-40BB-5551-54F1108489F2">
+        <oc:name>PC 20070203</oc:name>
+        <oc:id>2327420E-5DA9-40BB-5551-54F1108489F2</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Fastener::Pin</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C81914FA-75D0-48C6-CD4B-CA1FD213CEB7">
+        <oc:name>PC 20070213</oc:name>
+        <oc:id>C81914FA-75D0-48C6-CD4B-CA1FD213CEB7</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Textile Related::Rocchetto</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C2E2112C-E354-4CFC-870F-7098808312A8">
+        <oc:name>PC 20070215</oc:name>
+        <oc:id>C2E2112C-E354-4CFC-870F-7098808312A8</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Textile Related::Spindle Whorl</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/464F68A1-46E2-406B-418F-82D2DC817450">
+        <oc:name>PC 20070217</oc:name>
+        <oc:id>464F68A1-46E2-406B-418F-82D2DC817450</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Fastener::Tack</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5BF8BADC-F4EE-4904-D415-C4D41CE96A27">
+        <oc:name>PC 20070228</oc:name>
+        <oc:id>5BF8BADC-F4EE-4904-D415-C4D41CE96A27</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Unclassified / Debris / Misc.</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/EA6E0070-0353-4D04-97F3-91AF8FC980D8">
+        <oc:name>PC 20070241</oc:name>
+        <oc:id>EA6E0070-0353-4D04-97F3-91AF8FC980D8</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Production Material::Worked Bone</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E874A60D-DC0E-4A91-7B3C-DB41F36D2B67">
+        <oc:name>PC 20070244</oc:name>
+        <oc:id>E874A60D-DC0E-4A91-7B3C-DB41F36D2B67</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Textile Related::Rocchetto</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/673B4B45-069E-4409-EB48-DE2D832B9636">
+        <oc:name>PC 20070249</oc:name>
+        <oc:id>673B4B45-069E-4409-EB48-DE2D832B9636</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Fastener::Tack</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5D5A9B96-5E74-45F2-70CA-92560210E771">
+        <oc:name>PC 20070254</oc:name>
+        <oc:id>5D5A9B96-5E74-45F2-70CA-92560210E771</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Textile Related::Rocchetto</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/32F3E200-2A31-45FF-EC35-D321B63006F8">
+        <oc:name>PC 20070260</oc:name>
+        <oc:id>32F3E200-2A31-45FF-EC35-D321B63006F8</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Unclassified / Debris / Misc.</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/690A36CF-7E60-4A7A-99F4-89BD26B86006">
+        <oc:name>PC 20070265</oc:name>
+        <oc:id>690A36CF-7E60-4A7A-99F4-89BD26B86006</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Unclassified / Debris / Misc.</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/25122B0A-01B4-411B-0BEE-3B13846C7E09">
+        <oc:name>PC 20070270</oc:name>
+        <oc:id>25122B0A-01B4-411B-0BEE-3B13846C7E09</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Unclassified / Debris / Misc.</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F766DBEB-5A5A-4DC7-4434-43EA875551A3">
+        <oc:name>PC 20070275</oc:name>
+        <oc:id>F766DBEB-5A5A-4DC7-4434-43EA875551A3</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Textile Related::Rocchetto</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/32F5C956-4783-44FB-613D-C73A91453B5E">
+        <oc:name>PC 20070277</oc:name>
+        <oc:id>32F5C956-4783-44FB-613D-C73A91453B5E</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Textile Related::Rocchetto</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A67FAB8D-2C98-4D6F-F961-39DE67BAD60B">
+        <oc:name>PC 20070279</oc:name>
+        <oc:id>A67FAB8D-2C98-4D6F-F961-39DE67BAD60B</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Textile Related::Spindle Whorl</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A516D9B9-49F3-495E-794D-A0C7BB3B4C80">
+        <oc:name>PC 20070281</oc:name>
+        <oc:id>A516D9B9-49F3-495E-794D-A0C7BB3B4C80</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Textile Related::Spindle Whorl</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A31E25F7-9634-4B68-B47F-69561DEE2EAA">
+        <oc:name>PC 20070288</oc:name>
+        <oc:id>A31E25F7-9634-4B68-B47F-69561DEE2EAA</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Textile Related::Rocchetto</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/591B742E-9507-4787-4B3E-9AA21DBC53BC">
+        <oc:name>PC 20070302</oc:name>
+        <oc:id>591B742E-9507-4787-4B3E-9AA21DBC53BC</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Textile Related::Spindle Whorl</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/DAC91069-4B25-41D2-5099-D8BE5A43CEA5">
+        <oc:name>PC 20070303</oc:name>
+        <oc:id>DAC91069-4B25-41D2-5099-D8BE5A43CEA5</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Textile Related::Spindle Whorl</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4F350434-AB4A-4A74-F129-674F66A36663">
+        <oc:name>PC 20070318</oc:name>
+        <oc:id>4F350434-AB4A-4A74-F129-674F66A36663</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Textile Related::Spindle Whorl</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B94AB7DC-37FA-453E-878C-B52798686059">
+        <oc:name>PC 20070322</oc:name>
+        <oc:id>B94AB7DC-37FA-453E-878C-B52798686059</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Textile Related::Spindle Whorl</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C15FD883-A653-4454-1B96-9FBFBD19213E">
+        <oc:name>PC 20070323</oc:name>
+        <oc:id>C15FD883-A653-4454-1B96-9FBFBD19213E</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Textile Related::Rocchetto</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/EC3444B7-18FC-4BDA-8BA9-1572545CA23C">
+        <oc:name>PC 20070324</oc:name>
+        <oc:id>EC3444B7-18FC-4BDA-8BA9-1572545CA23C</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Production Material::Worked Antler</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E7DF45DD-A267-4CD8-175C-286EAD405725">
+        <oc:name>PC 20070346</oc:name>
+        <oc:id>E7DF45DD-A267-4CD8-175C-286EAD405725</oc:id>
+        <oc:item_class>
+          <oc:name>Objects</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/small_finds_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Costume, Accessories::Bead</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/458D32EA-9A5D-412E-9810-1A68EB10B4FE">
+        <oc:name>PC 20070018</oc:name>
+        <oc:id>458D32EA-9A5D-412E-9810-1A68EB10B4FE</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/04FA7D78-1279-4A2A-B5DD-312C19F3ABA1">
+        <oc:name>PC 20070076</oc:name>
+        <oc:id>04FA7D78-1279-4A2A-B5DD-312C19F3ABA1</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/63C5E721-E197-4DB7-D1D6-F4D2B41B55E6">
+        <oc:name>PC 20070101</oc:name>
+        <oc:id>63C5E721-E197-4DB7-D1D6-F4D2B41B55E6</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1D42577D-697A-4E4C-CE57-5B539C1C7972">
+        <oc:name>PC 20070123</oc:name>
+        <oc:id>1D42577D-697A-4E4C-CE57-5B539C1C7972</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6FAFFE2A-05E4-4A9A-62A6-16221B57D699">
+        <oc:name>PC 20070149</oc:name>
+        <oc:id>6FAFFE2A-05E4-4A9A-62A6-16221B57D699</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Oinochoe</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/C30C5AB4-00BA-4D7D-DEB7-8E754CC12195">
+        <oc:name>PC 20070157</oc:name>
+        <oc:id>C30C5AB4-00BA-4D7D-DEB7-8E754CC12195</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F1887518-B9EF-41D5-2684-48BE91146BBA">
+        <oc:name>PC 20070168</oc:name>
+        <oc:id>F1887518-B9EF-41D5-2684-48BE91146BBA</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/548B15B4-3388-455E-0154-D1C6CB8B8A68">
+        <oc:name>PC 20070173</oc:name>
+        <oc:id>548B15B4-3388-455E-0154-D1C6CB8B8A68</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/37F299FC-7F61-4144-9C03-DCE92383ADC9">
+        <oc:name>PC 20070184</oc:name>
+        <oc:id>37F299FC-7F61-4144-9C03-DCE92383ADC9</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/45F9511D-84BC-408B-FCC4-DC8706E97F6C">
+        <oc:name>PC 20070198</oc:name>
+        <oc:id>45F9511D-84BC-408B-FCC4-DC8706E97F6C</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/339CEA28-5956-47CC-F8E8-5C9DBAC2C6DE">
+        <oc:name>PC 20070201</oc:name>
+        <oc:id>339CEA28-5956-47CC-F8E8-5C9DBAC2C6DE</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6B787BBD-DF36-439E-D91D-F97A0273B405">
+        <oc:name>PC 20070205</oc:name>
+        <oc:id>6B787BBD-DF36-439E-D91D-F97A0273B405</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/BB9AD0A6-9595-49CE-193A-88D093AE8EC8">
+        <oc:name>PC 20070206</oc:name>
+        <oc:id>BB9AD0A6-9595-49CE-193A-88D093AE8EC8</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F3A8C6D3-82D3-4470-74E0-F7182C90E001">
+        <oc:name>PC 20070207</oc:name>
+        <oc:id>F3A8C6D3-82D3-4470-74E0-F7182C90E001</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/06C30C1E-9CFD-4742-5313-56B60F944809">
+        <oc:name>PC 20070237</oc:name>
+        <oc:id>06C30C1E-9CFD-4742-5313-56B60F944809</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Plate</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/8C8295DF-FC3A-45A3-A66D-7494E483799E">
+        <oc:name>PC 20070256</oc:name>
+        <oc:id>8C8295DF-FC3A-45A3-A66D-7494E483799E</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/52A0DD64-A10B-4C93-788C-BE043078F274">
+        <oc:name>PC 20070263</oc:name>
+        <oc:id>52A0DD64-A10B-4C93-788C-BE043078F274</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E5BC0ADB-4FAD-4FF9-9DF6-DA5BA1F105CD">
+        <oc:name>PC 20070272</oc:name>
+        <oc:id>E5BC0ADB-4FAD-4FF9-9DF6-DA5BA1F105CD</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/27FEBBD2-FCB6-4697-D128-4D94646C07DC">
+        <oc:name>PC 20070273</oc:name>
+        <oc:id>27FEBBD2-FCB6-4697-D128-4D94646C07DC</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A112DAEA-6ABB-4E7D-E63A-72A4412B296B">
+        <oc:name>PC 20070283</oc:name>
+        <oc:id>A112DAEA-6ABB-4E7D-E63A-72A4412B296B</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/42D22D1D-102C-41D7-BB35-A1422CC8618C">
+        <oc:name>PC 20070285</oc:name>
+        <oc:id>42D22D1D-102C-41D7-BB35-A1422CC8618C</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/17695715-1071-4F6B-26CF-D369AE659645">
+        <oc:name>PC 20070291</oc:name>
+        <oc:id>17695715-1071-4F6B-26CF-D369AE659645</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B64DDC6D-0B6E-4110-6AA0-A5AF65446BD1">
+        <oc:name>PC 20070293</oc:name>
+        <oc:id>B64DDC6D-0B6E-4110-6AA0-A5AF65446BD1</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1CA162CC-C2D7-4C88-568C-E90AAA067839">
+        <oc:name>PC 20070294</oc:name>
+        <oc:id>1CA162CC-C2D7-4C88-568C-E90AAA067839</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D8567F43-16BF-400E-476C-71AF76651022">
+        <oc:name>PC 20070300</oc:name>
+        <oc:id>D8567F43-16BF-400E-476C-71AF76651022</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/A348AD7D-6B0C-4CBF-B6A6-B6208F1BDFE9">
+        <oc:name>PC 20070301</oc:name>
+        <oc:id>A348AD7D-6B0C-4CBF-B6A6-B6208F1BDFE9</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Form unspecified</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F8A3EB8D-DBF6-4CDF-4A56-F35010B40CBC">
+        <oc:name>PC 20070329</oc:name>
+        <oc:id>F8A3EB8D-DBF6-4CDF-4A56-F35010B40CBC</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Oinochoe</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/67914537-218D-4454-4FF3-A528FDF71F1B">
+        <oc:name>PC 20070008</oc:name>
+        <oc:id>67914537-218D-4454-4FF3-A528FDF71F1B</oc:id>
+        <oc:item_class>
+          <oc:name>Arch. Element</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/arch_element_petra_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Architectural::Ridge Pole Tile</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/5F116DED-F7F7-45F9-87BF-51C94F0C378F">
+        <oc:name>PC 20070023</oc:name>
+        <oc:id>5F116DED-F7F7-45F9-87BF-51C94F0C378F</oc:id>
+        <oc:item_class>
+          <oc:name>Arch. Element</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/arch_element_petra_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Architectural::Cavetto</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/89D89FAA-CFA1-4D3C-A3BE-2CA3BDA2CF81">
+        <oc:name>PC 20070025</oc:name>
+        <oc:id>89D89FAA-CFA1-4D3C-A3BE-2CA3BDA2CF81</oc:id>
+        <oc:item_class>
+          <oc:name>Arch. Element</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/arch_element_petra_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Architectural::Unspecified / Misc.</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/3B169B68-617E-4B45-344F-BBBC8F8075F4">
+        <oc:name>PC 20070027</oc:name>
+        <oc:id>3B169B68-617E-4B45-344F-BBBC8F8075F4</oc:id>
+        <oc:item_class>
+          <oc:name>Arch. Element</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/arch_element_petra_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Architectural::Water Spout</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/12C8C69C-7482-464E-0296-18E55471E795">
+        <oc:name>PC 20070028</oc:name>
+        <oc:id>12C8C69C-7482-464E-0296-18E55471E795</oc:id>
+        <oc:item_class>
+          <oc:name>Arch. Element</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/arch_element_petra_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Architectural::Sima Cavetto</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/09C0224E-6C79-43EC-E1E2-CCEBB7083340">
+        <oc:name>PC 20070032</oc:name>
+        <oc:id>09C0224E-6C79-43EC-E1E2-CCEBB7083340</oc:id>
+        <oc:item_class>
+          <oc:name>Arch. Element</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/arch_element_petra_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Architectural::Water Spout</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/0CB2E505-1CE0-4DA4-0FEB-BA258EC50D3E">
+        <oc:name>PC 20070035</oc:name>
+        <oc:id>0CB2E505-1CE0-4DA4-0FEB-BA258EC50D3E</oc:id>
+        <oc:item_class>
+          <oc:name>Arch. Element</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/arch_element_petra_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Architectural::Akroterion</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/F19CC0B0-EEA5-42AF-E178-E11DCDB2D2FB">
+        <oc:name>PC 20070038</oc:name>
+        <oc:id>F19CC0B0-EEA5-42AF-E178-E11DCDB2D2FB</oc:id>
+        <oc:item_class>
+          <oc:name>Arch. Element</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/arch_element_petra_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Architectural::Ridge Pole Tile</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/84612658-55D7-4AD9-4A6A-8319B1176834">
+        <oc:name>PC 20070052</oc:name>
+        <oc:id>84612658-55D7-4AD9-4A6A-8319B1176834</oc:id>
+        <oc:item_class>
+          <oc:name>Arch. Element</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/arch_element_petra_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Architectural::Frieze Plaque</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E3B49456-7F98-4E5C-FE63-4EA1F9911977">
+        <oc:name>PC 20070059</oc:name>
+        <oc:id>E3B49456-7F98-4E5C-FE63-4EA1F9911977</oc:id>
+        <oc:item_class>
+          <oc:name>Arch. Element</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/arch_element_petra_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Architectural::Lateral Sima</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/AA1DD1AB-AEBE-4F30-E3E4-BD0FC33CE22F">
+        <oc:name>PC 20070060</oc:name>
+        <oc:id>AA1DD1AB-AEBE-4F30-E3E4-BD0FC33CE22F</oc:id>
+        <oc:item_class>
+          <oc:name>Arch. Element</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/arch_element_petra_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Architectural::Akroterion</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E79A258B-C41F-4F10-2B96-3672BA3B7802">
+        <oc:name>PC 20070062</oc:name>
+        <oc:id>E79A258B-C41F-4F10-2B96-3672BA3B7802</oc:id>
+        <oc:item_class>
+          <oc:name>Arch. Element</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/arch_element_petra_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Architectural::Sima Cavetto</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/7B75565F-61DB-4B76-440E-8C4D816B0EB9">
+        <oc:name>PC 20070070</oc:name>
+        <oc:id>7B75565F-61DB-4B76-440E-8C4D816B0EB9</oc:id>
+        <oc:item_class>
+          <oc:name>Arch. Element</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/arch_element_petra_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Architectural::Sima</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/CC465CAB-84C9-48A3-5A7F-740C2798B27E">
+        <oc:name>PC 20070094</oc:name>
+        <oc:id>CC465CAB-84C9-48A3-5A7F-740C2798B27E</oc:id>
+        <oc:item_class>
+          <oc:name>Arch. Element</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/arch_element_petra_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Architectural::Frieze Plaque</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/32D25EFE-4970-4E87-8F70-25355AFD01BC">
+        <oc:name>PC 20070095</oc:name>
+        <oc:id>32D25EFE-4970-4E87-8F70-25355AFD01BC</oc:id>
+        <oc:item_class>
+          <oc:name>Arch. Element</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/arch_element_petra_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Architectural::Frieze Plaque</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/00304F76-81D7-4B3A-661D-B27C0D5E519A">
+        <oc:name>PC 20070100</oc:name>
+        <oc:id>00304F76-81D7-4B3A-661D-B27C0D5E519A</oc:id>
+        <oc:item_class>
+          <oc:name>Arch. Element</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/arch_element_petra_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Architectural::Cavetto</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B1E74333-4B77-413B-1BC9-3AFC0545C283">
+        <oc:name>PC 20070103</oc:name>
+        <oc:id>B1E74333-4B77-413B-1BC9-3AFC0545C283</oc:id>
+        <oc:item_class>
+          <oc:name>Arch. Element</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/arch_element_petra_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Architectural::Frieze Plaque</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/46E0C348-F3B4-4071-B108-C589A71B7C06">
+        <oc:name>PC 20070155</oc:name>
+        <oc:id>46E0C348-F3B4-4071-B108-C589A71B7C06</oc:id>
+        <oc:item_class>
+          <oc:name>Arch. Element</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/arch_element_petra_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Architectural::Cover Tile</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/747B1633-E423-4EEB-75A1-FE259709E8EA">
+        <oc:name>PC 20070299</oc:name>
+        <oc:id>747B1633-E423-4EEB-75A1-FE259709E8EA</oc:id>
+        <oc:item_class>
+          <oc:name>Arch. Element</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/arch_element_petra_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Architectural::Cavetto</oc:descriptor>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/614EB2BF-1458-4062-82E0-607ED0C1325F">
+        <oc:name>PC 20070342</oc:name>
+        <oc:id>614EB2BF-1458-4062-82E0-607ED0C1325F</oc:id>
+        <oc:item_class>
+          <oc:name>Arch. Element</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/arch_element_petra_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:descriptor>Architectural::Frieze Plaque</oc:descriptor>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Murlo: Tr-ID 584 (Excav. Unit)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2012-12-29</dc:date>
+    <dc:subject>Iron Age</dc:subject>
+    <dc:subject>Etruscan</dc:subject>
+    <dc:subject>Settlement</dc:subject>
+    <dc:subject>Archaeology</dc:subject>
+    <dc:subject>Architecture</dc:subject>
+    <dc:subject>Economy</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/61D87033-881E-48B9-FF27-27337BBCDAA0">Anthony Tuck</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/3AA9E720-0371-4443-5A40-5FE6A5E1DCAE</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/DF043419-F23B-41DA-7E4D-EE52AF22F92F">Murlo</oc:project_name>
+    <oc:pub_date>2012-12-29T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Murlo%3A+Tr-ID+584+%28Excav.+Unit%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Iron+Age&amp;rft.subject=Etruscan&amp;rft.subject=Settlement&amp;rft.subject=Archaeology&amp;rft.subject=Architecture&amp;rft.subject=Economy&amp;rft.creator=Anthony+Tuck&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F3AA9E720-0371-4443-5A40-5FE6A5E1DCAE</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>43.1567684174</oc:geo_lat>
+      <oc:geo_long>11.3988079074</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/3AA9E720-0371-4443-5A40-5FE6A5E1DCAE">
+        <oc:source_name>Tr-ID 584</oc:source_name>
+        <oc:source_id>3AA9E720-0371-4443-5A40-5FE6A5E1DCAE</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2012-12-30T01:46:44-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2012/12/30 01:46:44</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(700 BCE - 535 BCE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>-700</oc:time_start>
+          <oc:time_finish>-535</oc:time_finish>
+          <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/871B9EF8-BC68-4190-5F8A-00882C0040A4">
+            <oc:source_name>Poggio Civitate</oc:source_name>
+            <oc:source_id>871B9EF8-BC68-4190-5F8A-00882C0040A4</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2012-12-29T17:04:29-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>
